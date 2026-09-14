@@ -30,12 +30,16 @@ DATA.mkdir(exist_ok=True)
 TZ = timezone(timedelta(hours=8))
 
 # 站点配置： key, 显示名, 类型, URL, 紫鸟店铺ID
+#
+# ⚠️ 店铺选择有讲究：**公开政策页要用「没有该站点登录态」的店铺去取**。
+#    实测：用有 DE 登录态的店铺取 DE 公开页，会被重定向到登录版帮助中心、正文取不到；
+#    改用只有 AE 登录态的店铺（SC-AE）即可正常拿到公开版正文。故 DE 走 SC-AE。
 SITES = [
     ("US", "美国站",   "seller-news", "https://sellercentral.amazon.com/seller-news/articles",            "16395388697429"),
     ("JP", "日本站",   "seller-news", "https://sellercentral-japan.amazon.com/seller-news/articles",      "16395388697429"),
     ("AE", "阿联酋站", "seller-news", "https://sellercentral.amazon.ae/seller-news/articles",             "27151611622883"),
     ("UK", "英国站",   "policy",      "https://sellercentral.amazon.co.uk/help/hub/reference/external/GQHQGBTD7XB7EECN", "16395388697429"),
-    ("DE", "德国站",   "policy",      "https://sellercentral.amazon.de/help/hub/reference/external/GQHQGBTD7XB7EECN",    "16395388697429"),
+    ("DE", "德国站",   "policy",      "https://sellercentral.amazon.de/help/hub/reference/external/GQHQGBTD7XB7EECN",    "27151611622883"),
     ("AU", "澳洲站",   "policy",      "https://sellercentral.amazon.com.au/help/hub/reference/external/GQHQGBTD7XB7EECN", "16395388697429"),
 ]
 
@@ -69,18 +73,20 @@ def js(store_id, script, timeout=240):
 
 
 def iso_date(s):
-    """把 'Sep 11, 2026' / '2026年9月10日' / '27 July 2026' 归一为 ISO。"""
+    """把 'Sep 11, 2026' / '2026年9月10日'(可含空格) / '27 July 2026' 归一为 ISO。"""
     if not s:
         return ""
+    s = s.strip()
+    # 中文日期 —— 允许 "2026 年 9 月 29 日" 这种带空格的写法
+    m = re.match(r"^(\d{4})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日$", s)
+    if m:
+        return "%s-%02d-%02d" % (m.group(1), int(m.group(2)), int(m.group(3)))
     m = re.match(r"^([A-Z][a-z]{2})\s+(\d{1,2}),\s+(\d{4})$", s)
     if m and m.group(1) in MON:
         return "%s-%02d-%02d" % (m.group(3), MON[m.group(1)], int(m.group(2)))
-    m = re.match(r"^(\d{4})年(\d{1,2})月(\d{1,2})日$", s)
+    m = re.match(r"^(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$", s)
     if m:
-        return "%s-%02d-%02d" % (m.group(1), int(m.group(2)), int(m.group(3)))
-    m = re.match(r"^(\d{1,2})\s+([A-Z][a-z]+)\s+(\d{4})$", s)
-    if m:
-        mon = m.group(2)[:3]
+        mon = m.group(2)[:3].capitalize()
         if mon in MON:
             return "%s-%02d-%02d" % (m.group(3), MON[mon], int(m.group(1)))
     return ""
@@ -107,14 +113,14 @@ def fetch_seller_news(store, url):
     time.sleep(9)
     path = js(store, "location.pathname") or ""
     if "signin" in path:
-        return None, "需要登录（跳转到 %s）" % path
+        return None, "需要登录（跳转到 %s）" % path, ""
     raw = js(store, CARD_JS)
     if not raw:
-        return None, "未取到文章列表（path=%s）" % path
+        return None, "未取到文章列表（path=%s）" % path, ""
     try:
         cards = json.loads(raw)
     except Exception as e:
-        return None, "JSON 解析失败: %s" % e
+        return None, "JSON 解析失败: %s" % e, ""
     # 用页面全文补日期
     body = js(store, "document.body.innerText.replace(/\\n{2,}/g,'\\n')") or ""
     lines = [l.strip() for l in body.split("\n")]
@@ -138,8 +144,8 @@ def fetch_seller_news(store, url):
         arts.append({"headline": head, "date": date, "date_iso": iso_date(date),
                      "summary": body_txt[:1200], "id": c["id"]})
     if not arts:
-        return None, "解析后 0 条"
-    return arts, None
+        return None, "解析后 0 条", body
+    return arts, None, body
 
 
 # ---------------------------------------------------------------- 政策变更页
@@ -159,24 +165,33 @@ def fetch_policy(store, url):
     body = js(store, POLICY_JS)
     if not body:
         path = js(store, "location.pathname") or "?"
-        return None, "未取到政策正文（path=%s，可能被重定向到登录版）" % path
+        return None, "未取到政策正文（path=%s，可能被重定向到登录版）" % path, ""
     lines = [l.strip() for l in body.split("\n")]
-    starts = [i for i, l in enumerate(lines)
-              if re.match(r"^(On|Effective as of|Effective from|Effective)\s+\d{1,2}\s+[A-Za-z]+\s*,?\s*\d{4}", l)]
+    # 该页会按账号语言渲染成英文或中文，两种日期写法都要支持：
+    #   英文：On 29 September 2026, we are updating… / Effective as of 20 August 2026, …
+    #   中文：2026 年 9 月 29 日，我们将更新…
+    EN_START = re.compile(r"^(?:On|Effective as of|Effective from|Effective)\s+\d{1,2}\s+[A-Za-z]+,?\s*\d{4}")
+    CN_START = re.compile(r"^\d{4}\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日\s*[，,、]")
+    EN_DATE = re.compile(r"^(?:On|Effective as of|Effective from|Effective)\s+(\d{1,2}\s+[A-Za-z]+,?\s*\d{4})")
+    CN_DATE = re.compile(r"^(\d{4}\s*年\s*\d{1,2}\s*月\s*\d{1,2}\s*日)")
+
+    starts = [i for i, l in enumerate(lines) if EN_START.match(l) or CN_START.match(l)]
     arts = []
     for i in starts:
-        m = re.match(r"^(?:On|Effective as of|Effective from|Effective)\s+(\d{1,2}\s+[A-Za-z]+,?\s*\d{4})", lines[i])
-        date = m.group(1).replace(",", "") if m else ""
+        m = EN_DATE.match(lines[i]) or CN_DATE.match(lines[i])
+        # 保留可读的日期文本（仅去逗号、压缩多余空白）；ISO 转换交给 iso_date，
+        # 注意**不能去掉空格** —— 否则 "28 September 2026" 会变成 "28September2026" 导致解析失败
+        date = re.sub(r"\s+", " ", (m.group(1) if m else "").replace(",", "")).strip()
         title = ""
         for j in range(i - 1, max(0, i - 6), -1):
-            if lines[j] and len(lines[j]) < 120 and not lines[j].endswith("."):
+            if lines[j] and len(lines[j]) < 120 and not lines[j].endswith((".", "。")):
                 title = lines[j]
                 break
         arts.append({"headline": title or "(未识别标题)", "date": date, "date_iso": iso_date(date),
                      "summary": " ".join(lines[i:i + 8])[:1200], "id": ""})
     if not arts:
-        return None, "页面上未找到政策变更条目"
-    return arts, None
+        return None, "页面上未找到政策变更条目", body
+    return arts, None, body
 
 
 # ---------------------------------------------------------------- ZClaw 就绪检查
@@ -221,25 +236,32 @@ def main():
     status["ready"] = True
     sites = {}
     failures = 0
+    # 原始页面证据留存：每次运行按日期存档各站点原始正文，便于事后复核与解析器回归
+    rawdir = DATA / "raw" / now.strftime("%Y-%m-%d")
+    rawdir.mkdir(parents=True, exist_ok=True)
     for key, label, kind, url, store in SITES:
         log("[%s] %s" % (key, url))
         try:
-            arts, err = (fetch_seller_news(store, url) if kind == "seller-news"
-                         else fetch_policy(store, url))
+            arts, err, raw_body = (fetch_seller_news(store, url) if kind == "seller-news"
+                                   else fetch_policy(store, url))
         except Exception as e:
-            arts, err = None, "异常: %s" % e
+            arts, err, raw_body = None, "异常: %s" % e, ""
+        if raw_body:
+            (rawdir / ("%s.txt" % key)).write_text(raw_body, encoding="utf-8")
         if arts:
             sites[key] = {"label": label, "kind": kind, "url": url, "ok": True,
                           "fetched_at": now.isoformat(), "stale": False,
-                          "count": len(arts), "articles": arts}
-            log("     ✓ %d 条" % len(arts))
+                          "count": len(arts), "articles": arts,
+                          "raw": str((rawdir / ("%s.txt" % key)).relative_to(ROOT)) if raw_body else ""}
+            log("     ✓ %d 条（原始正文 %d 字已存档）" % (len(arts), len(raw_body)))
         else:
             failures += 1
             old = prev.get(key) or {}
             sites[key] = {"label": label, "kind": kind, "url": url, "ok": False,
                           "fetched_at": now.isoformat(), "stale": bool(old.get("articles")),
                           "error": err, "count": old.get("count", 0),
-                          "articles": old.get("articles", [])}
+                          "articles": old.get("articles", []),
+                          "raw": old.get("raw", "")}
             log("     ✗ %s（%s）" % (err, "沿用上次数据" if old.get("articles") else "无历史数据"))
         status["sites"][key] = {"ok": sites[key]["ok"], "count": sites[key]["count"],
                                 "error": sites[key].get("error"), "stale": sites[key]["stale"]}

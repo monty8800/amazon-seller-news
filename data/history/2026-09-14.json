@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:37:17.345284+08:00",
+  "generated_at": "2026-09-14T20:46:25.670216+08:00",
   "date": "2026-09-14",
   "sites": {
     "US": {
@@ -7,7 +7,7 @@
       "kind": "seller-news",
       "url": "https://sellercentral.amazon.com/seller-news/articles",
       "ok": true,
-      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
+      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -81,14 +81,15 @@
           "summary": "Starting August 31, 2026, you can create exclusive, limited-time deals for business customers through Amazon Business Deals. This feature is available in the US, Canada, UK, Germany, France, Italy, Spain, Japan, Mexico, and Australia. With Amazon Business Deals, you can offer exclusive business-to-business (B2B) discounts for durations from one hour to 30 days. Choose between Fixed Price or Percent Off promotions. During major shopping events like Prime Big Deal Days, Black Friday, and other events, your deals may receive enhanced visibility through dedicated email and push notification campaigns at no additional cost until December 31, 2026. Your products must have a 3.5+ star rating, be in new condition, and meet pricing and seller performance requirements to be eligible. Deals must also meet minimum discount requirements of at least 10% off for regular deals and 15% for High Velocity Event deals such as Prime Big Deal Days, Black Friday and Cyber Monday. By participating, you can reach over 11 million registered business organizations globally, gain greater visibility during events, and tap into the additional traffic that deal placements bring to new products. You'll find Amazo",
           "id": "QVRWUERLSUtYMERFUiNHUzREQkEzTDc2VE1VUDZC"
         }
-      ]
+      ],
+      "raw": "data/raw/2026-09-14/US.txt"
     },
     "JP": {
       "label": "日本站",
       "kind": "seller-news",
       "url": "https://sellercentral-japan.amazon.com/seller-news/articles",
       "ok": true,
-      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
+      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -162,14 +163,15 @@
           "summary": "Smile SALE drives increased customer traffic, helping you reach more customers and maximize your sales. To view the timeline and register your products for the sale, go to the guide for your language: JP / EN / CN Review the guidelines before creating external promotions: Guidelines for external communication by seller.",
           "id": "QTFWQzM4VDdZWEI1MjgjR0FVR0RRR1RCNURCRFBIQg"
         }
-      ]
+      ],
+      "raw": "data/raw/2026-09-14/JP.txt"
     },
     "AE": {
       "label": "阿联酋站",
       "kind": "seller-news",
       "url": "https://sellercentral.amazon.ae/seller-news/articles",
       "ok": true,
-      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
+      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -243,14 +245,15 @@
           "summary": "新的“促销”页面在一个位置汇集了您的所有亚马逊促销工具（特惠、优惠券、价格折扣和买 X 赠 Y）。 可使用“活动日历”提前规划，以免错过销售机会，并查看各种卖家培训资源和分步指南。您还可以直接从该页面快速执行操作并管理您的所有促销。 您可以从卖家平台主页访问这一新促销页面。前往【广告】，然后点击【促销】。 此时将显示新的“促销”主页，其中包含两个选项卡 主页： 了解促销类型和即将举办的活动，并创建新的促销。 管理促销： 查看、编辑和追踪您的所有现有促销。 有关更多信息，请参阅亚马逊促销。",
           "id": "QTJWSUdRMzVSQ1M0VUcjR1gzRU5NQlNQSzJTM1A3Mw"
         }
-      ]
+      ],
+      "raw": "data/raw/2026-09-14/AE.txt"
     },
     "UK": {
       "label": "英国站",
       "kind": "policy",
       "url": "https://sellercentral.amazon.co.uk/help/hub/reference/external/GQHQGBTD7XB7EECN",
       "ok": true,
-      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
+      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
       "stale": false,
       "count": 7,
       "articles": [
@@ -303,25 +306,83 @@
           "summary": "Effective 25 June 2026, we are introducing the programme policy for the “FBA Donations - UK - programme terms and conditions”. These terms establish the framework for how the programme operates and align it with upcoming EU regulatory requirements, including the Ecodesign for Sustainable Products Regulation (ESPR). For more information, go to FBA Donations - UK - programme terms and conditions. Changes to program policies 2025 Listed below are upcoming changes to Amazon’s programme policies. Update to VAT Calculation Service methodology Effective January 1, 2026, we will update the VAT Calculation Service (VCS) methodology to reflect the process of submitting real-time e-reports to the Spanish Tax Authorities (Agencia Estatal de Administración Tributaria, AEAT), as required by their e-invoicing legislation requirements. For sellers who are residents or have a permanent establishment in Spain, they will submit real-time e-reports of the invoicing records for sales on Amazon Marketplace through a system called VERIFACTU. To read the changes in English go to this PDF. Changes in other languages will be available on January 1, 2026 on the VAT Calculation Service (VCS) Methodology page.",
           "id": ""
         }
-      ]
+      ],
+      "raw": "data/raw/2026-09-14/UK.txt"
     },
     "DE": {
       "label": "德国站",
       "kind": "policy",
       "url": "https://sellercentral.amazon.de/help/hub/reference/external/GQHQGBTD7XB7EECN",
-      "ok": false,
-      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
+      "ok": true,
+      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
       "stale": false,
-      "error": "页面上未找到政策变更条目",
-      "count": 0,
-      "articles": []
+      "count": 8,
+      "articles": [
+        {
+          "headline": "亚马逊 Easy Ship 服务条款更新",
+          "date": "2026 年 9 月 29 日",
+          "date_iso": "2026-09-29",
+          "summary": "2026 年 9 月 29 日，我们将更新亚马逊 Easy Ship 服务条款，为境内 Easy Ship 订单引入由亚马逊管理的买家退货和客户服务。根据更新后的条款，对于符合退货要求的商品，将由亚马逊管理买家退货和售后客户服务，并向买家提供可追踪的预付费退货标签，您无需承担额外运输费用。对于超出退货资格限制的商品，将继续由您负责管理买家退货和相关客户服务。这些变更可使 Easy Ship 体验与我们在欧洲的其他商城保持一致，并有助于改善买家的售后体验。 此次更新适用于在 Amazon.nl 和 Amazon.pl 商城注册加入 Easy Ship 计划的卖家。您可以在亚马逊 Easy Ship 服务条款页面查看相关变更。 押金返还计划启动 亚马逊商城中已实施押金返还计划 (DRS) 的待售商品必须包含适用的押金金额。请访问押金返还计划帮助页面，按地区了解有关押金返还计划的更多信息。 卖家 Prime 计划要求更新 我们将于 2026 年 9 月 7 日更新德国亚马逊物流 (FBA)、卖家自配送和亚马逊自营商品的 Prime 资格标准。 这些更新可确保我们的 Prime 配送体验始终符合欧盟商城 Prime 会员的高度期望。 德国的标准尺寸和低价国内商品必须符合以下配送承诺速度分布，才符合 Prime 资格要求：",
+          "id": ""
+        },
+        {
+          "headline": "取消推荐报价资格要求",
+          "date": "2026 年 7 月 20 日",
+          "date_iso": "2026-07-20",
+          "summary": "2026 年 7 月 20 日，我们将更新“商品如何在亚马逊商城中获得曝光度”的计划政策页面，以移除针对欧盟和英国卖家的推荐报价卖家资格要求。 目前，我们根据卖家绩效标准确定哪些卖家符合要求。随着我们持续改进流程并听取卖家的反馈，我们确定此卖家资格认定步骤已不再需要，因此将其取消。我们不会更改推荐报价的选择方式。我们将继续评估报价，并根据对买家最重要的标准（例如有竞争力的定价、配送速度和绩效）来选择推荐报价。 有关我们如何选择推荐报价的更多信息，请参阅成为推荐报价。 此政策更新将于 2026 年 7 月 20 日发布在“计划政策”下。在这期间，您可以查看该政策的 PDF 版本（仅提供英语版），了解变更内容。 卖家自配送要求更新： 我们正在更新亚马逊商城的卖家自配送 (FBM) 要求，以帮助卖家通过更准确的配送承诺提高转化率，确保企业买家订单及时送达，并帮助顺利完成清关。 准时送达率： ​自 2026 年 7 月 15 日起，我们希望您将准时送达率 (OTDR) 保持在 90% 或 90% 以上。此指标用于衡量在承诺“送达日期”当日或之前送达的 FBM 商品所占百分比。自 2026 年 9 月 1 日起，如果您的准时送达率绩效仍低于政策中规定的要求，那么不合规商品可能会被停售，或者您可能会失去发布新 FBM 商品的权限。要查看您的准时送达率，请前往账户状况。有关更多信息，请参阅准时送达常见问题。 您可以查看该政策的 PDF 版本（仅提供英语版），了解变更内容。",
+          "id": ""
+        },
+        {
+          "headline": "卖家 Prime 计划要求更新",
+          "date": "2025 年 9 月 15 日",
+          "date_iso": "2025-09-15",
+          "summary": "2025 年 9 月 15 日，我们更新了德国的 Prime 资格标准，并更新了法国、荷兰、比利时和瑞典的 Prime 标记标准。这些更新可确保我们的 Prime 配送体验始终符合欧盟商城 Prime 会员的高度期望。 这些变更适用于亚马逊物流商品、卖家自配送商品和亚马逊自营商品，如下所示。 Prime 资格： 配送承诺速度目标 德国的标准尺寸和低价国内商品必须符合以下配送承诺速度分布，才符合 Prime 资格要求： 10% 小于或等于 1 天，45% 小于或等于 2 天，80% 小于或等于 4 天。 Prime 标记： 配送速度阈值 要获得 Prime 标记，符合 Prime 资格要求的商品必须满足以下条件： 法国： 配送承诺速度为 3 天或更短。 荷兰和比利时： 在配送速度最快的 85% 的商品中，配送承诺速度为 4 天或更短。",
+          "id": ""
+        },
+        {
+          "headline": "商品被停售或账户被停用调解政策更新",
+          "date": "2025 年 7 月 8 日",
+          "date_iso": "2025-07-08",
+          "summary": "2025 年 7 月 8 日，我们更新了欧洲商城的调解政策，以便在您的商品被停售或销售账户被停用时提供明确的申请调解时间表。 要符合调解的要求，您必须按照以下步骤操作： 在商品被停售或账户被停用后的 6 个月内，已经通过账户状况控制面板提交了申诉 在获知申诉结果后的 6 个月内申请了调解 在申请调解后的 12 个月内，在欧洲的某个亚马逊商城中拥有在售商品 这些变更于 7 月 8 日体现在调解政策和申请调解帮助页面中。 在此期间，您可以查看该政策的 PDF 版本（仅提供英语版），了解变更内容。 如果您在这些变更生效日期之后继续使用销售服务，即表示您接受这些变更。",
+          "id": ""
+        },
+        {
+          "headline": "欧洲计划政策更新",
+          "date": "2024 年 10 月 2 日",
+          "date_iso": "2024-10-02",
+          "summary": "2024 年 10 月 2 日，我们对欧洲计划政策进行了以下更新： 资金扣留政策更名为资金提现资格政策。政策更新还澄清了我们保持该政策的原因、如何从账户停用之日起 60 天内对提现提出申诉、我们如何评估申诉，以及可能导致我们根据《亚马逊欧洲开店服务商业解决方案协议》决定不支付提现款项的活动示例。查看资金提现资格政策（英语版）。 将现有政策添加到计划政策页面，确保您可以在一个集中的位置查阅您与亚马逊之间的合同义务。此更新仅供澄清之用，不涉及对您权利和义务的任何变更。 要添加到计划政策页面的政策包括： 订单绩效计划政策 亚马逊参考价政策 召回和商品安全性 亚马逊物流买家退货",
+          "id": ""
+        },
+        {
+          "headline": "2024 年 10 月 1 日引入数字服务费",
+          "date": "2024 年 10 月 1 日",
+          "date_iso": "2024-10-01",
+          "summary": "2024 年 10 月 1 日，我们针对加拿大、英国、法国、意大利和西班牙政府实施的数字服务税推出了数字服务费。 数字服务税税率在英国一般为 2%，在加拿大、法国、意大利和西班牙一般为 3%，但是数字服务税费用无法预测，因为此费用会随贵公司所在的地点、买家所在的地点和其他因素变化。我们不会根据这些地点变量计算数字服务费，它们会导致业务影响不可预测，因为您不知道哪里的买家会购买您的商品，我们仅会根据您的所在地和您销售商品的商城来提供一个固定的数字服务费。 如果您的主要营业地点或您销售商品所在的商城位于已推出数字服务税的国家/地区，那么我们将在您的销售佣金和亚马逊物流配送费用（仅适用于英国和法国）基础上收取数字服务费。例如，如果贵公司在德国注册，而您在英国商城销售商品，亚马逊将会收取 2% 的数字服务费。 数字服务费不适用于国内销售。 要了解此费用对您有何影响，包括您的主要营业地点或您销售商品所在的商城是否位于已推出数字服务税的国家/地区，请参阅数字服务费。 自 9 月 1 日起，您可以在亚马逊物流收入计算器中预览数字服务费。自 10 月 1 日起，可以通过付款控制面板中的“交易一览”追踪此费用。 点击以下链接，查看欧洲各商城推出的英语版“我要开店”费用价目表： 英国、德国、法国、意大利、西班牙、荷兰、波兰、瑞典和比利时。在价目表中，我们突出显示了与推出的数字服务费相关的变更。我们会在生效之日在卖家平台发布免费的翻译版本。 这些变更于 2024 年 10 月 1 日生效，适用于使用本政策所涵盖服务或功能的所有卖家。如果您有任何疑问，请联系销售伙伴支持。如果在 2024 年 10 月 1 日之后继续使用销售服务，则表示您接受这些变更。 “欧洲亚马逊增值税计算服务的计算方法”政策更新",
+          "id": ""
+        },
+        {
+          "headline": "亚马逊物流“订购省”计划更新",
+          "date": "2024 年 3 月 31 日",
+          "date_iso": "2024-03-31",
+          "summary": "2024 年 3 月 31 日，我们针对所有符合要求的卖家自配送商品推出了“订购省”计划。 通过此变更，买家除了可以订购您符合要求的亚马逊配送商品外，还可以订购您符合要求的卖家自配送“订购省”商品。我们会根据计划的要求自动注册所有符合要求的卖家自配送商品。这些要求详见我们的新计划政策。 有关更多信息或者要取消自动注册，请参阅订购省。 卖家自配送 Prime 配送选项更新 自 2 月 18 日起，您可以在法国、德国、西班牙、瑞典、波兰、比利时和荷兰商城使用配送模板为您的卖家自配送 Prime 商品设置当日达和加急送达。通过此变更，您的商品可以享受更快的送达速度，并可向买家提供更准确的配送承诺。要了解有关当日达和加急送达的卖家自配送 Prime 免费配送政策详细信息，请参阅卖家 Prime 计划。 其他政策更新： 自 2024 年 2 月 8 日起，我们对以下计划政策进行了变更： 禁止的卖家活动和行为政策、沟通指南、亚马逊商城销售服务政策和数据访问。此次变更旨在进一步明确卖家与买家可以使用的沟通渠道（包括亚马逊的沟通渠道和其他渠道）以及卖家在与买家沟通时应履行的义务，以确保符合适用法律。 我们还对亚马逊品牌分析条款和条件计划政策进行了变更，明确销售伙伴可以向相关公共机构反映违规问题，以确保符合适用法律。",
+          "id": ""
+        },
+        {
+          "headline": "成人用品政策更新",
+          "date": "2022 年 1 月 17 日",
+          "date_iso": "2022-01-17",
+          "summary": "2022 年 1 月 17 日，所有按摩棒和凯格尔球或阴道球均被归类为成人用品。此类商品仍可继续销售，所有买家仍可在其当前商品分类中搜索到此类商品。有关更多信息，请查看于 2022 年 1 月 17 日生效的成人用品政策和指南更新。 即将对计划政策实施的变更 我们对计划政策做出了变更，这些变更适用于使用这些政策所涵盖服务或功能的所有卖家。 以下变更于 2022 年 1 月 13 日生效： 我们将更新国际销售订单的买家退货政策。此前规定，自 2021 年 10 月 5 日起，所有在欧洲商城（Amazon.co.uk、Amazon.de、Amazon.fr、Amazon.it、Amazon.es）销售商品以及从国外配送买家订单的卖家自配送销售伙伴均需为金额低于 20 英镑或 25 欧元的商品向亚马逊提供一个默认国内退货地址，或者为符合亚马逊退货政策要求的退货请求提供退款不退货服务。 现在，我们特此在政策中明确，该政策同样适用于金额为 20 英镑或 25 欧元的商品，并且在计算退货商品是否符合金额上限（20 英镑或 25 欧元）时不会将运费考虑在内。我们仅考量商品价格（含增值税）。 请仔细了解更新后的计划政策。请参阅带修订标记的英语版“国际销售订单的买家退货”。 以下变更于 2021 年 11 月 30 日生效：",
+          "id": ""
+        }
+      ],
+      "raw": "data/raw/2026-09-14/DE.txt"
     },
     "AU": {
       "label": "澳洲站",
       "kind": "policy",
       "url": "https://sellercentral.amazon.com.au/help/hub/reference/external/GQHQGBTD7XB7EECN",
       "ok": true,
-      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
+      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
       "stale": false,
       "count": 7,
       "articles": [
@@ -374,7 +435,8 @@
           "summary": "Effective 7 June, 2022, the Amazon Easy Ship fee structure will be updated. The revised fees are set out below, based on the weight and dimensions of the consignment. Unless otherwise stated, all fees are in Australian Dollars (AUD) and do not include applicable taxes, such as GST. Amazon Easy Ship fee Maximum consignment weight (kg)\tFee/Consignment <=0.5\t$5.55 <=1\t$7.66 <=3\t$8.71 <=5\t$9.86 <=10\t$11.30",
           "id": ""
         }
-      ]
+      ],
+      "raw": "data/raw/2026-09-14/AU.txt"
     }
   }
 }

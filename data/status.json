@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-09-14T20:37:17.345284+08:00",
+  "started_at": "2026-09-14T20:46:25.670216+08:00",
   "ready": true,
   "sites": {
     "US": {
@@ -27,9 +27,9 @@
       "stale": false
     },
     "DE": {
-      "ok": false,
-      "count": 0,
-      "error": "页面上未找到政策变更条目",
+      "ok": true,
+      "count": 8,
+      "error": null,
       "stale": false
     },
     "AU": {
@@ -39,7 +39,7 @@
       "stale": false
     }
   },
-  "finished_at": "2026-09-14T20:38:45.156167+08:00",
-  "ok_sites": 5,
+  "finished_at": "2026-09-14T20:47:57.251856+08:00",
+  "ok_sites": 6,
   "total_sites": 6
 }
