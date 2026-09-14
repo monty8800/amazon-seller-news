@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:34:15.924693+08:00",
+  "generated_at": "2026-09-14T20:37:17.345284+08:00",
   "date": "2026-09-14",
   "sites": {
     "US": {
@@ -7,7 +7,7 @@
       "kind": "seller-news",
       "url": "https://sellercentral.amazon.com/seller-news/articles",
       "ok": true,
-      "fetched_at": "2026-09-14T20:34:15.924693+08:00",
+      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -88,7 +88,7 @@
       "kind": "seller-news",
       "url": "https://sellercentral-japan.amazon.com/seller-news/articles",
       "ok": true,
-      "fetched_at": "2026-09-14T20:34:15.924693+08:00",
+      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -169,7 +169,7 @@
       "kind": "seller-news",
       "url": "https://sellercentral.amazon.ae/seller-news/articles",
       "ok": true,
-      "fetched_at": "2026-09-14T20:34:15.924693+08:00",
+      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -250,7 +250,7 @@
       "kind": "policy",
       "url": "https://sellercentral.amazon.co.uk/help/hub/reference/external/GQHQGBTD7XB7EECN",
       "ok": true,
-      "fetched_at": "2026-09-14T20:34:15.924693+08:00",
+      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
       "stale": false,
       "count": 7,
       "articles": [
@@ -310,7 +310,7 @@
       "kind": "policy",
       "url": "https://sellercentral.amazon.de/help/hub/reference/external/GQHQGBTD7XB7EECN",
       "ok": false,
-      "fetched_at": "2026-09-14T20:34:15.924693+08:00",
+      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
       "stale": false,
       "error": "页面上未找到政策变更条目",
       "count": 0,
@@ -321,7 +321,7 @@
       "kind": "policy",
       "url": "https://sellercentral.amazon.com.au/help/hub/reference/external/GQHQGBTD7XB7EECN",
       "ok": true,
-      "fetched_at": "2026-09-14T20:34:15.924693+08:00",
+      "fetched_at": "2026-09-14T20:37:17.345284+08:00",
       "stale": false,
       "count": 7,
       "articles": [
