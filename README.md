@@ -20,6 +20,7 @@
 ```
 紫鸟浏览器(ZClaw, 只读)
       ↓  fetch.py          抓取各站点 → data/news.json + data/history/YYYY-MM-DD.json
+      │                              + data/raw/YYYY-MM-DD/<站点>.txt（原始页面证据，仅存本机）
       ↓  build.py          渲染 → index.html（单文件，无外部依赖）
       ↓  run_daily.sh      git commit + push → GitHub Pages 自动更新
 ```
@@ -29,6 +30,25 @@
 > **为什么脚本放在 `~/.agents/` 而不是 `~/Documents/`**：`~/Documents` 受 macOS TCC 保护，
 > launchd 直接启动的脚本会被拒绝访问（`open() Operation not permitted`）。
 > 放在 `~/.agents/` 下，定时任务就是普通 bash，**无需 TCC 包装器，也不依赖其他应用的安装路径**。
+
+## ⚠️ 两个容易踩的坑（实测得出）
+
+### 1. 公开政策页必须用「没有该站点登录态」的店铺去取
+
+`/help/hub/reference/external/...` 本是无须登录的公开页，但**如果所用紫鸟店铺恰好有该站点的登录态，
+它会被重定向到登录版帮助中心，正文反而取不到**（表现为页面只剩导航）。
+
+- ❌ 用有 DE 登录态的店铺取 DE 公开页 → 重定向、取不到正文
+- ✅ 用只有 AE 登录态的店铺取 DE 公开页 → 正常拿到完整正文
+
+所以 `fetch.py` 里 **DE 走 `SC-AE` 店铺**，US/JP/UK/AU 走 `SZB-US`。**改站点配置时务必留意这一条。**
+
+### 2. launchd 的默认 PATH 只有 `/usr/bin:/bin`
+
+该环境下实测 **`ziniao-cli` 与 `gh` 都找不到**，且 `python3` 会落到**系统 3.9**。
+因此 plist 里显式设置了 `EnvironmentVariables.PATH`，**`run_daily.sh` 内还再钉死一次并做前置自检**
+（缺命令则 `exit 6` 并留痕），避免定时任务静默跑偏。
+
 
 ## 抓取失败时的行为
 
