@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-09-14T20:46:25.670216+08:00",
+  "started_at": "2026-09-14T23:56:32.733463+08:00",
   "ready": true,
   "sites": {
     "US": {
@@ -28,7 +28,7 @@
     },
     "DE": {
       "ok": true,
-      "count": 8,
+      "count": 34,
       "error": null,
       "stale": false
     },
@@ -39,7 +39,7 @@
       "stale": false
     }
   },
-  "finished_at": "2026-09-14T20:47:57.251856+08:00",
+  "finished_at": "2026-09-14T23:57:13.937971+08:00",
   "ok_sites": 6,
   "total_sites": 6
 }

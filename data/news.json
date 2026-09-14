@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-09-14T20:46:25.670216+08:00",
+  "generated_at": "2026-09-14T23:56:32.733463+08:00",
   "date": "2026-09-14",
   "sites": {
     "US": {
       "label": "美国站",
       "kind": "seller-news",
       "url": "https://sellercentral.amazon.com/seller-news/articles",
+      "locale": "en_US",
       "ok": true,
-      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
+      "fetched_at": "2026-09-14T23:56:32.733463+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -15,71 +16,101 @@
           "headline": "Get inventory to the East Coast faster with Standard Ocean Express",
           "date": "Sep 11, 2026",
           "date_iso": "2026-09-11",
-          "summary": "You can now get inventory to East Coast fulfillment centers faster with Standard Ocean Express, a new speed option for Seller Managed Placement (SMP) bookings. Amazon Global Logistics Standard Ocean Express routes your shipments via the Los Angeles port with direct rail to our East Coast fulfillment centers. Your inventory is available to customers sooner, with no changes to your existing booking process. Standard Ocean Express benefits Get inventory to East Coast fulfillment centers faster with improved transit times compared to standard routing, reducing out-of-stock risk during peak demand. Clear customs reliably with licensed brokers and certified specialists who handle the process end-to-end and maintain a low inspection rate. Access competitive, transparent ocean rates displayed at the point of booking alongside estimated delivery windows, so you can balance speed and cost. Book with zero additional setup. No new registration or documentation is required. Get started Go to the AGL program portal to set up your profile if you haven't already. In your existing SMP booking flow, select Standard Ocean Express in Step 2 when booking to the East Coast region. For more information, ",
-          "id": "QVRWUERLSUtYMERFUiNHWEpVOUNYRjg0QTRQRThX"
+          "summary": "You can now get inventory to East Coast fulfillment centers faster with Standard Ocean Express, a new speed option for Seller Managed Placement (SMP) bookings. Amazon Global Logistics Standard Ocean Express routes your shipments via the Los Angeles port with direct rail to our East Coast fulfillment centers. Your inventory is available to customers sooner, with no changes to your existing booking process. Standard Ocean Express benefits Get inventory to East Coast fulfillment centers faster with improved transit times compared to standard routing, reducing out-of-stock risk during peak demand. Clear customs reliably with licensed brokers and certified specialists who handle the process end-to-end and maintain a low inspection rate. Access competitive, transparent ocean rates displayed at the point of booking alongside estimated delivery windows, so you can balance speed and cost. Book with zero additional setup. No new registration or documentation is required. Get started Go to the AGL program portal to set up your profile if you haven't already. In your existing SMP booking flow, select Standard Ocean Express in Step 2 when booking to the East Coast region. For more information, go to Amazon Global Logistics.",
+          "id": "QVRWUERLSUtYMERFUiNHWEpVOUNYRjg0QTRQRThX",
+          "zh_native": false,
+          "headline_zh": "通过标准海运快线（Standard Ocean Express）更快地将库存送至东海岸",
+          "summary_zh": "您现在可以通过标准海运快线（Standard Ocean Express）更快地将库存送至东海岸运营中心，这是卖家自管入仓（Seller Managed Placement，SMP）预约的一项新时效选项。亚马逊全球物流标准海运快线（Amazon Global Logistics Standard Ocean Express）将您的货件经由洛杉矶港口运输，并通过直达铁路送至我们的东海岸运营中心。您的库存可更快地提供给买家，且无需更改您现有的预约流程。标准海运快线的优势：与标准路线相比，运输时间缩短，可更快地将库存送至东海岸运营中心，降低旺季需求期间的缺货风险。由持牌报关行和认证专家端到端处理清关流程，并保持较低的查验率，清关可靠。在预约时即可查看具有竞争力且透明的海运费率以及预计送达时间窗口，帮助您平衡速度与成本。预约方式"
         },
         {
           "headline": "New requirements for product bundles starting January 11",
           "date": "Sep 11, 2026",
           "date_iso": "2026-09-11",
-          "summary": "Effective January 11, 2027, we’re updating the product bundling policy so that most product bundles listed as a single ASIN must be packaged by the original manufacturer or brand. We’re also removing some of the previous bundle restrictions. These updates protect customers and your business by ensuring product bundles are authentic and safe. When customers trust the products they receive, they can make more confident purchasing decisions. Bundles that aren’t packaged by the original manufacturer or brand will still be permitted in the following instances: Authorized repackaged products: Reconfigured and repackaged products can be bundled if you have a letter of authorization from the brand owner or manufacturer granting permission to repackage with all other included brands for sale in our stores. You can upload your letter of authorization to your Account Health dashboard if your bundle is identified as noncompliant after January 11. Exempt categories: Bundles listed within gifting browse nodes and camera product types don’t need to be original manufacturer configurations. Virtual bundles: For brand owners and authorized resellers, bundles created using the Virtual Bundles tool ar",
-          "id": "QVRWUERLSUtYMERFUiNHUk1IN1M4NDJIWkwzUktZ"
+          "summary": "Effective January 11, 2027, we’re updating the product bundling policy so that most product bundles listed as a single ASIN must be packaged by the original manufacturer or brand. We’re also removing some of the previous bundle restrictions. These updates protect customers and your business by ensuring product bundles are authentic and safe. When customers trust the products they receive, they can make more confident purchasing decisions. Bundles that aren’t packaged by the original manufacturer or brand will still be permitted in the following instances: Authorized repackaged products: Reconfigured and repackaged products can be bundled if you have a letter of authorization from the brand owner or manufacturer granting permission to repackage with all other included brands for sale in our stores. You can upload your letter of authorization to your Account Health dashboard if your bundle is identified as noncompliant after January 11. Exempt categories: Bundles listed within gifting browse nodes and camera product types don’t need to be original manufacturer configurations. Virtual bundles: For brand owners and authorized resellers, bundles created using the Virtual Bundles tool aren’t packaged together, so they don’t need to be product configurations from the original manufacturer. Also, now you can create bundles in Books, Music, Video, DVD, and Video Game categories, bundles with secondary generic products or service plans, and bundles with gift cards. You can also create ",
+          "id": "QVRWUERLSUtYMERFUiNHUk1IN1M4NDJIWkwzUktZ",
+          "zh_native": false,
+          "headline_zh": "自1月11日起对商品捆绑销售的新要求",
+          "summary_zh": "自2027年1月11日起，我们将更新商品捆绑销售政策，要求大多数以单一ASIN形式发布的商品捆绑包必须由原始制造商或品牌进行包装。我们还将取消此前的一些捆绑销售限制。这些更新通过确保商品捆绑包为正品且安全，从而保护买家并保障您的业务。当买家信任其收到的商品时，他们便能做出更有信心的购买决策。在以下情形中，仍允许销售非由原始制造商或品牌包装的捆绑包：授权重新包装的商品：如果您持有品牌所有者或制造商出具的授权书，授予您重新包装并连同所有其他所含品牌在我们的店铺中销售的许可，则重新配置和重新包装的商品可以进行捆绑销售。如果您的捆绑包……，您可以将授权书上传至您的账户状况控制面板。"
         },
         {
           "headline": "Enroll in Premium Shipping if newly eligible",
           "date": "Sep 10, 2026",
           "date_iso": "2026-09-10",
           "summary": "If you're newly eligible for Premium Shipping, you now need to manually enroll to offer one-day and two-day delivery options to customers. Previously, eligible sellers were enrolled automatically. Now, you must opt in through Seller Central. If you don't enroll, you won't be able to offer Premium Shipping, which may affect your competitiveness and sales. To enroll, go to your shipping settings in Seller Central, confirm your eligibility, and enable Premium Shipping on your shipping template. You'll need to agree to program performance requirements to participate. If you've already enrolled, no action is needed. For more information on Premium Shipping, go to Enroll in Premium Shipping.",
-          "id": "QVRWUERLSUtYMERFUiNHSkU1QVFHUTQyM1lYTVpC"
+          "id": "QVRWUERLSUtYMERFUiNHSkU1QVFHUTQyM1lYTVpC",
+          "zh_native": false,
+          "headline_zh": "如新近符合资格，请注册高级配送（Premium Shipping）",
+          "summary_zh": "如果您新近符合高级配送（Premium Shipping）的资格，您现在需要手动注册，才能向买家提供一日达和两日达配送选项。此前，符合资格的卖家会被自动注册。现在，您必须通过卖家平台（Seller Central）选择加入。如果您不注册，将无法提供高级配送，这可能会影响您的竞争力和销售。如需注册，请前往卖家平台中的配送设置，确认您的资格，并在您的配送模板上启用高级配送。您需要同意该计划的绩效要求才能参与。如果您已注册，则无需采取任何操作。有关高级配送的更多信息，请前往“注册高级配送”。"
         },
         {
           "headline": "Explore new sessions and experiences added to Amazon Accelerate 2026",
           "date": "Sep 10, 2026",
           "date_iso": "2026-09-10",
           "summary": "Amazon Accelerate 2026 takes place from September 22-24 in Seattle and the agenda continues to grow. New sessions and experiences have been added across all experience levels. New additions include AI-powered strategy sessions, brand-building workshops, account health essentials, a new 300-level product launch workshop, and more interactive sessions for experienced sellers facilitated by experts. New experiences for 2026 include: The Seller Networking Lounge for topic-driven group discussions led by Community Managers. The Innovation Hub with new interactive demos of AI-powered tools and emerging technologies. Seller Sandbox where sellers can test prototypes and share feedback directly with Amazon design teams. These join over 150 sessions across 11 breakout topics, the Seller Café with over 50 appointment categories, and Partner Connect with over 70 programs and service providers. To learn more and register, go to Amazon Accelerate.",
-          "id": "QVRWUERLSUtYMERFUiNHMjc5NTVTU1hQRVBWTkQ1"
+          "id": "QVRWUERLSUtYMERFUiNHMjc5NTVTU1hQRVBWTkQ1",
+          "zh_native": false,
+          "headline_zh": "探索 Amazon Accelerate 2026 新增的会议与体验",
+          "summary_zh": "Amazon Accelerate 2026 将于9月22日至24日在西雅图举行，议程仍在不断增加。各经验层级均新增了会议与体验。新增内容包括 AI 驱动的战略会议、品牌建设研讨会、账户状况要点、全新的300级产品发布研讨会，以及由专家主持的面向资深卖家的更多互动会议。2026年的新体验包括：卖家交流休息室（Seller Networking Lounge），由社区经理主持开展主题驱动的分组讨论。创新中心（Innovation Hub），提供 AI 驱动工具和新兴技术的全新互动演示。卖家沙盒（Seller Sandbox），卖家可在此测试原型并直接向亚马逊设计团队提供反馈。这些将与涵盖11个分组主题的150多场会议、提供50多个预约类别的卖家咖啡厅（Seller Café），以及包含70多个项目和服务提供商的合作伙伴对接（Partner Connect）一同呈现。如需了解"
         },
         {
           "headline": "Create coupons faster with fewer steps",
           "date": "Sep 10, 2026",
           "date_iso": "2026-09-10",
           "summary": "The updated coupon creation experience in Seller Central saves your progress, shows a live preview, and lets you reuse past setups, so you can launch coupons in less time. Whether you're running your first promotion or managing coupons across multiple stores, the new workflow removes common friction points that slow you down. Here’s what’s different: Pick up where you left off. Your progress saves automatically. If you close your browser or get interrupted, your draft will be waiting when you come back. Review before you submit. The review screen shows a summary of your full coupon configuration, including every product included in the promotion, so you can catch errors before they go live. Clone previous coupons. If you’ve created a similar coupon before, you can reuse your past inputs as a starting point instead of starting from scratch. A step tracker guides you through each stage, so you always know where you are and what's left. To get started, go to Create Coupon.",
-          "id": "QVRWUERLSUtYMERFUiNHVFZOODhGUEM1VktETkw5"
+          "id": "QVRWUERLSUtYMERFUiNHVFZOODhGUEM1VktETkw5",
+          "zh_native": false,
+          "headline_zh": "以更少步骤更快创建优惠券",
+          "summary_zh": "卖家平台中更新后的优惠券创建体验会保存您的进度、显示实时预览，并允许您复用过去的设置，让您用更少时间发布优惠券。无论您是首次开展促销，还是管理多家店铺的优惠券，新的工作流程都消除了拖慢您进度的常见障碍。以下是不同之处：从上次中断处继续。您的进度会自动保存。如果您关闭浏览器或被打断，草稿将在您回来时等待您。提交前先审核。审核屏幕会显示您完整优惠券配置的摘要，包括促销中包含的每件商品，让您在上线前发现错误。克隆以前的优惠券。如果您之前创建过类似的优惠券，可以复用过去的输入作为起点，而不必从头开始。步骤跟踪器会引导您完成每个阶段，因此"
         },
         {
           "headline": "Prime Big Deal Days deals deadline extended",
           "date": "Sep 09, 2026",
           "date_iso": "2026-09-09",
-          "summary": "The deal sourcing window for Prime Big Deal Days has been extended to September 22, 2026, giving you more time to prepare for this sales event. Here's what you need to know to maximize your sales during the event and throughout the holiday period: Ship your inventory: Ensure your FBA inventory arrives at fulfillment centers ahead of each sales event's cutoff date. For details on inventory cutoffs, capacity management, and holiday peak fulfillment fees, visit the Q4 2026 peak readiness playbook. Improve your inventory health: If you have products with more than 90 days of supply or inventory aged over 180 days, use the high-traffic window around Prime Big Deal Days to move them. List these ASINs on Amazon Outlet to reach deal-seeking customers and reduce long-term storage fees before Q4. Create a promotion: Deal sourcing for Prime Big Deal Days is still open. Eligible types include Best Deals, Lightning Deals, Prime Exclusive Discounts, and coupons. For help choosing the right promotion type, go to Which Amazon promotion is right for me? Prime Big Deal Days promotional prices are excluded from the 30-day and 60-day lookback window and will not affect the maximum deal price required ",
-          "id": "QVRWUERLSUtYMERFUiNHN1dWUE5RN0dBSkUzTkNF"
+          "summary": "The deal sourcing window for Prime Big Deal Days has been extended to September 22, 2026, giving you more time to prepare for this sales event. Here's what you need to know to maximize your sales during the event and throughout the holiday period: Ship your inventory: Ensure your FBA inventory arrives at fulfillment centers ahead of each sales event's cutoff date. For details on inventory cutoffs, capacity management, and holiday peak fulfillment fees, visit the Q4 2026 peak readiness playbook. Improve your inventory health: If you have products with more than 90 days of supply or inventory aged over 180 days, use the high-traffic window around Prime Big Deal Days to move them. List these ASINs on Amazon Outlet to reach deal-seeking customers and reduce long-term storage fees before Q4. Create a promotion: Deal sourcing for Prime Big Deal Days is still open. Eligible types include Best Deals, Lightning Deals, Prime Exclusive Discounts, and coupons. For help choosing the right promotion type, go to Which Amazon promotion is right for me? Prime Big Deal Days promotional prices are excluded from the 30-day and 60-day lookback window and will not affect the maximum deal price required for Black Friday Week and Cyber Monday deals. You can price aggressively for Prime Big Deal Days without impacting your Black Friday Week deal eligibility. Start advertising early: Support your deals with a full-funnel advertising approach. Starting campaigns early ensures your deal ASINs are indexe",
+          "id": "QVRWUERLSUtYMERFUiNHN1dWUE5RN0dBSkUzTkNF",
+          "zh_native": false,
+          "headline_zh": "Prime Big Deal Days 促销提报截止日期延长",
+          "summary_zh": "Prime Big Deal Days 的促销提报窗口已延长至2026年9月22日，让您有更多时间为这一销售活动做准备。以下是您需要了解的信息，以便在活动期间及整个假日季最大限度地提升销量：运送您的库存：确保您的 FBA 库存在每个销售活动的截止日期前抵达运营中心。有关库存截止日期、容量管理和假日旺季配送费的详细信息，请访问《2026年第四季度旺季准备手册》。改善您的库存状况：如果您有供应量超过90天或库龄超过180天的商品，请利用 Prime Big Deal Days 前后的高流量窗口将其售出。将这些 ASIN 上架至 Amazon Outlet，以触达寻求优惠的买家，并在第四季度前减少长期仓储费。创建促销：Prime Big Deal Days 的促销提报仍在开放中。符合条件的类型包括 Best D"
         },
         {
           "headline": "Your Account Health Rating now rewards great customer service",
           "date": "Sep 05, 2026",
           "date_iso": "2026-09-05",
-          "summary": "Your Account Health Rating (AHR) now rewards strong customer service performance on Fulfilled by Merchant orders where you handle customer service directly. You can now earn up to 12 AHR points based on your performance across three customer service quality metrics: Buyer contact rate below 0.50%: Number of buyer contacts seeking a refund or replacement due to product quality, fulfillment, or shipping issues, excluding change of mind, divided by items shipped. Average contact response time under 12 hours: Time taken to respond to buyer messages divided by total messages received. Buyer dissatisfaction rate below 4.5%: Number of dissatisfied responses (ratings 1–2 out of 5) to the question “How satisfied are you with your recent customer service experience?” divided by total surveys sent for resolved cases. Your AHR score can only improve with strong performance across these metrics. We won't restrict selling privileges for below-average results. This change helps build your AHR through excellent customer service. To track your customer service performance, go to Feedback Manager For more information, go to Account health rating, Customer Service Quality Insights on Feedback Manager",
-          "id": "QVRWUERLSUtYMERFUiNHUzJDVzlXWjM0NTJDVVpY"
+          "summary": "Your Account Health Rating (AHR) now rewards strong customer service performance on Fulfilled by Merchant orders where you handle customer service directly. You can now earn up to 12 AHR points based on your performance across three customer service quality metrics: Buyer contact rate below 0.50%: Number of buyer contacts seeking a refund or replacement due to product quality, fulfillment, or shipping issues, excluding change of mind, divided by items shipped. Average contact response time under 12 hours: Time taken to respond to buyer messages divided by total messages received. Buyer dissatisfaction rate below 4.5%: Number of dissatisfied responses (ratings 1–2 out of 5) to the question “How satisfied are you with your recent customer service experience?” divided by total surveys sent for resolved cases. Your AHR score can only improve with strong performance across these metrics. We won't restrict selling privileges for below-average results. This change helps build your AHR through excellent customer service. To track your customer service performance, go to Feedback Manager For more information, go to Account health rating, Customer Service Quality Insights on Feedback Manager.",
+          "id": "QVRWUERLSUtYMERFUiNHUzJDVzlXWjM0NTJDVVpY",
+          "zh_native": false,
+          "headline_zh": "您的账户状况评级现对优质客户服务给予奖励",
+          "summary_zh": "您的账户状况评级（Account Health Rating，AHR）现对由您直接处理客户服务的卖家自配送（Fulfilled by Merchant）订单中的优质客户服务表现给予奖励。您现在可根据在以下三项客户服务质量指标上的表现，最多获得12个AHR积分：买家联系率低于0.50%：因产品质量、配送或运输问题而寻求退款或换货的买家联系次数（不包括改变主意），除以已发货商品数量。平均联系响应时间低于12小时：回复买家消息所用时间除以收到的消息总数。买家不满意率低于4.5%：对“您对最近一次客户服务体验的满意程度如何？”这一问题的负面回答（5分制中的1–2分）数量，除以针对已解决案例发送的调查问卷总数。只有在这些指标上表现优异，您的AHR分数才能提高。我们"
         },
         {
           "headline": "New Commercial Liability Insurance Requirements effective November 2, 2026",
           "date": "Sep 04, 2026",
           "date_iso": "2026-09-04",
-          "summary": "Effective November 2, 2026, we’re updating our commercial liability insurance requirements to help protect Amazon’s customers as well as help you protect your business from financial loss in the event of a product-related incident. Our existing policy requires all sellers to obtain and maintain commercial liability insurance within 30 days if gross proceeds from Amazon.com sales exceed USD 10,000 in any month, with minimum coverage of USD 1 million per occurrence and in the aggregate. In addition to this existing requirement, we are introducing two additional requirements: First, sellers with products listed in categories with enhanced safety listing requirements will now be required to maintain a commercial liability insurance policy that covers those products, with a minimum coverage of USD 1 million per occurrence and in aggregate, regardless of whether they meet the USD 10,000 gross proceeds in a month threshold. This change applies to both new and existing listings. Product categories with enhanced safety listing requirements include, but are not limited to, children’s products, cosmetic and ingestible products, and lithium battery products. For the full list of categories imp",
-          "id": "QVRWUERLSUtYMERFUiNHOVI1Q0hRUUNWSlc5VjNE"
+          "summary": "Effective November 2, 2026, we’re updating our commercial liability insurance requirements to help protect Amazon’s customers as well as help you protect your business from financial loss in the event of a product-related incident. Our existing policy requires all sellers to obtain and maintain commercial liability insurance within 30 days if gross proceeds from Amazon.com sales exceed USD 10,000 in any month, with minimum coverage of USD 1 million per occurrence and in the aggregate. In addition to this existing requirement, we are introducing two additional requirements: First, sellers with products listed in categories with enhanced safety listing requirements will now be required to maintain a commercial liability insurance policy that covers those products, with a minimum coverage of USD 1 million per occurrence and in aggregate, regardless of whether they meet the USD 10,000 gross proceeds in a month threshold. This change applies to both new and existing listings. Product categories with enhanced safety listing requirements include, but are not limited to, children’s products, cosmetic and ingestible products, and lithium battery products. For the full list of categories impacted by these changes, go to Product categories with enhanced safety listing requirements. Second, sellers based in Mainland China must now obtain their insurance through the Amazon Insurance Accelerator (AIA) program. AIA connects you with a network of pre-vetted insurers who understand Amazon's c",
+          "id": "QVRWUERLSUtYMERFUiNHOVI1Q0hRUUNWSlc5VjNE",
+          "zh_native": false,
+          "headline_zh": "新的商业责任保险要求将于2026年11月2日生效",
+          "summary_zh": "自2026年11月2日起，我们将更新商业责任保险要求，以帮助保护亚马逊的买家，并帮助您在发生产品相关事件时保护您的业务免受经济损失。我们现有的政策要求所有卖家在任何一个月内Amazon.com销售额总收入超过10,000美元时，须在30天内获取并维持商业责任保险，每次事故及累计最低保额为100万美元。除现有要求外，我们还将引入两项额外要求：第一，在具有增强安全上架要求的分类中上架商品的卖家，现须维持涵盖这些商品的商业责任保险，每次事故及累计最低保额为100万美元，无论其是否达到10,000美元的总收入"
         },
         {
           "headline": "Global Warehousing and Distribution expands to Ningbo",
           "date": "Sep 02, 2026",
           "date_iso": "2026-09-02",
-          "summary": "You can now send inventory to our newest Global Warehousing and Distribution (GWD) location in Ningbo, China. This is our third GWD warehouse, giving you even more choices when you want to store inventory near your manufacturing location and replenish to US Fulfillment by Amazon (FBA) fulfillment centers based on customer demand. Ningbo offers the lowest storage rate of all GWD locations at $7.91/CBM (cubic meter) per month, which is 10% lower than our Shanghai and Shenzhen warehouses. Like our other GWD sites, Ningbo has the same long-term storage and automatic replenishment capabilities to help you manage your FBA inventory. Right now, every shipment received at any GWD facility through December 31, 2026 qualifies for 30 days of free storage. There is no limit on shipments or SKUs, and no long-term commitment required. To get started: Go to Send to Amazon Warehousing and Distribution. Select a Ship from address located in China. Choose your preferred GWD distribution center. Select desired SKUs and quantities to ship to GWD. Provide all required information. Submit your booking. For promotion details and fees, go to Global Warehousing and Distribution fees. For more information a",
-          "id": "QVRWUERLSUtYMERFUiNHRENXUUxEQjRMVzlZWVlN"
+          "summary": "You can now send inventory to our newest Global Warehousing and Distribution (GWD) location in Ningbo, China. This is our third GWD warehouse, giving you even more choices when you want to store inventory near your manufacturing location and replenish to US Fulfillment by Amazon (FBA) fulfillment centers based on customer demand. Ningbo offers the lowest storage rate of all GWD locations at $7.91/CBM (cubic meter) per month, which is 10% lower than our Shanghai and Shenzhen warehouses. Like our other GWD sites, Ningbo has the same long-term storage and automatic replenishment capabilities to help you manage your FBA inventory. Right now, every shipment received at any GWD facility through December 31, 2026 qualifies for 30 days of free storage. There is no limit on shipments or SKUs, and no long-term commitment required. To get started: Go to Send to Amazon Warehousing and Distribution. Select a Ship from address located in China. Choose your preferred GWD distribution center. Select desired SKUs and quantities to ship to GWD. Provide all required information. Submit your booking. For promotion details and fees, go to Global Warehousing and Distribution fees. For more information about GWD, go to Global Warehousing and Distribution, or view Explore Amazon Global Warehousing and Distribution.",
+          "id": "QVRWUERLSUtYMERFUiNHRENXUUxEQjRMVzlZWVlN",
+          "zh_native": false,
+          "headline_zh": "全球仓储与配送服务扩展至宁波",
+          "summary_zh": "您现在可以将库存发送至我们位于中国宁波的最新全球仓储与配送（Global Warehousing and Distribution，GWD）地点。这是我们的第三个GWD仓库，为您在希望将库存存储在制造地点附近并根据客户需求补货至美国亚马逊物流（FBA）运营中心时提供更多选择。宁波提供所有GWD地点中最低的仓储费率，为每月7.91美元/立方米（CBM），比我们的上海和深圳仓库低10%。与我们其他GWD站点一样，宁波具备相同的长期仓储和自动补货能力，帮助您管理FBA库存。目前，在2026年12月31日之前，任何GWD设施收到的每批货件均可享受30天免费仓储。货件或SKU数量不限，且无需长期承诺。要开始使用：前往“发送至亚马逊仓储与配送”。"
         },
         {
           "headline": "Create exclusive deals for Amazon Business customers",
           "date": "Sep 01, 2026",
           "date_iso": "2026-09-01",
-          "summary": "Starting August 31, 2026, you can create exclusive, limited-time deals for business customers through Amazon Business Deals. This feature is available in the US, Canada, UK, Germany, France, Italy, Spain, Japan, Mexico, and Australia. With Amazon Business Deals, you can offer exclusive business-to-business (B2B) discounts for durations from one hour to 30 days. Choose between Fixed Price or Percent Off promotions. During major shopping events like Prime Big Deal Days, Black Friday, and other events, your deals may receive enhanced visibility through dedicated email and push notification campaigns at no additional cost until December 31, 2026. Your products must have a 3.5+ star rating, be in new condition, and meet pricing and seller performance requirements to be eligible. Deals must also meet minimum discount requirements of at least 10% off for regular deals and 15% for High Velocity Event deals such as Prime Big Deal Days, Black Friday and Cyber Monday. By participating, you can reach over 11 million registered business organizations globally, gain greater visibility during events, and tap into the additional traffic that deal placements bring to new products. You'll find Amazo",
-          "id": "QVRWUERLSUtYMERFUiNHUzREQkEzTDc2VE1VUDZC"
+          "summary": "Starting August 31, 2026, you can create exclusive, limited-time deals for business customers through Amazon Business Deals. This feature is available in the US, Canada, UK, Germany, France, Italy, Spain, Japan, Mexico, and Australia. With Amazon Business Deals, you can offer exclusive business-to-business (B2B) discounts for durations from one hour to 30 days. Choose between Fixed Price or Percent Off promotions. During major shopping events like Prime Big Deal Days, Black Friday, and other events, your deals may receive enhanced visibility through dedicated email and push notification campaigns at no additional cost until December 31, 2026. Your products must have a 3.5+ star rating, be in new condition, and meet pricing and seller performance requirements to be eligible. Deals must also meet minimum discount requirements of at least 10% off for regular deals and 15% for High Velocity Event deals such as Prime Big Deal Days, Black Friday and Cyber Monday. By participating, you can reach over 11 million registered business organizations globally, gain greater visibility during events, and tap into the additional traffic that deal placements bring to new products. You'll find Amazon Business Deals in the Price Discounts tool in Seller Central for products with existing Business Prices. To get started, go to Promotions and then select All Business Customers as your audience. To learn more, go to Amazon Business Deals.",
+          "id": "QVRWUERLSUtYMERFUiNHUzREQkEzTDc2VE1VUDZC",
+          "zh_native": false,
+          "headline_zh": "为Amazon Business客户创建专属促销",
+          "summary_zh": "自2026年8月31日起，您可以通过Amazon Business Deals为企业客户创建专属的限时促销。此功能适用于美国、加拿大、英国、德国、法国、意大利、西班牙、日本、墨西哥和澳大利亚。通过Amazon Business Deals，您可以提供时长从1小时到30天的专属企业对企业（B2B）折扣。可在固定价格或百分比折扣促销之间选择。在Prime Big Deal Days、黑色星期五等大型购物活动期间，您的促销可能通过专门的电子邮件和推送通知活动获得增强曝光，直至2026年12月31日不收取额外费用。您的商品必须拥有3.5星及以上评分、处于全新状态，并满足定价和卖家绩效要求方可符合资格。促销还必须满足最低折扣要求，常规促销至少10%折扣，高流量促销至少15%"
         }
       ],
       "raw": "data/raw/2026-09-14/US.txt"
@@ -88,80 +119,111 @@
       "label": "日本站",
       "kind": "seller-news",
       "url": "https://sellercentral-japan.amazon.com/seller-news/articles",
+      "locale": "ja_JP",
       "ok": true,
-      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
+      "fetched_at": "2026-09-14T23:56:32.733463+08:00",
       "stale": false,
       "count": 10,
       "articles": [
         {
-          "headline": "Create coupons faster with fewer steps",
-          "date": "Sep 10, 2026",
+          "headline": "より少ない手順で、素早くクーポンを作成",
+          "date": "2026年9月10日",
           "date_iso": "2026-09-10",
-          "summary": "The updated coupon creation experience in Seller Central saves your progress, shows a live preview, and lets you reuse past setups, so you can launch coupons in less time. Whether you're running your first promotion or managing coupons across multiple stores, the new workflow removes common friction points that slow you down. Here’s what’s different: Pick up where you left off. Your progress saves automatically. If you close your browser or get interrupted, your draft will be waiting when you come back. Review before you submit. The review screen shows a summary of your full coupon configuration, including every product included in the promotion, so you can catch errors before they go live. Clone previous coupons. If you’ve created a similar coupon before, you can reuse your past inputs as a starting point instead of starting from scratch. A step tracker guides you through each stage, so you always know where you are and what's left. To get started, go to Create Coupon.",
-          "id": "QTFWQzM4VDdZWEI1MjgjR1RWTjg4RlBDNVZLRE5MOQ"
+          "summary": "セラーセントラルの新しいクーポン作成機能では、作業内容が自動保存され、リアルタイムでプレビューを確認できるほか、過去の設定を再利用することも可能です。これにより、より短時間でクーポンを作成・開始できるようになります。 初めてプロモーションを実施する場合でも、複数のストアでクーポンを管理する場合でも、新しいワークフローが作業の妨げとなる一般的な課題を解消し、スムーズな作成をサポートします。 変更点は以下の通りです。 中断したところから作業を再開。 作業内容は自動的に保存されます。ブラウザを閉じたり、作業を中断したりしても、戻ってきたときには下書きがそのまま残っています。 送信前に内容を確認。 確認画面には、プロモーション対象の全商品を含むクーポンの設定内容が一覧表示されます。そのため、公開前に誤りがないかチェックすることができます。 過去のクーポンを複製。 以前に同様のクーポンを作成したことがある場合は、ゼロから作成する代わりに、過去の設定内容をベースとして再利用できます。 ステップトラッカーが各段階を案内するため、現在の進捗状況や残りの手順を常に把握できます。 クーポンの新しい設定を開始するには、クーポンを作成に移動してください。",
+          "id": "QTFWQzM4VDdZWEI1MjgjR1RWTjg4RlBDNVZLRE5MOQ",
+          "headline_zh": "より少ない手順で、素早くクーポンを作成",
+          "summary_zh": "セラーセントラルの新しいクーポン作成機能では、作業内容が自動保存され、リアルタイムでプレビューを確認できるほか、過去の設定を再利用することも可能です。これにより、より短時間でクーポンを作成・開始できるようになります。 初めてプロモーションを実施する場合でも、複数のストアでクーポンを管理する場合でも、新しいワークフローが作業の妨げとなる一般的な課題を解消し、スムーズな作成をサポートします。 変更点は以下の通りです。 中断したところから作業を再開。 作業内容は自動的に保存されます。ブラウザを閉じたり、作業を中断したりしても、戻ってきたときには下書きがそのまま残っています。 送信前に内容を確認。 確認画面には、プロモーション対象の全商品を含むクーポンの設定内容が一覧表示されます。そのため、公開前に誤りがないかチェックすることができます。 過去のクーポンを複製。 以前に同様のクーポンを作成したことがある場合は、ゼロから作成する代わりに、過去の設定内容をベースとして再利用できます。 ステップトラッカーが各段階を案内するため、現在の進捗状況や残りの手順を常に把握できます。 クーポンの新しい設定を開始するには、クーポンを作成に移動してください。",
+          "zh_native": true
         },
         {
-          "headline": "Join our Prime Appreciation Sale prep webinar on Sept 18",
-          "date": "Sep 09, 2026",
+          "headline": "9月18日のプライム感謝セール準備ウェビナー参加のご案内",
+          "date": "2026年9月09日",
           "date_iso": "2026-09-09",
-          "summary": "The Prime Appreciation Sale, our annual deal event, returns this year. Join our webinar on September 18 to learn how to prepare and choose the right promotions for your products. What we'll cover In this one-hour session, we will walk through: Prime Appreciation Sale 2026 event overview Benefits of participating The promotion types available and when to use each A demo of how to create a Best Deal and Point Deal in Seller Central How to prepare your ads and inventory A live Q&A When Friday, September 18, 2026, 2 p.m. to 3 p.m. Japan Time. Dates for the sale will be announced soon. To register for the webinar, go to the [With Q&A Session] Prime Appreciation Sale Prep Seminar.",
-          "id": "QTFWQzM4VDdZWEI1MjgjRzk1Wk42Q0o1VFAyWDY3Mw"
+          "summary": "毎年恒例のタイムセールイベント、プライム感謝セールが今年も開催されます。9月18日のウェビナーに参加して、準備方法と商品に合ったプロモーションの選び方をご確認ください。 ウェビナー内容 この1時間のセッションでは、以下の内容をご説明します。 プライム感謝セール2026のイベント概要 参加するメリット 利用可能なプロモーションタイプとその活用シーン セラーセントラルでのお買い得情報とポイントセールの作成方法のデモ 広告と在庫の準備方法 ライブでの質疑応答 日時 2026年9月18日（金）午後2時～3時日本時間 セールの開催日程は追って発表します。ウェビナーへのご登録は、[Q&Aセッション付き] プライム感謝セール準備セミナーからお願いいたします。",
+          "id": "QTFWQzM4VDdZWEI1MjgjRzk1Wk42Q0o1VFAyWDY3Mw",
+          "headline_zh": "9月18日のプライム感謝セール準備ウェビナー参加のご案内",
+          "summary_zh": "毎年恒例のタイムセールイベント、プライム感謝セールが今年も開催されます。9月18日のウェビナーに参加して、準備方法と商品に合ったプロモーションの選び方をご確認ください。 ウェビナー内容 この1時間のセッションでは、以下の内容をご説明します。 プライム感謝セール2026のイベント概要 参加するメリット 利用可能なプロモーションタイプとその活用シーン セラーセントラルでのお買い得情報とポイントセールの作成方法のデモ 広告と在庫の準備方法 ライブでの質疑応答 日時 2026年9月18日（金）午後2時～3時日本時間 セールの開催日程は追って発表します。ウェビナーへのご登録は、[Q&Aセッション付き] プライム感謝セール準備セミナーからお願いいたします。",
+          "zh_native": true
         },
         {
-          "headline": "Automatic Vine enrollment benefit for New Selection Program (2026) available Sept 14",
-          "date": "Sep 07, 2026",
+          "headline": "FBA新商品特典プログラム（2026）のAmazon Vine登録特典を2026年9月14日より提供開始",
+          "date": "2026年9月07日",
           "date_iso": "2026-09-07",
-          "summary": "The Amazon Vine auto-enrollment benefit will now be available starting September 14, 2026. You'll be notified by email when it's available for your account. This is a Japan-exclusive benefit available to sellers with confirmed enrollment in the New Selection Program (2026) launched on July 30, 2026. For more information, see our previous Seller News announcement. How Vine automatic enrollment works One unit per eligible parent ASIN is automatically enrolled into Vine. We’ll credit your account for each enrolled unit at the listed price (capped at JPY 15,000, excluding referral and FBA fulfillment fees). You can apply the credits for up to 120 days against future referral fees or FBA fulfillment fees, whichever is incurred first. For more information, go to New Selection Program (2026).",
-          "id": "QTFWQzM4VDdZWEI1MjgjR0VWQ1NWWldWVVQ4Q01ZRQ"
+          "summary": "Amazon Vine自動登録特典は、2026年9月14日よりご利用いただけます。出品者様のアカウントでご利用可能になった際には、Eメールでお知らせいたします。 本特典は日本限定で、2026年7月30日に開始されたFBA新商品特典プログラム（2026）へのご登録が確認された出品者様が対象です。詳しくは、以前のAmazonニュースレター（出品者様向け）のお知らせをご覧ください。 Amazon Vine自動登録の仕組み 対象となる親ASINにつき1商品がAmazon Vineに自動的に登録されます。 登録された各商品について、参考価格（上限15,000円、販売手数料およびFBA手数料を除く）がアカウントにクレジットとして付与されます。 クレジットは、今後発生する販売手数料またはFBA手数料のいずれか先に発生した方に対して、120日間使用可能です。 詳しくは、FBA新商品特典プログラム（2026）をご覧ください。",
+          "id": "QTFWQzM4VDdZWEI1MjgjR0VWQ1NWWldWVVQ4Q01ZRQ",
+          "headline_zh": "FBA新商品特典プログラム（2026）のAmazon Vine登録特典を2026年9月14日より提供開始",
+          "summary_zh": "Amazon Vine自動登録特典は、2026年9月14日よりご利用いただけます。出品者様のアカウントでご利用可能になった際には、Eメールでお知らせいたします。 本特典は日本限定で、2026年7月30日に開始されたFBA新商品特典プログラム（2026）へのご登録が確認された出品者様が対象です。詳しくは、以前のAmazonニュースレター（出品者様向け）のお知らせをご覧ください。 Amazon Vine自動登録の仕組み 対象となる親ASINにつき1商品がAmazon Vineに自動的に登録されます。 登録された各商品について、参考価格（上限15,000円、販売手数料およびFBA手数料を除く）がアカウントにクレジットとして付与されます。 クレジットは、今後発生する販売手数料またはFBA手数料のいずれか先に発生した方に対して、120日間使用可能です。 詳しくは、FBA新商品特典プログラム（2026）をご覧ください。",
+          "zh_native": true
         },
         {
-          "headline": "Seller challenge launches for Account Health Assurance",
-          "date": "Sep 05, 2026",
+          "headline": "アカウント健全性アシュアランス用にセラーチャレンジが公開されました",
+          "date": "2026年9月05日",
           "date_iso": "2026-09-05",
-          "summary": "If you have Account Health Assurance, you can use Seller Challenge to request more detailed information about enforcements on your account, after you’ve used all the standard appeals options. Seller Challenge provides you with the opportunity to request reviews of eligible listing-level policy decisions three times every 180 days. These reviews will be reviewed by our trained teams who aim to provide decisions within 48 hours. When you submit a challenge, you can provide additional documentation to support your case. If accepted, the previous decision will be overturned and your listing reinstated. Each failed challenge replenishes after six months, giving you ongoing opportunities to resolve complex cases. While this is an optional benefit, using Seller Challenge may help you resolve issues and get listings reinstated faster than other methods. To see if you’re enrolled in Account Health Assurance, go to your Account Health dashboard and review the banner in the top right corner. For more information, go to Account Health Assurance: Frequently asked questions, Seller Challenge FAQ, or watch our Account Health Assurance video.",
-          "id": "QTFWQzM4VDdZWEI1MjgjRzZZNEcyQUU3TTJZV1VOMg"
+          "summary": "アカウント健全性アシュアランスをご利用の場合、標準的な申し立てのオプションをすべて使用した後、セラーチャレンジを使用してアカウントに対する措置に関するより詳細な情報を要求することができます。 セラーチャレンジでは、180日ごとに3回まで、対象となる出品単位のポリシー決定について審査を要求する機会が提供されます。この審査は、訓練を受けたAmazonのチームによって行われます。このチームは48時間以内に回答することを目指します。 チャレンジを送信する際は、ケースをサポートする追加の書類を提出できます。審査で承認されると、前回の決定が覆され、出品が再開されます。失敗となった各チャレンジは6か月後に補充され、複雑なケースを解決するための機会が引き続き提供されます。 この機能はオプションですが、セラーチャレンジを使用することで、問題を解決し、他の方法よりも早く出品を回復することができます。 アカウント健全性アシュアランスにご登録いただいているかどうかを確認するには、アカウント健全性ダッシュボードに移動し、右上のバナーをご確認ください。 詳細については、アカウント健全性アシュアランスをご覧ください： よくある質問、セラーチャレンジに関するよくある質問、またはアカウント健全性アシュアランスの動画をご覧ください。",
+          "id": "QTFWQzM4VDdZWEI1MjgjRzZZNEcyQUU3TTJZV1VOMg",
+          "zh_native": false,
+          "headline_zh": "账户状况保障计划现已推出卖家挑战",
+          "summary_zh": "如果您正在使用账户状况保障计划，在您用尽所有标准申诉选项后，可以使用卖家挑战（Seller Challenge）要求获取有关针对您账户所采取措施的更多详细信息。卖家挑战为您提供每180天最多3次机会，要求对符合条件的商品级政策决定进行审查。该审查由经过培训的亚马逊团队进行，该团队的目标是在48小时内回复。提交挑战时，您可以提交支持该案例的额外文件。如果审查获得批准，之前的决定将被推翻，商品将恢复销售。每次失败的挑战将在6个月后补充，继续为您提供解决复杂案例的机会。此功能为可选功能，但使用卖家挑战可以帮助您解决问题，并比其他方式更快地恢复商品销售。要确认您是否已注册账户状况保障计划，请前往账户状况控制面板，查看右上角的横幅。有关更多信息，请参阅账户状况保障计划：常见问题、卖家挑战常见问题，或账户状况保障计划视频。"
         },
         {
-          "headline": "Your Account Health Rating now rewards great customer service",
-          "date": "Sep 05, 2026",
+          "headline": "アカウント健全性の評価で、優れたカスタマーサービスが評価されるようになりました",
+          "date": "2026年9月05日",
           "date_iso": "2026-09-05",
-          "summary": "Your Account Health Rating (AHR) now rewards strong customer service performance on Fulfilled by Merchant orders where you handle customer service directly. You can now earn up to 12 AHR points based on your performance across three customer service quality metrics: Buyer contact rate below 0.50%: Number of buyer contacts seeking a refund or replacement due to product quality, fulfillment, or shipping issues, excluding change of mind, divided by items shipped. Average contact response time under 12 hours: Time taken to respond to buyer messages divided by total messages received. Buyer dissatisfaction rate below 4.5%: Number of dissatisfied responses (ratings 1–2 out of 5) to the question “How satisfied are you with your recent customer service experience?” divided by total surveys sent for resolved cases. Your AHR score can only improve with strong performance across these metrics. We won't restrict selling privileges for below-average results. This change helps build your AHR through excellent customer service. To track your customer service performance, go to Feedback Manager For more information, go to Account health rating, Customer Service Quality Insights on Feedback Manager",
-          "id": "QTFWQzM4VDdZWEI1MjgjR1MyQ1c5V1ozNDUyQ1VaWA"
+          "summary": "アカウント健全性の評価（AHR）では、カスタマーサービスの処理を出品者様が直接担う出品者出荷の注文について、良質なカスタマーサービスのパフォーマンスが評価されるようになりました。 カスタマーサービスに関する以下の3つの品質指標にわたるパフォーマンスに基づいて、最大12ポイントのアカウント健全性の評価ポイントを獲得できるようになりました。 購入者の問い合わせ率が0.50%未満： 購入者都合によるものを除いた、商品の品質、出荷、または配送に関する問題により返金や交換を求める購入者からの問い合わせ件数を、出荷済み商品の点数で割った値です。 問い合わせの平均回答時間が12時間以内： 購入者からのメッセージに回答するのにかかった時間を、受信した総メッセージ件数で割った値です。 購入者の不満足度が4.5%未満： 「最近受けたカスタマーサービスの満足度はどの程度ですか？」という質問に対して、不満足を示す回答（5段階中の1～2）の件数を、解決済みのケースについて送られたアンケートの総数で割った値です。 これらの指標で高いパフォーマンスを維持するによってのみ、アカウント健全性の評価スコアを向上させることができます。平均を下回る結果となっても、出品権限が制限されることはありません。この変更は、優れたカスタマーサービスを通じてアカウント健全性の評価を高められるよう支援するものです。 カスタマーサービスのパフォーマンスを確認するには、評価管理にアクセスしてください。 詳細については、アカウント健全性の評価に移動し、評価管理でのカスタマーサービスの改善のヒントをご覧ください。",
+          "id": "QTFWQzM4VDdZWEI1MjgjR1MyQ1c5V1ozNDUyQ1VaWA",
+          "zh_native": false,
+          "headline_zh": "账户状况评级现对优质客户服务给予评价",
+          "summary_zh": "在账户状况评级（AHR）中，对于由卖家直接负责客户服务处理的卖家自配送订单，优质的客户服务表现现已纳入评价。您现在可以根据以下三项客户服务质量指标的表现，最多获得12个账户状况评级积分。买家联系率低于0.50%：除买家自身原因外，因商品质量、发货或配送问题而要求退款或换货的买家联系次数，除以已发货商品数量所得的值。平均联系响应时间在12小时以内：回复买家消息所用时间除以收到的消息总数所得的值。买家不满意率低于4.5%：对“您对最近一次客户服务体验的满意程度如何？”这一问题的负面回答（5分制中的1–2分）数量，除以针对已解决案例发送的调查问卷总数所得的值。只有在这些指标上保持优异表现，您的账户状况评级分数才能提高。即使结果低于平均水平，您的销售权限也不会受到限制。此变更旨在帮助您通过优质客户服务提升账户状况评级。要查看您的客户服务表现，请访问评级管理。有关更多信息，请前往账户状况评级，并查看评级管理中改善客户服务的提示。"
         },
         {
-          "headline": "Schedule Easy Ship pickups in new areas",
-          "date": "Sep 04, 2026",
+          "headline": "新しい地域でEasy Shipの集荷をスケジュールする",
+          "date": "2026年9月04日",
           "date_iso": "2026-09-04",
-          "summary": "We’ve expanded Amazon Easy Ship pickup coverage to include parts of Tokyo, Saitama, Chiba, Aichi, Gifu, Mie, Osaka, Kyoto, Hyogo, Nara, and Shiga. With Easy Ship, we pick up and deliver your seller-fulfilled packages. Tracking information is automatically generated and shared, and Customer Service by Amazon handles delivery inquiries on your behalf at no additional cost. How to get started Go to Easy Ship settings. Check your eligibility, verify your pickup address, and enter the additional required information. Approximately 9 to 14 days after registration, you can start scheduling Easy Ship pickups for your orders. There are no registration fees, no lock-in contracts, and no monthly fixed costs. Service fees (shipping, pickup, and label paper) are charged on a per-shipment basis when the shipping label is scanned. For the full list of service areas, go to Easy Ship pickup coverage locations. For pricing details, go to Amazon Easy Ship features and fees.",
-          "id": "QTFWQzM4VDdZWEI1MjgjR004SDJSS0JWOFRYV1Y1UQ"
+          "summary": "Amazon Easy Shipの集荷対象地域が、東京、埼玉、千葉、愛知、岐阜、三重、大阪、京都、兵庫、奈良、滋賀の一部に拡大されました。 Easy Shipでは、Amazonが出品者出荷の荷物を集荷して配送します。追跡情報は自動的に作成、共有されます。Customer Service by Amazon（CSBA）が出品者様に代わって配送に関するお問い合わせを無料で処理します。 開始方法 Easy Shipの設定に移動します。 利用資格の確認、集荷先住所の確認、その他必要情報の入力を行います。 登録から約9～14日後に、注文に対するEasy Ship集荷のスケジュール設定を開始できます。 登録料、月額固定費用はかからず、ロックイン契約は不要です。サービス手数料（配送、集荷、ラベル用紙）は、配送ラベルがスキャンされると、出荷1件ごとに請求されます。 サービス対象地域の一覧については、Easy Shipの集荷対象場所をご覧ください。 価格の詳細については、Amazon Easy Shipの機能と手数料をご覧ください。",
+          "id": "QTFWQzM4VDdZWEI1MjgjR004SDJSS0JWOFRYV1Y1UQ",
+          "zh_native": false,
+          "headline_zh": "在新的地区安排 Easy Ship 取件",
+          "summary_zh": "Amazon Easy Ship 的取件适用地区已扩大至东京、埼玉、千叶、爱知、岐阜、三重、大阪、京都、兵库、奈良、滋贺的部分地区。使用 Easy Ship，Amazon 将上门取件并配送卖家发货的包裹。追踪信息会自动创建并共享。Customer Service by Amazon（CSBA）将免费代卖家处理配送相关咨询。开始方法：前往 Easy Ship 设置。确认使用资格、确认取件地址并输入其他必要信息。注册后约 9～14 天，即可开始为订单安排 Easy Ship 取件。无需注册费、月固定费用，也无需锁定合同。服务手续费（配送、取件、标签用纸）将在配送标签被扫描后，按每件发货计费。有关服务适用地区列表，请参阅 Easy Ship 取件适用地点。有关价格详情，请参阅 Amazon Easy Ship 的功能与费用。"
         },
         {
-          "headline": "Connect your seller account to LINE for critical alerts from our official account",
-          "date": "Sep 01, 2026",
+          "headline": "出品用アカウントとLINEを連携し、公式アカウントからの重要なアラートを受信する",
+          "date": "2026年9月01日",
           "date_iso": "2026-09-01",
-          "summary": "You can now receive critical account health notifications from the Amazon LINE official account. When you connect your seller account to LINE, you'll get alerts when your account is at risk of deactivation due to a failure to achieve performance indicators or from policy violations. The message will include the actions necessary to continue selling. The sell on Amazon LINE official account sends notices about required actions related to your account status, listing status, and payment disbursement errors. You'll also receive notifications about late shipment rates, valid tracking rates, and Buy Box loss due to pricing issues. These LINE messages complement our existing email and Seller Central notifications to help ensure you don't miss critical information. Note: While we are continually onboarding new notifications, as of now notifications may not be sent on LINE for every product listing deactivation. In addition, due to related systems, there may be a slight delay between the initial alert in Seller Central and the LINE notification. Therefore, we encourage you to still check your email and Seller Central. To get started, go to the LINE Official Account to connect your account.",
-          "id": "QTFWQzM4VDdZWEI1MjgjR05ZREU1WEI5QlQyRVpQWQ"
+          "summary": "Amazon LINE公式アカウントから、アカウント健全性に関する重要な通知を受け取れるようになりました。出品用アカウントとLINEを連携すると、パフォーマンス指標の未達成やポリシー違反によりアカウント停止のリスクがある場合にアラートを受信できます。メッセージには、出品を継続するために必要なアクションが記載されています。 Amazon出品LINE公式アカウントは、出品用アカウントや出品のステータス、振込のエラーなど、出品者様の対応が必要なアクションに関する通知を送信します。また、出荷遅延率、追跡可能率、価格問題によるBuy Box喪失に関する通知も受信できます。これらのLINEメッセージは、既存のEメールおよびセラーセントラルの通知を補完し、重要な情報が見逃されないようにします。 注： 新しい通知を継続的に追加していますが、現時点ではすべての出品情報停止についてLINE通知が送信されるわけではありません。また、関連システムの都合により、セラーセントラルでの初期アラートとLINE通知の間にわずかな遅延が生じる場合があります。したがって、Eメールおよびセラーセントラルも引き続きご確認ください。 開始するには、LINE公式アカウントに移動して、アカウントを連携します。 LINE通知の受信および使用方法については、LINEでアカウント健全性の通知を受信するをご覧いただくか、このPDFドキュメントをダウンロードしてください。",
+          "id": "QTFWQzM4VDdZWEI1MjgjR05ZREU1WEI5QlQyRVpQWQ",
+          "zh_native": false,
+          "headline_zh": "将卖家账户与 LINE 关联，接收官方账号发送的重要提醒",
+          "summary_zh": "现在可以从 Amazon LINE 官方账号接收有关账户健康状况的重要通知。将卖家账户与 LINE 关联后，当因绩效指标未达标或违反政策而存在账户停用风险时，您可以收到提醒。消息中会说明继续销售所需采取的措施。Amazon 卖家 LINE 官方账号会发送有关卖家账户或销售状态、付款错误等需要卖家采取行动的通知。此外，您还可以接收有关发货延迟率、可追踪率、因价格问题失去 Buy Box 的通知。这些 LINE 消息将补充现有的电子邮件和卖家平台通知，以避免遗漏重要信息。注：我们会持续添加新的通知，但目前并非所有销售信息停用都会发送 LINE 通知。此外，由于相关系统的原因，卖家平台中的初始提醒与 LINE 通知之间可能会出现轻微延迟。因此，请继续查看电子邮件和卖家平台。如需开始使用，请前往 LINE 官方账号并关联账户。有关接收和使用 LINE 通知的详情，请参阅在 LINE 上接收账户健康状况通知，或下载此 PDF 文档。"
         },
         {
-          "headline": "Create exclusive deals for Amazon Business customers",
-          "date": "Sep 01, 2026",
+          "headline": "Amazonビジネスのお客様向けに限定タイムセールを作成する",
+          "date": "2026年9月01日",
           "date_iso": "2026-09-01",
-          "summary": "Starting August 31, 2026, you can create exclusive, limited-time deals for business customers through Amazon Business Deals. This feature is available in the US, Canada, UK, Germany, France, Italy, Spain, Japan, Mexico, and Australia. With Amazon Business Deals, you can offer exclusive business-to-business (B2B) discounts for durations from one hour to 30 days. Choose between Fixed Price or Percent Off promotions. During major shopping events like Prime Big Deal Days, Black Friday, and other events, your deals may receive enhanced visibility through dedicated email and push notification campaigns at no additional cost until December 31, 2026. Your products must have a 3.5+ star rating, be in new condition, and meet pricing and seller performance requirements to be eligible. Deals must also meet minimum discount requirements of at least 10% off for regular deals and 15% for High Velocity Event deals such as Prime Big Deal Days, Black Friday and Cyber Monday. By participating, you can reach over 11 million registered business organizations globally, gain greater visibility during events, and tap into the additional traffic that deal placements bring to new products. You'll find Amazo",
-          "id": "QTFWQzM4VDdZWEI1MjgjR1M0REJBM0w3NlRNVVA2Qg"
+          "summary": "2026年8月31日以降、法人のお客様向けに、Amazonビジネスタイムセールを通じて期間限定のタイムセールを作成できます。この機能は米国、カナダ、イギリス、ドイツ、フランス、イタリア、スペイン、日本、メキシコ、オーストラリアで利用可能です。 Amazonビジネスタイムセールでは、1時間～30日間の期間を対象に、法人間（B2B）の限定割引を提供できます。固定価格または割引率のプロモーションから選択します。 プライム感謝祭やブラックフライデーなどの主要なショッピングイベントでは、2026年12月31日まで、専用のEメールやプッシュ通知キャンペーンにより、追加料金なしでタイムセールの露出度を高められる場合があります。 対象商品となるには、星の数が3.5以上で、新品であり、価格と出品者パフォーマンス要件を満たしている必要があります。タイムセールは、通常のタイムセールでは最低10%の割引、プライム感謝祭、ブラックフライデー、サイバーマンデーなどの高速イベント（HVE）では最低15%の割引提供という要件を満たす必要があります。 参加することで、全世界の1100万社以上の登録企業にリーチし、イベント中の露出を高めることができます。また、タイムセールのプレースメントにより、新しい商品の閲覧数の増加につながります。 現在法人価格のある商品について、Amazonビジネスタイムセールはセラーセントラルの価格の割引ツールで確認できます。 利用を開始するには、プロモーションに移動して、対象者としてすべての法人のお客様を選択します。 詳しくは、Amazonビジネスタイムセールをご覧ください。",
+          "id": "QTFWQzM4VDdZWEI1MjgjR1M0REJBM0w3NlRNVVA2Qg",
+          "zh_native": false,
+          "headline_zh": "为 Amazon Business 客户创建限时秒杀",
+          "summary_zh": "自 2026 年 8 月 31 日起，您可以面向企业客户通过 Amazon Business 限时秒杀创建限时促销。此功能适用于美国、加拿大、英国、德国、法国、意大利、西班牙、日本、墨西哥、澳大利亚。通过 Amazon Business 限时秒杀，您可以针对 1 小时至 30 天的时段提供企业对企业（B2B）专属折扣。可选择固定价格或折扣率促销。在 Prime 会员日、黑色星期五等主要购物活动中，截至 2026 年 12 月 31 日，可能通过专属电子邮件或推送通知活动，在不收取额外费用的情况下提高限时秒杀的曝光度。要成为符合条件的商品，星级须为 3.5 以上、为新品，并满足价格和卖家绩效要求。限时秒杀须满足以下要求：普通限时秒杀最低提供 10% 折扣，Prime 会员日、黑色星期五、网络星期一等高速活动（HVE）最低提供 15% 折扣。参与后可触达全球超过 1100 万家注册企业，并提高活动期间的曝光度。此外，通过限时秒杀展示位，可带动新商品浏览量增加。对于当前具有企业价格的商品，可在卖家平台的价格折扣工具中查看 Amazon Business 限时秒杀。如需开始使用，请前往促销，并将受众选择为所有企业客户。详情请参阅 Amazon Business 限时秒杀。"
         },
         {
-          "headline": "Prepare for the 2026 Japan Prime Appreciation Sale",
-          "date": "Aug 27, 2026",
+          "headline": "2026年プライム感謝祭に備える",
+          "date": "2026年8月27日",
           "date_iso": "2026-08-27",
-          "summary": "Japan Prime Appreciation Sale is one of our biggest events, exclusively for Amazon Prime members. The 2026 event guide is available and includes the following: Details about each type of promotion including Best Deals, Prime Exclusive Price Discounts, Point Deal, and Amazon Coupons The annual 2026 event schedule, including Prime Day, Smile sales, and Prime Appreciation sale View the guide in your preferred language: Japanese: 2026年 プライム感謝祭のご案内 English: 2026 Japan Prime Appreciation Sale promotions guidelines Chinese: 2026年 Prime会员日 活动介绍",
-          "id": "QTFWQzM4VDdZWEI1MjgjRzZFMks4TVJLVVA1QUdWUA"
+          "summary": "プライム感謝祭は、Amazonプライム会員限定の最大級のイベントの一つです。2026年のイベントガイドをご利用いただけます。内容は以下のとおりです： お買い得情報、プライム限定価格の割引、ポイントタイムセール、Amazonクーポンを含む、各種プロモーションの詳細 2026年の年間イベントスケジュール（プライムデー、スマイルセール、プライム感謝祭を含む） ご希望の言語でガイドを表示する： 日本語： 2026年 プライム感謝祭のご案内 英語： 2026 Japan Prime Appreciation Sale promotions guidelines 中国語： 2026年 Prime会员日 活动介绍",
+          "id": "QTFWQzM4VDdZWEI1MjgjRzZFMks4TVJLVVA1QUdWUA",
+          "headline_zh": "2026年プライム感謝祭に備える",
+          "summary_zh": "プライム感謝祭は、Amazonプライム会員限定の最大級のイベントの一つです。2026年のイベントガイドをご利用いただけます。内容は以下のとおりです： お買い得情報、プライム限定価格の割引、ポイントタイムセール、Amazonクーポンを含む、各種プロモーションの詳細 2026年の年間イベントスケジュール（プライムデー、スマイルセール、プライム感謝祭を含む） ご希望の言語でガイドを表示する： 日本語： 2026年 プライム感謝祭のご案内 英語： 2026 Japan Prime Appreciation Sale promotions guidelines 中国語： 2026年 Prime会员日 活动介绍",
+          "zh_native": true
         },
         {
-          "headline": "Amazon 6th Smile SALE November 4 - 12, 2026",
-          "date": "Aug 27, 2026",
+          "headline": "Amazon第6回スマイルセール　2026年11月4日～12日",
+          "date": "2026年8月27日",
           "date_iso": "2026-08-27",
-          "summary": "Smile SALE drives increased customer traffic, helping you reach more customers and maximize your sales. To view the timeline and register your products for the sale, go to the guide for your language: JP / EN / CN Review the guidelines before creating external promotions: Guidelines for external communication by seller.",
-          "id": "QTFWQzM4VDdZWEI1MjgjR0FVR0RRR1RCNURCRFBIQg"
+          "summary": "スマイルセールは顧客の訪問数の増加につながり、より多くのお客様にリーチして売上を最大化するお手伝いをします。 セールのスケジュールを確認し、商品を登録するには、ご希望の言語のガイドをご参照ください。 JP / EN / CN 外部向けプロモーションを作成する前に、ガイドラインをご確認ください。 出品者による外部向けコミュニケーションのガイドライン",
+          "id": "QTFWQzM4VDdZWEI1MjgjR0FVR0RRR1RCNURCRFBIQg",
+          "headline_zh": "Amazon第6回スマイルセール　2026年11月4日～12日",
+          "summary_zh": "スマイルセールは顧客の訪問数の増加につながり、より多くのお客様にリーチして売上を最大化するお手伝いをします。 セールのスケジュールを確認し、商品を登録するには、ご希望の言語のガイドをご参照ください。 JP / EN / CN 外部向けプロモーションを作成する前に、ガイドラインをご確認ください。 出品者による外部向けコミュニケーションのガイドライン",
+          "zh_native": true
         }
       ],
       "raw": "data/raw/2026-09-14/JP.txt"
@@ -170,8 +232,9 @@
       "label": "阿联酋站",
       "kind": "seller-news",
       "url": "https://sellercentral.amazon.ae/seller-news/articles",
+      "locale": "",
       "ok": true,
-      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
+      "fetched_at": "2026-09-14T23:56:32.733463+08:00",
       "stale": false,
       "count": 10,
       "articles": [
@@ -180,70 +243,100 @@
           "date": "2026年9月04日",
           "date_iso": "2026-09-04",
           "summary": "如果您已加入账户状况保障计划，则在已使用所有标准申诉选项后，可以使用“卖家质疑”请求有关账户执行措施的更多详细信息。 “卖家质疑”让您有机会对符合要求的商品政策决定申请复核，每 180 天可申请三次。这些复核申请将由我们训练有素的团队进行审核，目标是在 48 小时内作出决定。 提交质疑时，您可以在问题单中提供其他证明文件。如果我们认可您的质疑，则之前的决定将被推翻并重新启售您的商品。每次质疑失败将在六个月后重置，为您持续提供关闭复杂问题单的机会。 虽然这是一项可选权益，但使用“卖家质疑”不仅可以帮助您解决问题，而且与其他方法相比，可以更快地将商品恢复上架销售。 要查看您是否已加入账户状况保障计划，请前往账户状况控制面板并查看右上角的横幅。 有关更多信息，请参阅账户状况保障计划： 常见问题或卖家质疑常见问题，或者观看我们的账户状况保障计划视频。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjRzZZNEcyQUU3TTJZV1VOMg"
+          "id": "QTJWSUdRMzVSQ1M0VUcjRzZZNEcyQUU3TTJZV1VOMg",
+          "headline_zh": "针对账户状况保障计划推出“卖家质疑”",
+          "summary_zh": "如果您已加入账户状况保障计划，则在已使用所有标准申诉选项后，可以使用“卖家质疑”请求有关账户执行措施的更多详细信息。 “卖家质疑”让您有机会对符合要求的商品政策决定申请复核，每 180 天可申请三次。这些复核申请将由我们训练有素的团队进行审核，目标是在 48 小时内作出决定。 提交质疑时，您可以在问题单中提供其他证明文件。如果我们认可您的质疑，则之前的决定将被推翻并重新启售您的商品。每次质疑失败将在六个月后重置，为您持续提供关闭复杂问题单的机会。 虽然这是一项可选权益，但使用“卖家质疑”不仅可以帮助您解决问题，而且与其他方法相比，可以更快地将商品恢复上架销售。 要查看您是否已加入账户状况保障计划，请前往账户状况控制面板并查看右上角的横幅。 有关更多信息，请参阅账户状况保障计划： 常见问题或卖家质疑常见问题，或者观看我们的账户状况保障计划视频。",
+          "zh_native": true
         },
         {
           "headline": "您的账户状况评级现在会对优质的客户服务提供奖励",
           "date": "2026年9月04日",
           "date_iso": "2026-09-04",
           "summary": "现在，对于您直接负责处理客户服务事宜的卖家自配送订单的优质客户服务表现，您在账户状况评级 (AHR) 方面会获得奖励。 您现在可以根据以下三项客户服务质量指标的表现，获得最多 12 个账户状况评级积分： 买家联系率低于 0.50%： 因商品质量、配送或运输问题（不含买家改变主意）而需要退款或换货的买家联系次数除以已发货商品数量。 平均联系回复时间低于 12 小时： 回复买家消息所花时间除以收到的消息总数。 买家不满率低于 4.5%： 针对问题“您对最近一次客户服务体验的满意度如何？”的不满意回复（1~2 分，最高 5 分）数量除以针对已解决问题单发送的调查问卷总数。 只有这些指标表现优秀，您的账户状况评级分数才能提升。对于低于平均水平的结果，我们不会限制您的销售权限。此项变更有助于您通过提供出色的客户服务提升账户状况评级。 要追踪您的客户服务绩效，请前往反馈管理器。 有关更多信息，请参阅账户状况评级、反馈管理器中的客户服务质量洞察。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR1MyQ1c5V1ozNDUyQ1VaWA"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR1MyQ1c5V1ozNDUyQ1VaWA",
+          "headline_zh": "您的账户状况评级现在会对优质的客户服务提供奖励",
+          "summary_zh": "现在，对于您直接负责处理客户服务事宜的卖家自配送订单的优质客户服务表现，您在账户状况评级 (AHR) 方面会获得奖励。 您现在可以根据以下三项客户服务质量指标的表现，获得最多 12 个账户状况评级积分： 买家联系率低于 0.50%： 因商品质量、配送或运输问题（不含买家改变主意）而需要退款或换货的买家联系次数除以已发货商品数量。 平均联系回复时间低于 12 小时： 回复买家消息所花时间除以收到的消息总数。 买家不满率低于 4.5%： 针对问题“您对最近一次客户服务体验的满意度如何？”的不满意回复（1~2 分，最高 5 分）数量除以针对已解决问题单发送的调查问卷总数。 只有这些指标表现优秀，您的账户状况评级分数才能提升。对于低于平均水平的结果，我们不会限制您的销售权限。此项变更有助于您通过提供出色的客户服务提升账户状况评级。 要追踪您的客户服务绩效，请前往反馈管理器。 有关更多信息，请参阅账户状况评级、反馈管理器中的客户服务质量洞察。",
+          "zh_native": true
         },
         {
           "headline": "使用新工作流程查询亚马逊物流库存货件差异",
           "date": "2026年9月04日",
           "date_iso": "2026-09-04",
           "summary": "我们已简化亚马逊物流 (FBA) 货件的货件差异查询流程，并会突出显示您的入库计划中所列内容与我们的运营中心所收内容之间的任何差异。 如果您需要查询亚马逊物流货件差异，请前往货件，然后按照以下步骤操作： 找到您的货件，然后点击【追踪货件】。 在“货件一览”中，点击【物品信息】选项卡。 查看差异，并选择相应状态 - “商品漏发”或“调查缺失商品” 上传文件。 提供更多信息。 预览并提交申请。 只有当货件状态为“已完成”时，您才能查询其差异。 在货件处理进度中追踪货件状态，货件状态会依次显示“在途”、“已完成配送”、“已登记”、“正在接收”和“已完成”。 有关更多信息，请参阅查询货件差异",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR1QyWlVITjhFSlE1VFM5WQ"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR1QyWlVITjhFSlE1VFM5WQ",
+          "headline_zh": "使用新工作流程查询亚马逊物流库存货件差异",
+          "summary_zh": "我们已简化亚马逊物流 (FBA) 货件的货件差异查询流程，并会突出显示您的入库计划中所列内容与我们的运营中心所收内容之间的任何差异。 如果您需要查询亚马逊物流货件差异，请前往货件，然后按照以下步骤操作： 找到您的货件，然后点击【追踪货件】。 在“货件一览”中，点击【物品信息】选项卡。 查看差异，并选择相应状态 - “商品漏发”或“调查缺失商品” 上传文件。 提供更多信息。 预览并提交申请。 只有当货件状态为“已完成”时，您才能查询其差异。 在货件处理进度中追踪货件状态，货件状态会依次显示“在途”、“已完成配送”、“已登记”、“正在接收”和“已完成”。 有关更多信息，请参阅查询货件差异",
+          "zh_native": true
         },
         {
           "headline": "为亚马逊企业购买家创建专享促销",
           "date": "2026年8月31日",
           "date_iso": "2026-08-31",
           "summary": "自 2026 年 8 月 31 日起，您可以通过亚马逊企业购促销为企业买家创建专享限时促销。此功能现已在美国、加拿大、英国、德国、法国、意大利、西班牙、日本、墨西哥和澳大利亚推出。 通过亚马逊企业购促销，您可以提供仅面向企业对企业 (B2B) 买家的专享折扣，时长可为 1 小时至 30 天。选择固定价格促销或百分比折扣促销。 在 Prime 会员大促、黑色星期五或其他活动等重大购物活动期间，截至 2026 年 12 月 31 日，您的促销可通过专属的电子邮件和推送通知活动获得更多曝光度，且无需支付额外费用。 您的商品必须具有 3.5 星以上评级、新品状况，并且符合定价和卖家绩效要求，才有资格参与。促销还必须满足最低折扣要求：常规促销的折扣必须至少达到 10%，而 Prime 会员大促、黑色星期五和网购星期一等高流量活动促销的折扣必须至少达到 15%。 通过参与，您可以吸引全球超过 1100 万家已注册企业机构购买商品，在活动期间获得更高的曝光度，并借助促销展示位为新品带来更多流量。 对于已有企业商品价格的商品，您可以在卖家平台的“价格折扣”工具中找到亚马逊企业购促销。 要开始使用，请前往促销，然后选择所有企业买家作为您的受众。 要了解更多信息，请参阅亚马逊企业购促销。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR1M0REJBM0w3NlRNVVA2Qg"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR1M0REJBM0w3NlRNVVA2Qg",
+          "headline_zh": "为亚马逊企业购买家创建专享促销",
+          "summary_zh": "自 2026 年 8 月 31 日起，您可以通过亚马逊企业购促销为企业买家创建专享限时促销。此功能现已在美国、加拿大、英国、德国、法国、意大利、西班牙、日本、墨西哥和澳大利亚推出。 通过亚马逊企业购促销，您可以提供仅面向企业对企业 (B2B) 买家的专享折扣，时长可为 1 小时至 30 天。选择固定价格促销或百分比折扣促销。 在 Prime 会员大促、黑色星期五或其他活动等重大购物活动期间，截至 2026 年 12 月 31 日，您的促销可通过专属的电子邮件和推送通知活动获得更多曝光度，且无需支付额外费用。 您的商品必须具有 3.5 星以上评级、新品状况，并且符合定价和卖家绩效要求，才有资格参与。促销还必须满足最低折扣要求：常规促销的折扣必须至少达到 10%，而 Prime 会员大促、黑色星期五和网购星期一等高流量活动促销的折扣必须至少达到 15%。 通过参与，您可以吸引全球超过 1100 万家已注册企业机构购买商品，在活动期间获得更高的曝光度，并借助促销展示位为新品带来更多流量。 对于已有企业商品价格的商品，您可以在卖家平台的“价格折扣”工具中找到亚马逊企业购促销。 要开始使用，请前往促销，然后选择所有企业买家作为您的受众。 要了解更多信息，请参阅亚马逊企业购促销。",
+          "zh_native": true
         },
         {
           "headline": "更新税务信息，应对阿联酋即将推行的电子发票要求",
           "date": "2026年8月12日",
           "date_iso": "2026-08-12",
           "summary": "自 2027 年 1 月 1 日起，阿联酋将对企业-企业和企业-政府交易强制推行电子发票。 为确保合规，我们将使用您账户中的税务和法律信息确定您是否有资格接收卖家费用电子发票，并填写发票信息。 为应对此项要求，请在 2026 年 12 月 15 日前完成以下步骤： 前往税务设置，查看并更新您的增值税 (VAT) 登记号。 确保您在身份信息中提供的营业执照、阿联酋身份证和护照号码有效。 确认您在身份信息中的法定名称与您在联邦税务局的记录完全一致。 如果您的信息不完整或不正确，您可能无法根据我们的发票申报增值税。 如果贵公司需遵守阿联酋电子发票要求，您必须根据您的实施阶段，在经联邦税务局认可的阿联酋 Peppol 接入点进行注册。这样可以通过阿联酋电子发票网络交换电子发票。此外，您还需要为适用交易开具合规的电子发票。我们将在接下来几个月内分享有关如何在“税务设置”中更新您的 Peppol 编号的说明。 有关更多信息，请参阅阿联酋发票。 此外，还可以参阅阿联酋财政部电子发票页面和阿联酋增值税常见问题。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR1hKNDJSQktSTkZSM1IyOA"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR1hKNDJSQktSTkZSM1IyOA",
+          "headline_zh": "更新税务信息，应对阿联酋即将推行的电子发票要求",
+          "summary_zh": "自 2027 年 1 月 1 日起，阿联酋将对企业-企业和企业-政府交易强制推行电子发票。 为确保合规，我们将使用您账户中的税务和法律信息确定您是否有资格接收卖家费用电子发票，并填写发票信息。 为应对此项要求，请在 2026 年 12 月 15 日前完成以下步骤： 前往税务设置，查看并更新您的增值税 (VAT) 登记号。 确保您在身份信息中提供的营业执照、阿联酋身份证和护照号码有效。 确认您在身份信息中的法定名称与您在联邦税务局的记录完全一致。 如果您的信息不完整或不正确，您可能无法根据我们的发票申报增值税。 如果贵公司需遵守阿联酋电子发票要求，您必须根据您的实施阶段，在经联邦税务局认可的阿联酋 Peppol 接入点进行注册。这样可以通过阿联酋电子发票网络交换电子发票。此外，您还需要为适用交易开具合规的电子发票。我们将在接下来几个月内分享有关如何在“税务设置”中更新您的 Peppol 编号的说明。 有关更多信息，请参阅阿联酋发票。 此外，还可以参阅阿联酋财政部电子发票页面和阿联酋增值税常见问题。",
+          "zh_native": true
         },
         {
           "headline": "7 月 29 日后使用账户编号管理销售角色",
           "date": "2026年8月05日",
           "date_iso": "2026-08-05",
           "summary": "为简化品牌管理销售角色的方式，自 2026 年 7 月 29 日起，品牌注册管理员将使用账户编号，而不再使用卖家记号。借助销售角色，您可以享受品牌销售权益（例如 A+ 商品描述、品牌旗舰店和 Vine），这些权益可帮助您优化商品信息并提升销量。 以下是您需要了解的事项： 如果您是品牌注册管理员、已分配有销售角色，或想通过销售角色来享受品牌销售权益，则此变更将对您产生影响。 品牌注册管理员将使用账户编号分配或修改销售角色。 账户编号提供一个全球通用的唯一标识码，因此品牌管理员无需管理多个卖家记号。 账户所有者： 要查找您的账户编号，请执行以下操作： 点击页面顶部的齿轮图标。 选择【设置。】 选择【管理账户。】 要查找您的账户所有者： 前往【用户权限】。 请查看在“账户角色”下显示为“所有者”的用户。 如果未显示【用户权限】，请联系您的卖家平台账户管理员并申请访问权限。 如需了解更多信息，请参阅品牌注册销售角色。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR0JOUVVCOTdKSlJaNDdWWg"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR0JOUVVCOTdKSlJaNDdWWg",
+          "headline_zh": "7 月 29 日后使用账户编号管理销售角色",
+          "summary_zh": "为简化品牌管理销售角色的方式，自 2026 年 7 月 29 日起，品牌注册管理员将使用账户编号，而不再使用卖家记号。借助销售角色，您可以享受品牌销售权益（例如 A+ 商品描述、品牌旗舰店和 Vine），这些权益可帮助您优化商品信息并提升销量。 以下是您需要了解的事项： 如果您是品牌注册管理员、已分配有销售角色，或想通过销售角色来享受品牌销售权益，则此变更将对您产生影响。 品牌注册管理员将使用账户编号分配或修改销售角色。 账户编号提供一个全球通用的唯一标识码，因此品牌管理员无需管理多个卖家记号。 账户所有者： 要查找您的账户编号，请执行以下操作： 点击页面顶部的齿轮图标。 选择【设置。】 选择【管理账户。】 要查找您的账户所有者： 前往【用户权限】。 请查看在“账户角色”下显示为“所有者”的用户。 如果未显示【用户权限】，请联系您的卖家平台账户管理员并申请访问权限。 如需了解更多信息，请参阅品牌注册销售角色。",
+          "zh_native": true
         },
         {
           "headline": "利用亚马逊物流库存洞察信息提升 B2B 销量",
           "date": "2026年7月24日",
           "date_iso": "2026-07-24",
           "summary": "亚马逊物流注册建议页面现在会向亚马逊企业购买家重点显示那些使用亚马逊物流配送预计效果会更好的热门商品。将这些商品注册加入亚马逊物流，有助于您提升 B2B 销量。 从哪里可以找到这些建议： 在卖家平台中，前往菜单，选择【库存】，然后选择【建议】。 选择【“高 B2B 需求”筛选条件】。 查看每件商品预计在 90 天内带来的 B2B 销售提升情况。 切换到亚马逊物流后，您的商品将有资格获得 Prime 标记，从而可以帮助您获得更多推荐报价，并提高销量。使用亚马逊物流，亚马逊将负责处理您的仓储、包装、配送、退货和客户服务事宜，同时针对企业买家优化您的商品。 与其他买家相比，亚马逊企业购买家每笔订单的购买量会提高 ，而且他们偏好的商品可能不同于您在个人买家中表现最好的商品。拆分 B2B 可帮助您识别并优化这些不同的购买模式。 要开始使用，请前往您的亚马逊物流注册建议页面。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR1MzV1o3QjZHOE44TVZISg"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR1MzV1o3QjZHOE44TVZISg",
+          "headline_zh": "利用亚马逊物流库存洞察信息提升 B2B 销量",
+          "summary_zh": "亚马逊物流注册建议页面现在会向亚马逊企业购买家重点显示那些使用亚马逊物流配送预计效果会更好的热门商品。将这些商品注册加入亚马逊物流，有助于您提升 B2B 销量。 从哪里可以找到这些建议： 在卖家平台中，前往菜单，选择【库存】，然后选择【建议】。 选择【“高 B2B 需求”筛选条件】。 查看每件商品预计在 90 天内带来的 B2B 销售提升情况。 切换到亚马逊物流后，您的商品将有资格获得 Prime 标记，从而可以帮助您获得更多推荐报价，并提高销量。使用亚马逊物流，亚马逊将负责处理您的仓储、包装、配送、退货和客户服务事宜，同时针对企业买家优化您的商品。 与其他买家相比，亚马逊企业购买家每笔订单的购买量会提高 ，而且他们偏好的商品可能不同于您在个人买家中表现最好的商品。拆分 B2B 可帮助您识别并优化这些不同的购买模式。 要开始使用，请前往您的亚马逊物流注册建议页面。",
+          "zh_native": true
         },
         {
           "headline": "现在必须在商品信息和 A+ 商品描述中为由 AI 生成的人物添加标签",
           "date": "2026年7月22日",
           "date_iso": "2026-07-22",
           "summary": "现在，在将包含由 AI 生成的逼真人物的商品图片添加到我们全球任意商城中的商品信息和 A+ 商品描述之前，您必须先使用特定的元数据为这些图片添加标签。 近期法规要求，若广告中的图片或视频包含由 AI 生成的逼真人物，则必须进行相关披露。 为确保合规，您必须先使用与 IPTC 兼容的元数据编辑器在图片或视频文件的 dc:subject (XMP) 字段中添加关键词 ［ contains-synthetic-performer ］ ，然后才能将这些图片或视频添加到商品信息和 A+ 商品描述中。 如果您添加了该元数据，我们会在适用情况下添加相应的标示符，告知买家该图片包含由 AI 生成的人物。 仅当您的图片或视频包含由 AI 生成的逼真人物时，此要求才适用。 如果您的图片或视频符合以下任一情况，则无需提供该元数据： 仅包含真实人物（即使曾使用 AI 工具进行过修改） 仅包含电影、电视节目、流媒体内容、纪录片、视频游戏或其他表现性作品中的角色（例如，电影海报或视频游戏封面） 不包含任何人物 不包含逼真人物 有关详细说明，请参阅如何为包含由 AI 生成的人物的媒体添加标签。 如需了解更多信息，请参阅商品图片指南和购物视频指南。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR0dGNTJCQlpHRko4MkdKMg"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR0dGNTJCQlpHRko4MkdKMg",
+          "headline_zh": "现在必须在商品信息和 A+ 商品描述中为由 AI 生成的人物添加标签",
+          "summary_zh": "现在，在将包含由 AI 生成的逼真人物的商品图片添加到我们全球任意商城中的商品信息和 A+ 商品描述之前，您必须先使用特定的元数据为这些图片添加标签。 近期法规要求，若广告中的图片或视频包含由 AI 生成的逼真人物，则必须进行相关披露。 为确保合规，您必须先使用与 IPTC 兼容的元数据编辑器在图片或视频文件的 dc:subject (XMP) 字段中添加关键词 ［ contains-synthetic-performer ］ ，然后才能将这些图片或视频添加到商品信息和 A+ 商品描述中。 如果您添加了该元数据，我们会在适用情况下添加相应的标示符，告知买家该图片包含由 AI 生成的人物。 仅当您的图片或视频包含由 AI 生成的逼真人物时，此要求才适用。 如果您的图片或视频符合以下任一情况，则无需提供该元数据： 仅包含真实人物（即使曾使用 AI 工具进行过修改） 仅包含电影、电视节目、流媒体内容、纪录片、视频游戏或其他表现性作品中的角色（例如，电影海报或视频游戏封面） 不包含任何人物 不包含逼真人物 有关详细说明，请参阅如何为包含由 AI 生成的人物的媒体添加标签。 如需了解更多信息，请参阅商品图片指南和购物视频指南。",
+          "zh_native": true
         },
         {
           "headline": "从“添加商品”页面添加至现有变体系列",
           "date": "2026年7月21日",
           "date_iso": "2026-07-21",
           "summary": "借助我们预先填写的电子表格，您可以直接通过【添加商品】页面更方便地将新商品和现有商品添加到某个变体系列中，从而节省时间并减少错误。 现在，您可以在【添加商品】中搜索商品，并下载完整的变体系列信息，包括现有变体及其属性。然后，您只需为新增商品填写相应的必填字段并上传，即可完成。 要开始使用此功能，请按照以下步骤操作： 前往添加商品。 通过【搜索】或【商品编码】选项卡搜索商品，然后点击商品信息页面上的【查看变体】。 选择【添加新变体】以创建新的商品变体或将现有的独立 SKU 添加到您的变体系列中；或者选择【为所选变体添加报价】，为此系列中已有的商品变体创建报价。 按照电子表格中的说明操作。 注意： 此工作流程将取代【变体向导】，此向导将于 2026 年 8 月底停用。 要了解更多信息，请参阅创建和管理商品变体。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR1lKUjNEN0pFQTRaTFZBOQ"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR1lKUjNEN0pFQTRaTFZBOQ",
+          "headline_zh": "从“添加商品”页面添加至现有变体系列",
+          "summary_zh": "借助我们预先填写的电子表格，您可以直接通过【添加商品】页面更方便地将新商品和现有商品添加到某个变体系列中，从而节省时间并减少错误。 现在，您可以在【添加商品】中搜索商品，并下载完整的变体系列信息，包括现有变体及其属性。然后，您只需为新增商品填写相应的必填字段并上传，即可完成。 要开始使用此功能，请按照以下步骤操作： 前往添加商品。 通过【搜索】或【商品编码】选项卡搜索商品，然后点击商品信息页面上的【查看变体】。 选择【添加新变体】以创建新的商品变体或将现有的独立 SKU 添加到您的变体系列中；或者选择【为所选变体添加报价】，为此系列中已有的商品变体创建报价。 按照电子表格中的说明操作。 注意： 此工作流程将取代【变体向导】，此向导将于 2026 年 8 月底停用。 要了解更多信息，请参阅创建和管理商品变体。",
+          "zh_native": true
         },
         {
           "headline": "从新的“促销”页面访问您的所有促销工具",
           "date": "2026年7月20日",
           "date_iso": "2026-07-20",
           "summary": "新的“促销”页面在一个位置汇集了您的所有亚马逊促销工具（特惠、优惠券、价格折扣和买 X 赠 Y）。 可使用“活动日历”提前规划，以免错过销售机会，并查看各种卖家培训资源和分步指南。您还可以直接从该页面快速执行操作并管理您的所有促销。 您可以从卖家平台主页访问这一新促销页面。前往【广告】，然后点击【促销】。 此时将显示新的“促销”主页，其中包含两个选项卡 主页： 了解促销类型和即将举办的活动，并创建新的促销。 管理促销： 查看、编辑和追踪您的所有现有促销。 有关更多信息，请参阅亚马逊促销。",
-          "id": "QTJWSUdRMzVSQ1M0VUcjR1gzRU5NQlNQSzJTM1A3Mw"
+          "id": "QTJWSUdRMzVSQ1M0VUcjR1gzRU5NQlNQSzJTM1A3Mw",
+          "headline_zh": "从新的“促销”页面访问您的所有促销工具",
+          "summary_zh": "新的“促销”页面在一个位置汇集了您的所有亚马逊促销工具（特惠、优惠券、价格折扣和买 X 赠 Y）。 可使用“活动日历”提前规划，以免错过销售机会，并查看各种卖家培训资源和分步指南。您还可以直接从该页面快速执行操作并管理您的所有促销。 您可以从卖家平台主页访问这一新促销页面。前往【广告】，然后点击【促销】。 此时将显示新的“促销”主页，其中包含两个选项卡 主页： 了解促销类型和即将举办的活动，并创建新的促销。 管理促销： 查看、编辑和追踪您的所有现有促销。 有关更多信息，请参阅亚马逊促销。",
+          "zh_native": true
         }
       ],
       "raw": "data/raw/2026-09-14/AE.txt"
@@ -252,8 +345,9 @@
       "label": "英国站",
       "kind": "policy",
       "url": "https://sellercentral.amazon.co.uk/help/hub/reference/external/GQHQGBTD7XB7EECN",
+      "locale": "en_GB",
       "ok": true,
-      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
+      "fetched_at": "2026-09-14T23:56:32.733463+08:00",
       "stale": false,
       "count": 7,
       "articles": [
@@ -261,50 +355,71 @@
           "headline": "Amazon Easy Ship Service Terms",
           "date": "29 September 2026",
           "date_iso": "2026-09-29",
-          "summary": "On 29 September 2026, we are updating the Amazon Easy Ship Service Terms to introduce Amazon‑managed customer returns and customer service for domestic Easy Ship orders. Under the updated terms, Amazon will manage customer returns and post‑order customer service for eligible return products, providing customers with a tracked pre‑paid return label at no additional shipping cost to you. For products that exceed the return eligibility limits, you will continue to manage customer returns and related customer service. These changes align the Easy Ship experience with our other European store and help improve the post‑order experience for customers. The updates apply to seller enrolled in the Easy Ship programme on Amazon.nl and Amazon.pl. You can review the changes in the Amazon Easy Ship Service Terms page. Launch of Amazon Warehousing and Distribution policy Effective as of 20 August 2026, we are introducing the Amazon Warehousing and Distribution programme (‘AWD’) for our Germany, France, Italy, Spain and UK store. AWD provides sellers with flat‑rate, long‑term bulk storage in Amazon distribution centres with automated replenishment to Fulfilment by Amazon (FBA) fulfilment centres. ",
-          "id": ""
+          "summary": "On 29 September 2026, we are updating the Amazon Easy Ship Service Terms to introduce Amazon‑managed customer returns and customer service for domestic Easy Ship orders. Under the updated terms, Amazon will manage customer returns and post‑order customer service for eligible return products, providing customers with a tracked pre‑paid return label at no additional shipping cost to you. For products that exceed the return eligibility limits, you will continue to manage customer returns and related customer service. These changes align the Easy Ship experience with our other European store and help improve the post‑order experience for customers. The updates apply to seller enrolled in the Easy Ship programme on Amazon.nl and Amazon.pl. You can review the changes in the Amazon Easy Ship Service Terms page. Launch of Amazon Warehousing and Distribution policy Effective as of 20 August 2026, we are introducing the Amazon Warehousing and Distribution programme (‘AWD’) for our Germany, France, Italy, Spain and UK store. AWD provides sellers with flat‑rate, long‑term bulk storage in Amazon distribution centres with automated replenishment to Fulfilment by Amazon (FBA) fulfilment centres. Sellers can dispatch inventory in bulk to an AWD distribution centre and Amazon automatically replenishes your FBA fulfilment centres based on demand. The AWD programme policy governs your participation, including product eligibility, shipment requirements, fees, Reimbursement and inventory returns.",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Amazon Easy Ship 服务条款",
+          "summary_zh": "2026 年 9 月 29 日，我们将更新 Amazon Easy Ship 服务条款，为国内 Easy Ship 订单引入由 Amazon 管理的买家退货和客户服务。根据更新后的条款，对于符合退货条件的商品，Amazon 将管理买家退货和下单后客户服务，向买家提供可追踪的预付退货标签，且不会向您收取额外运费。对于超出退货资格限制的商品，您将继续管理买家退货及相关客户服务。这些变更使 Easy Ship 体验与我们其他欧洲商城保持一致，并有助于改善买家的下单后体验。更新适用于在 Amazon.nl 和 Amazon.pl 注册 Easy Ship 计划的卖家。您可以在 Amazon Easy Ship 服务条款页面查看变更。Amazon Warehousing and Distribution 政策发布 自 2026 年 8 月 20 日起生效，"
         },
         {
           "headline": "Launch of Amazon Warehousing and Distribution policy",
           "date": "20 August 2026",
           "date_iso": "2026-08-20",
-          "summary": "Effective as of 20 August 2026, we are introducing the Amazon Warehousing and Distribution programme (‘AWD’) for our Germany, France, Italy, Spain and UK store. AWD provides sellers with flat‑rate, long‑term bulk storage in Amazon distribution centres with automated replenishment to Fulfilment by Amazon (FBA) fulfilment centres. Sellers can dispatch inventory in bulk to an AWD distribution centre and Amazon automatically replenishes your FBA fulfilment centres based on demand. The AWD programme policy governs your participation, including product eligibility, shipment requirements, fees, Reimbursement and inventory returns. For more information, go to the Amazon Warehousing & Distribution (AWD) programme policy. Updates to Terms applicable to Partnered Carrier Programme Effective as of 7 August 2026, we’re updating our Partnered Courier programme (PCP) terms and conditions in the UK, Germany, France, Italy and Spain to clarify the role of the parties involved. You can review the changes in the PDF version of the Policy, available in English only. Update to product detail page rules policy Effective as of 27 July 2026, we’re updating our character limits for product titles from 200 ",
-          "id": ""
+          "summary": "Effective as of 20 August 2026, we are introducing the Amazon Warehousing and Distribution programme (‘AWD’) for our Germany, France, Italy, Spain and UK store. AWD provides sellers with flat‑rate, long‑term bulk storage in Amazon distribution centres with automated replenishment to Fulfilment by Amazon (FBA) fulfilment centres. Sellers can dispatch inventory in bulk to an AWD distribution centre and Amazon automatically replenishes your FBA fulfilment centres based on demand. The AWD programme policy governs your participation, including product eligibility, shipment requirements, fees, Reimbursement and inventory returns. For more information, go to the Amazon Warehousing & Distribution (AWD) programme policy. Updates to Terms applicable to Partnered Carrier Programme Effective as of 7 August 2026, we’re updating our Partnered Courier programme (PCP) terms and conditions in the UK, Germany, France, Italy and Spain to clarify the role of the parties involved. You can review the changes in the PDF version of the Policy, available in English only. Update to product detail page rules policy Effective as of 27 July 2026, we’re updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Amazon Warehousing and Distribution 政策发布",
+          "summary_zh": "自 2026 年 8 月 20 日起，我们将在德国、法国、意大利、西班牙和英国商城推出 Amazon Warehousing and Distribution 计划（“AWD”）。AWD 为卖家提供在 Amazon 配送中心的固定费率长期批量仓储，并可自动补货至亚马逊物流（FBA）配送中心。卖家可以将库存批量发往 AWD 配送中心，Amazon 将根据需求自动补货至您的 FBA 配送中心。AWD 计划政策规范您的参与，包括商品资格、货件要求、费用、赔偿和库存退货。有关更多信息，请前往 Amazon Warehousing & Distribution（AWD）计划政策。合作承运人计划适用条款更新 自 2026 年 8 月 7 日起生效，我们正在更新英国、德国"
         },
         {
           "headline": "Updates to Terms applicable to Partnered Carrier Programme",
           "date": "7 August 2026",
           "date_iso": "2026-08-07",
-          "summary": "Effective as of 7 August 2026, we’re updating our Partnered Courier programme (PCP) terms and conditions in the UK, Germany, France, Italy and Spain to clarify the role of the parties involved. You can review the changes in the PDF version of the Policy, available in English only. Update to product detail page rules policy Effective as of 27 July 2026, we’re updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all product types, except for media product types, in all store, except for Egypt, Saudi Arabia, Türkiye and the United Arab Emirates. To comply with the new policy, you can make changes to your titles and item highlights at any time in Manage All Inventory. To learn more, go to the Product title requirements and guidelines and Product Detail Page rules. Removal of Featured Offer eligibility requirements On 20 July 2026, we are updating the ‘How products are given visibility in th",
-          "id": ""
+          "summary": "Effective as of 7 August 2026, we’re updating our Partnered Courier programme (PCP) terms and conditions in the UK, Germany, France, Italy and Spain to clarify the role of the parties involved. You can review the changes in the PDF version of the Policy, available in English only. Update to product detail page rules policy Effective as of 27 July 2026, we’re updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all product types, except for media product types, in all store, except for Egypt, Saudi Arabia, Türkiye and the United Arab Emirates. To comply with the new policy, you can make changes to your titles and item highlights at any time in Manage All Inventory. To learn more, go to the Product title requirements and guidelines and Product Detail Page rules. Removal of Featured Offer eligibility requirements On 20 July 2026, we are updating the ‘How products are given visibility in the Amazon store’ program policy page to remove seller eligibility requirements for the Featured Offer for EU and UK sellers. Currently, we determine which sellers are eligible based on seller performance criteria. As we've continued to improve our processes and hear feedback from sellers, we determin",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "合作承运人计划适用条款更新",
+          "summary_zh": "自 2026 年 8 月 7 日起，我们正在更新英国、德国、法国、意大利和西班牙的合作快递计划（PCP）条款与条件，以明确相关方的角色。您可以在该政策的 PDF 版本中查看变更，该版本仅提供英文。商品详情页规则政策更新 自 2026 年 7 月 27 日起，我们将商品标题的字符限制从 200 个字符更新为 75 个字符（含空格），并引入名为“商品亮点”的新属性，其字符限制为 125 个字符（含空格）。您将共有 200 个字符（含空格）用于在两个字段中描述商品。此政策将适用于所有商品类型（媒体类商品除外），并适用于所有商城（埃及、沙特阿拉伯、土耳其和阿拉伯联合酋长国除外）。为遵守新政策，您可以进行更改"
         },
         {
           "headline": "Update to product detail page rules policy",
           "date": "27 July 2026",
           "date_iso": "2026-07-27",
-          "summary": "Effective as of 27 July 2026, we’re updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all product types, except for media product types, in all store, except for Egypt, Saudi Arabia, Türkiye and the United Arab Emirates. To comply with the new policy, you can make changes to your titles and item highlights at any time in Manage All Inventory. To learn more, go to the Product title requirements and guidelines and Product Detail Page rules. Removal of Featured Offer eligibility requirements On 20 July 2026, we are updating the ‘How products are given visibility in the Amazon store’ program policy page to remove seller eligibility requirements for the Featured Offer for EU and UK sellers. Currently, we determine which sellers are eligible based on seller performance criteria. As we've continued to improve our processes and hear feedback from sellers, we determined that this seller eligi",
-          "id": ""
+          "summary": "Effective as of 27 July 2026, we’re updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all product types, except for media product types, in all store, except for Egypt, Saudi Arabia, Türkiye and the United Arab Emirates. To comply with the new policy, you can make changes to your titles and item highlights at any time in Manage All Inventory. To learn more, go to the Product title requirements and guidelines and Product Detail Page rules. Removal of Featured Offer eligibility requirements On 20 July 2026, we are updating the ‘How products are given visibility in the Amazon store’ program policy page to remove seller eligibility requirements for the Featured Offer for EU and UK sellers. Currently, we determine which sellers are eligible based on seller performance criteria. As we've continued to improve our processes and hear feedback from sellers, we determined that this seller eligibility step is no longer required, so we're removing it. We're not changing how the Featured Offer is selected. We'll continue to evaluate offers and select the Featured Offer based on criteria most important to customers, such as competitive pricing, delivery speed and performance. For more informa",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "商品详情页面规则政策更新",
+          "summary_zh": "自2026年7月27日起，我们将把商品标题的字符数限制从200个字符更新为75个字符（含空格），并引入一项名为“商品亮点”（Item highlights）的新属性，其字符数限制为125个字符（含空格）。您将共有200个字符（含空格）用于在这两个字段中描述您的商品。此政策将适用于所有商品类型（媒体类商品类型除外），并适用于所有商城（埃及、沙特阿拉伯、土耳其和阿拉伯联合酋长国除外）。为符合新政策，您可以随时在“管理所有库存”（Manage All Inventory）中修改您的标题和商品亮点。如需了解更多信息，请前往商品标题要求和指南以及商品详情页面规则。移除推荐报价资格要求 自2026年7月20日起，我们将更新“商品如何在亚马逊商城获得曝光度”计划政策页面，以移除欧盟和英国卖家获得推荐报价（Featured Offer）的卖家资格要求。"
         },
         {
           "headline": "Removal of Featured Offer eligibility requirements",
           "date": "20 July 2026",
           "date_iso": "2026-07-20",
-          "summary": "On 20 July 2026, we are updating the ‘How products are given visibility in the Amazon store’ program policy page to remove seller eligibility requirements for the Featured Offer for EU and UK sellers. Currently, we determine which sellers are eligible based on seller performance criteria. As we've continued to improve our processes and hear feedback from sellers, we determined that this seller eligibility step is no longer required, so we're removing it. We're not changing how the Featured Offer is selected. We'll continue to evaluate offers and select the Featured Offer based on criteria most important to customers, such as competitive pricing, delivery speed and performance. For more information about how Featured Offers are selected, go to Becoming the Featured Offer. The policy update will be published under Program Policies on 20 July 2026. In the interim, you can view the changes in the PDF version of the policy, available in English only. Update to Fulfil by Merchant requirements: We’re updating our Fulfilled by Merchant (FBM) requirements for Amazon store to help increase your conversion with more accurate delivery promises, ensure timely deliveries for business customers a",
-          "id": ""
+          "summary": "On 20 July 2026, we are updating the ‘How products are given visibility in the Amazon store’ program policy page to remove seller eligibility requirements for the Featured Offer for EU and UK sellers. Currently, we determine which sellers are eligible based on seller performance criteria. As we've continued to improve our processes and hear feedback from sellers, we determined that this seller eligibility step is no longer required, so we're removing it. We're not changing how the Featured Offer is selected. We'll continue to evaluate offers and select the Featured Offer based on criteria most important to customers, such as competitive pricing, delivery speed and performance. For more information about how Featured Offers are selected, go to Becoming the Featured Offer. The policy update will be published under Program Policies on 20 July 2026. In the interim, you can view the changes in the PDF version of the policy, available in English only. Update to Fulfil by Merchant requirements: We’re updating our Fulfilled by Merchant (FBM) requirements for Amazon store to help increase your conversion with more accurate delivery promises, ensure timely deliveries for business customers and facilitate smooth customs clearance.  Business hour delivery rate: Starting on 30 September 2026, we expect you to maintain a business hour delivery rate of 90% or higher. This metric measures the percentage of FBM shipments delivered to Amazon Business customers within their hours of operation. ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "移除推荐报价资格要求",
+          "summary_zh": "自2026年7月20日起，我们将更新“商品如何在亚马逊商城获得曝光度”计划政策页面，以移除欧盟和英国卖家获得推荐报价（Featured Offer）的卖家资格要求。目前，我们根据卖家绩效标准来确定哪些卖家符合资格。随着我们持续改进流程并听取卖家的反馈，我们确定不再需要这一卖家资格审核步骤，因此将其移除。我们不会改变推荐报价的选定方式。我们将继续根据对买家最重要的标准（如具有竞争力的价格、配送速度和绩效）评估报价并选定推荐报价。如需了解有关推荐报价如何选定的更多信息，请前往成为推荐报价（Becoming the Featured Offer）。该政策更新将于2026年7月20日在“计划政策”下发布。在此期间，您可以查看相关变更。"
         },
         {
           "headline": "Update to Amazon Business Supplier Programme Terms and Conditions",
           "date": "31 January 2025",
           "date_iso": "2025-01-31",
-          "summary": "Effective as of 31 January 2025, we’ll update the Amazon Business Supplier Programme Terms and Conditions to outline updates for sellers who use Invoice by Amazon and dispatch Fulfilled by Merchant orders. If an item is returned by the End Customer in a used or damaged condition, you must provide photographic evidence and details of the condition and grade of the item. You will be able to provide this on the Manage Self-Fulfilled Returns page in Seller Central. Amazon will calculate the refund amount based on this assessment. These changes will be reflected in our Amazon Business Supplier Programme Terms and Conditions on January 31. In the meantime, you can review the changes in a PDF version of the policy, available in English only. Your continued use of services under the Amazon Business Supplier Programme Terms and Conditions after 31 January 2026, constitutes your acceptance of these changes. Changes to FBA Donation programme policy Effective 25 June 2026, we are introducing the programme policy for the “FBA Donations - UK - programme terms and conditions”. These terms establish the framework for how the programme operates and align it with upcoming EU regulatory requirements,",
-          "id": ""
+          "summary": "Effective as of 31 January 2025, we’ll update the Amazon Business Supplier Programme Terms and Conditions to outline updates for sellers who use Invoice by Amazon and dispatch Fulfilled by Merchant orders. If an item is returned by the End Customer in a used or damaged condition, you must provide photographic evidence and details of the condition and grade of the item. You will be able to provide this on the Manage Self-Fulfilled Returns page in Seller Central. Amazon will calculate the refund amount based on this assessment. These changes will be reflected in our Amazon Business Supplier Programme Terms and Conditions on January 31. In the meantime, you can review the changes in a PDF version of the policy, available in English only. Your continued use of services under the Amazon Business Supplier Programme Terms and Conditions after 31 January 2026, constitutes your acceptance of these changes. Changes to FBA Donation programme policy Effective 25 June 2026, we are introducing the programme policy for the “FBA Donations - UK - programme terms and conditions”. These terms establish the framework for how the programme operates and align it with upcoming EU regulatory requirements, including the Ecodesign for Sustainable Products Regulation (ESPR). For more information, go to FBA Donations - UK - programme terms and conditions. Changes to program policies 2025 Listed below are upcoming changes to Amazon’s programme policies.",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊企业购供应商计划条款和条件更新",
+          "summary_zh": "自2025年1月31日起，我们将更新亚马逊企业购供应商计划条款和条件，以说明针对使用亚马逊发票（Invoice by Amazon）和自行配送（Fulfilled by Merchant）订单的卖家的更新内容。如果最终买家以已使用或已损坏状态退回商品，您必须提供照片证据以及商品状况和成色的详细信息。您将能够在卖家平台的“管理自行配送退货”（Manage Self-Fulfilled Returns）页面上提供这些信息。亚马逊将根据此评估计算退款金额。这些变更将于1月31日反映在我们的亚马逊企业购供应商计划条款和条件中。在此期间，您可以查看该政策的PDF版本（仅提供英文版）中的变更内容。您在2026年1月31日之后继续使用亚马逊企业购供应商计划条款和条件下的服务，即表示您接受这些条款。"
         },
         {
           "headline": "Changes to FBA Donation programme policy",
           "date": "25 June 2026",
           "date_iso": "2026-06-25",
-          "summary": "Effective 25 June 2026, we are introducing the programme policy for the “FBA Donations - UK - programme terms and conditions”. These terms establish the framework for how the programme operates and align it with upcoming EU regulatory requirements, including the Ecodesign for Sustainable Products Regulation (ESPR). For more information, go to FBA Donations - UK - programme terms and conditions. Changes to program policies 2025 Listed below are upcoming changes to Amazon’s programme policies. Update to VAT Calculation Service methodology Effective January 1, 2026, we will update the VAT Calculation Service (VCS) methodology to reflect the process of submitting real-time e-reports to the Spanish Tax Authorities (Agencia Estatal de Administración Tributaria, AEAT), as required by their e-invoicing legislation requirements. For sellers who are residents or have a permanent establishment in Spain, they will submit real-time e-reports of the invoicing records for sales on Amazon Marketplace through a system called VERIFACTU. To read the changes in English go to this PDF. Changes in other languages will be available on January 1, 2026 on the VAT Calculation Service (VCS) Methodology page.",
-          "id": ""
+          "summary": "Effective 25 June 2026, we are introducing the programme policy for the “FBA Donations - UK - programme terms and conditions”. These terms establish the framework for how the programme operates and align it with upcoming EU regulatory requirements, including the Ecodesign for Sustainable Products Regulation (ESPR). For more information, go to FBA Donations - UK - programme terms and conditions. Changes to program policies 2025 Listed below are upcoming changes to Amazon’s programme policies. Update to VAT Calculation Service methodology Effective January 1, 2026, we will update the VAT Calculation Service (VCS) methodology to reflect the process of submitting real-time e-reports to the Spanish Tax Authorities (Agencia Estatal de Administración Tributaria, AEAT), as required by their e-invoicing legislation requirements. For sellers who are residents or have a permanent establishment in Spain, they will submit real-time e-reports of the invoicing records for sales on Amazon Marketplace through a system called VERIFACTU. To read the changes in English go to this PDF. Changes in other languages will be available on January 1, 2026 on the VAT Calculation Service (VCS) Methodology page. By using VCS beyond this date, you give Amazon consent to electronically submit your invoice records to the AEAT on your behalf. Updates to the FBA inventory required removals policy We’re updating our Fulfilment by Amazon inventory required removals policy to create more room for your products and",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "FBA捐赠计划政策变更",
+          "summary_zh": "自2026年6月25日起，我们将推出“FBA捐赠——英国——计划条款和条件”的计划政策。这些条款确立了该计划的运作框架，并使其与即将出台的欧盟监管要求（包括《可持续产品生态设计法规》（ESPR））保持一致。如需了解更多信息，请前往FBA捐赠——英国——计划条款和条件。2025年计划政策变更 以下列出的是亚马逊计划政策的即将变更。增值税计算服务方法更新 自2026年1月1日起，我们将更新增值税计算服务（VCS）方法，以反映根据西班牙税务机关（Agencia Estatal de Administración Tributaria，AEAT）电子发票立法要求向其提交实时电子报告的过程。对于西班牙居民或在西班牙设有常设机构的卖家……"
         }
       ],
       "raw": "data/raw/2026-09-14/UK.txt"
@@ -313,66 +428,351 @@
       "label": "德国站",
       "kind": "policy",
       "url": "https://sellercentral.amazon.de/help/hub/reference/external/GQHQGBTD7XB7EECN",
+      "locale": "de_DE",
       "ok": true,
-      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
+      "fetched_at": "2026-09-14T23:56:32.733463+08:00",
       "stale": false,
-      "count": 8,
+      "count": 34,
       "articles": [
         {
-          "headline": "亚马逊 Easy Ship 服务条款更新",
-          "date": "2026 年 9 月 29 日",
+          "headline": "Aktualisierung der Nutzungsbedingungen für den Amazon Easy Ship-Service",
+          "date": "29. September 2026",
           "date_iso": "2026-09-29",
-          "summary": "2026 年 9 月 29 日，我们将更新亚马逊 Easy Ship 服务条款，为境内 Easy Ship 订单引入由亚马逊管理的买家退货和客户服务。根据更新后的条款，对于符合退货要求的商品，将由亚马逊管理买家退货和售后客户服务，并向买家提供可追踪的预付费退货标签，您无需承担额外运输费用。对于超出退货资格限制的商品，将继续由您负责管理买家退货和相关客户服务。这些变更可使 Easy Ship 体验与我们在欧洲的其他商城保持一致，并有助于改善买家的售后体验。 此次更新适用于在 Amazon.nl 和 Amazon.pl 商城注册加入 Easy Ship 计划的卖家。您可以在亚马逊 Easy Ship 服务条款页面查看相关变更。 押金返还计划启动 亚马逊商城中已实施押金返还计划 (DRS) 的待售商品必须包含适用的押金金额。请访问押金返还计划帮助页面，按地区了解有关押金返还计划的更多信息。 卖家 Prime 计划要求更新 我们将于 2026 年 9 月 7 日更新德国亚马逊物流 (FBA)、卖家自配送和亚马逊自营商品的 Prime 资格标准。 这些更新可确保我们的 Prime 配送体验始终符合欧盟商城 Prime 会员的高度期望。 德国的标准尺寸和低价国内商品必须符合以下配送承诺速度分布，才符合 Prime 资格要求：",
-          "id": ""
+          "summary": "Am 29. September 2026 aktualisieren wir die Nutzungsbedingungen für den Amazon Easy Ship-Service, um von Amazon verwaltete Kundenrücksendungen und den Kundenservice für inländische Easy Ship-Bestellungen einzuführen. Gemäß den aktualisierten Bedingungen wird Amazon die Kundenrücksendungen und den Kundenservice nach der Bestellung für berechtigte Rückgabeprodukte verwalten und den Kunden und Kundinnen ein nachverfolgbares, vorfrankiertes Rücksendeetikett zur Verfügung stellen, ohne dass Ihnen zusätzliche Versandkosten entstehen. Bei Produkten, die die Rückgabebedingungen überschreiten, werden Sie weiterhin die Kundenrücksendungen und den damit verbundenen Kundenservice verwalten. Diese Änderungen gleichen das „Easy Ship“-Erlebnis an unsere anderen europäischen Stores an und tragen dazu bei, das Kundenerlebnis nach der Bestellung zu verbessern. Die Aktualisierungen gelten für Verkäufer und Verkäuferinnen die am „Easy Ship“-Programm auf Amazon.nl und Amazon.pl teilnehmen. Sie können die Änderungen auf der Seite mit den Nutzungsbedingungen für den Amazon Easy Ship-Service einsehen. Einführung des Pfandrücknahmesystems Artikel, die in Amazon-Stores mit geltenden Pfandrücknahmesystemen (DRS) zum Verkauf angeboten werden, müssen den jeweils geltenden Pfandbetrag enthalten. Weitere Informationen zu den regionalen DRS finden Sie auf der Hilfeseite zu den Pfandrückgabesystemen. Aktualisierung der Anforderungen für das Prime-Programm für Verkäufer Am 7. September 2026 aktualisieren wir ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊Easy Ship服务使用条款更新",
+          "summary_zh": "2026年9月29日，我们将更新亚马逊Easy Ship服务的使用条款，以引入由亚马逊管理的买家退货以及针对国内Easy Ship订单的客户服务。根据更新后的条款，对于符合退货条件的商品，亚马逊将在下单后管理买家退货和客户服务，并向买家提供可追踪的预付费退货标签，而不会给您带来额外运费。对于超出退货条件的商品，您将继续管理买家退货及相关的客户服务。这些变更使“Easy Ship”体验与我们其他欧洲商城保持一致，并有助于改善下单后的客户体验。这些更新适用于卖家……"
         },
         {
-          "headline": "取消推荐报价资格要求",
-          "date": "2026 年 7 月 20 日",
+          "headline": "Aktualisierung der Anforderungen für das Prime-Programm für Verkäufer",
+          "date": "7. September 2026",
+          "date_iso": "2026-09-07",
+          "summary": "Am 7. September 2026 aktualisieren wir in Deutschland die Prime-Berechtigungskriterien für Angebote mit Versand durch Amazon (FBA), Versand durch Verkäufer und Amazon Retail. Mit diesen Aktualisierungen sorgen wir dafür, dass unser Prime-Versanderlebnis weiterhin den hohen Erwartungen der Prime-Mitglieder in unseren europäischen Stores entspricht. Inländische Angebote für Artikel in Standardgröße und niedrigpreisige Artikel in Deutschland müssen das folgende Lieferversprechen erfüllen, um für Prime berechtigt zu sein: 15 % mit höchstens 1 Tag (zuvor 10 %) 50 % mit höchstens 2 Tagen (zuvor 45 %) 80 % mit höchstens 4 Tagen (keine Änderung) Wir empfehlen Ihnen, Ihre aktuelle Lieferperformance in Deutschland vor dem 7. September zu überprüfen und die erforderlichen Änderungen vorzunehmen, um diese neuen Geschwindigkeitsziele zu erfüllen. Danke, dass Sie sich stets bemühen, Prime-Mitgliedern ein hervorragendes Einkaufserlebnis zu bieten. Empfehlungen zur Optimierung der Versandgeschwindigkeit bei „Versand durch Verkäufer“, der Bestellleistung und der Rate gültiger Sendungsverfolgungsnummern finden Sie unter Leistungsbewertung in Prime durch Verkäufer. Sie können die Änderungen jetzt im nur auf Englisch verfügbaren PDF der Richtlinie einsehen. Ab dem 7. September gelten die Änderungen für das Prime-Programm für Verkäufer.",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "卖家Prime计划要求更新",
+          "summary_zh": "2026年9月7日，我们将在德国更新亚马逊物流（FBA）、卖家自配送和Amazon Retail报价的Prime资格标准。通过这些更新，我们将确保我们的Prime配送体验继续满足我们欧洲商城Prime会员的高期望。在德国，标准尺寸商品和低价商品的国内报价必须满足以下配送承诺才有资格享受Prime：15%在最多1天内送达（此前为10%）50%在最多2天内送达（此前为45%）80%在最多4天内送达（无变化）我们建议您在9月7日之前检查您在德国的当前配送绩效，并进行必要的更改，以达到这些新的速度目标。感谢您始终努力为Prime会员……"
+        },
+        {
+          "headline": "Einführung der Richtlinie für Lagerhaltung und Vertrieb von Amazon",
+          "date": "20. August 2026",
+          "date_iso": "2026-08-20",
+          "summary": "Ab dem 20. August 2026 führen wir das Programm „Lagerhaltung und Vertrieb von Amazon“ (AWD) für unsere Stores in Deutschland, Frankreich, Italien, Spanien und dem Vereinigten Königreich ein. AWD bietet Verkäufern eine langfristige Massenlagerung zum Pauschaltarif in Vertriebszentren von Amazon mit automatischer Bestandsergänzung für Versand durch Amazon-Logistikzentren. Verkäufer können Lagerbestand in großer Menge an ein AWD-Versandzentrum senden und Amazon füllt Ihre Versandzentren für Versand durch Amazon automatisch nach Bedarf auf. Die Richtlinie für das AWD-Programm regelt Ihre Teilnahme, einschließlich der Produktberechtigung, der Versandanforderungen, der Gebühren, der Rückerstattungen und der Warenrücksendungen. Weitere Informationen finden Sie in den Amazon Richtlinien zum Lagerhaltungs- und Vertriebsprogramm. Aktualisierung der Geschäftsbedingungen für das Lieferpartner-Programm Ab dem 7. August 2026 aktualisieren wir unsere allgemeinen Geschäftsbedingungen für das Transportpartnerprogramm im Vereinigten Königreich, Deutschland, Frankreich, Italien und Spanien, um die Rolle der beteiligten Parteien zu erläutern. Sie können die Änderungen in dieser PDF-Version der Richtlinie überprüfen. Diese Richtlinie ist nur auf Englisch verfügbar. Aktualisierung der Richtlinien für Produktdetailseiten Mit Wirkung zum 27. Juli 2026 passen wir die Zeichenbegrenzung für Produkttitel von 200 auf 75 Zeichen (einschließlich Leerzeichen) an und führen ein neues Attribut namens Artikelh",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "推出亚马逊仓储与配送政策",
+          "summary_zh": "自2026年8月20日起，我们将在德国、法国、意大利、西班牙和英国商城推出“亚马逊仓储与配送”（AWD）计划。AWD为卖家提供在亚马逊配送中心以统一费率进行长期批量仓储的服务，并自动为亚马逊物流（FBA）运营中心补货。卖家可将大量库存发送至AWD发货中心，亚马逊将根据需求自动为您的亚马逊物流运营中心补货。AWD计划政策规定了您的参与事宜，包括商品资格、发货要求、费用、退款和退货。有关更多信息，请参阅亚马逊仓储与配送计划政策。配送合作伙伴计划条款更新"
+        },
+        {
+          "headline": "Aktualisierung der Geschäftsbedingungen für das Lieferpartner-Programm",
+          "date": "7. August 2026",
+          "date_iso": "2026-08-07",
+          "summary": "Ab dem 7. August 2026 aktualisieren wir unsere allgemeinen Geschäftsbedingungen für das Transportpartnerprogramm im Vereinigten Königreich, Deutschland, Frankreich, Italien und Spanien, um die Rolle der beteiligten Parteien zu erläutern. Sie können die Änderungen in dieser PDF-Version der Richtlinie überprüfen. Diese Richtlinie ist nur auf Englisch verfügbar. Aktualisierung der Richtlinien für Produktdetailseiten Mit Wirkung zum 27. Juli 2026 passen wir die Zeichenbegrenzung für Produkttitel von 200 auf 75 Zeichen (einschließlich Leerzeichen) an und führen ein neues Attribut namens Artikelhighlights ein, für das eine Zeichenbegrenzung von 125 Zeichen (einschließlich Leerzeichen) gilt. Insgesamt stehen Ihnen für die Beschreibung Ihrer Artikel in beiden Feldern 200 Zeichen (einschließlich Leerzeichen) zur Verfügung. Diese Richtlinie gilt für alle Produkttypen mit Ausnahme von Medienprodukttypen in allen Stores, mit Ausnahme von Ägypten, Saudi-Arabien, der Türkei und den Vereinigten Arabischen Emiraten. Um die neuen Richtlinien einzuhalten, können Sie Ihre Titel und Artikelhighlights jederzeit unter Gesamten Lagerbestand verwalten ändern. Weitere Informationen finden Sie unter Anforderungen und Richtlinien für Produkttitel und Richtlinien für Produktdetailseiten. Aufhebung der Teilnahmebedingungen für „Hervorgehobenes Angebot“ Am 20. Juli 2026 aktualisieren wir die Seite mit den Programmrichtlinien zum Thema \"Wie Produkte im Amazon Store sichtbar gemacht werden\", um für das \"Her",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "配送合作伙伴计划条款更新",
+          "summary_zh": "自2026年8月7日起，我们将更新英国、德国、法国、意大利和西班牙的运输合作伙伴计划通用条款，以阐明各参与方的角色。您可在此PDF版政策中查看变更内容。该政策仅提供英文版本。商品详情页面政策更新 自2026年7月27日起，我们将商品标题的字符限制从200个字符调整为75个字符（含空格），并推出名为“商品亮点”的新属性，其字符限制为125个字符（含空格）。您在两个字段中用于描述商品的总字符数为200个字符（含空格）。该政策适用于除媒介类商品外的所有商品类型"
+        },
+        {
+          "headline": "Aktualisierung der Richtlinien für Produktdetailseiten",
+          "date": "27. Juli 2026",
+          "date_iso": "2026-07-27",
+          "summary": "Mit Wirkung zum 27. Juli 2026 passen wir die Zeichenbegrenzung für Produkttitel von 200 auf 75 Zeichen (einschließlich Leerzeichen) an und führen ein neues Attribut namens Artikelhighlights ein, für das eine Zeichenbegrenzung von 125 Zeichen (einschließlich Leerzeichen) gilt. Insgesamt stehen Ihnen für die Beschreibung Ihrer Artikel in beiden Feldern 200 Zeichen (einschließlich Leerzeichen) zur Verfügung. Diese Richtlinie gilt für alle Produkttypen mit Ausnahme von Medienprodukttypen in allen Stores, mit Ausnahme von Ägypten, Saudi-Arabien, der Türkei und den Vereinigten Arabischen Emiraten. Um die neuen Richtlinien einzuhalten, können Sie Ihre Titel und Artikelhighlights jederzeit unter Gesamten Lagerbestand verwalten ändern. Weitere Informationen finden Sie unter Anforderungen und Richtlinien für Produkttitel und Richtlinien für Produktdetailseiten. Aufhebung der Teilnahmebedingungen für „Hervorgehobenes Angebot“ Am 20. Juli 2026 aktualisieren wir die Seite mit den Programmrichtlinien zum Thema \"Wie Produkte im Amazon Store sichtbar gemacht werden\", um für das \"Hervorgehobene Angebot\" die Teilnahmebedingungen für Verkäufer aus der EU und im Vereinigten Königreich aufzuheben. Derzeit legen wir anhand von Leistungskriterien fest, welche Verkäufer teilnahmeberechtigt sind. Da wir unsere Prozesse weiter verbessert haben und auch Rückmeldungen von Verkäufern berücksichtigen, sind wir zu dem Schluss gekommen, dass wir den Schritt zur Verkäuferberechtigung streichen können, da er ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "商品详情页面政策更新",
+          "summary_zh": "自2026年7月27日起，我们将商品标题的字符限制从200个字符调整为75个字符（含空格），并推出名为“商品亮点”的新属性，其字符限制为125个字符（含空格）。您在两个字段中用于描述商品的总字符数为200个字符（含空格）。该政策适用于所有商城除埃及、沙特阿拉伯、土耳其和阿拉伯联合酋长国以外的所有商品类型。为遵守新政策，您可随时在“管理全部库存”中修改您的标题和商品亮点。有关更多信息，请参阅商品标题要求和政策以及商品详情页面政策。参与条件废止"
+        },
+        {
+          "headline": "Aufhebung der Teilnahmebedingungen für „Hervorgehobenes Angebot“",
+          "date": "20. Juli 2026",
           "date_iso": "2026-07-20",
-          "summary": "2026 年 7 月 20 日，我们将更新“商品如何在亚马逊商城中获得曝光度”的计划政策页面，以移除针对欧盟和英国卖家的推荐报价卖家资格要求。 目前，我们根据卖家绩效标准确定哪些卖家符合要求。随着我们持续改进流程并听取卖家的反馈，我们确定此卖家资格认定步骤已不再需要，因此将其取消。我们不会更改推荐报价的选择方式。我们将继续评估报价，并根据对买家最重要的标准（例如有竞争力的定价、配送速度和绩效）来选择推荐报价。 有关我们如何选择推荐报价的更多信息，请参阅成为推荐报价。 此政策更新将于 2026 年 7 月 20 日发布在“计划政策”下。在这期间，您可以查看该政策的 PDF 版本（仅提供英语版），了解变更内容。 卖家自配送要求更新： 我们正在更新亚马逊商城的卖家自配送 (FBM) 要求，以帮助卖家通过更准确的配送承诺提高转化率，确保企业买家订单及时送达，并帮助顺利完成清关。 准时送达率： ​自 2026 年 7 月 15 日起，我们希望您将准时送达率 (OTDR) 保持在 90% 或 90% 以上。此指标用于衡量在承诺“送达日期”当日或之前送达的 FBM 商品所占百分比。自 2026 年 9 月 1 日起，如果您的准时送达率绩效仍低于政策中规定的要求，那么不合规商品可能会被停售，或者您可能会失去发布新 FBM 商品的权限。要查看您的准时送达率，请前往账户状况。有关更多信息，请参阅准时送达常见问题。 您可以查看该政策的 PDF 版本（仅提供英语版），了解变更内容。",
-          "id": ""
+          "summary": "Am 20. Juli 2026 aktualisieren wir die Seite mit den Programmrichtlinien zum Thema \"Wie Produkte im Amazon Store sichtbar gemacht werden\", um für das \"Hervorgehobene Angebot\" die Teilnahmebedingungen für Verkäufer aus der EU und im Vereinigten Königreich aufzuheben. Derzeit legen wir anhand von Leistungskriterien fest, welche Verkäufer teilnahmeberechtigt sind. Da wir unsere Prozesse weiter verbessert haben und auch Rückmeldungen von Verkäufern berücksichtigen, sind wir zu dem Schluss gekommen, dass wir den Schritt zur Verkäuferberechtigung streichen können, da er nicht mehr erforderlich ist. Die letztliche Auswahl des \"Hervorgehobenen Angebots\" ändert sich nicht. Wir werden auch weiterhin Angebote prüfen und das \"Hervorgehobene Angebot\" anhand der Kriterien auswählen, die für die Kunden am wichtigsten sind. Dazu gehören beispielsweise wettbewerbsfähige Preise, Liefergeschwindigkeit und Leistung. Weitere Informationen dazu, wie hervorgehobene Angebote ausgewählt werden, finden Sie unter So wird ein Angebot zum hervorgehobenen Angebot. Die Aktualisierung der Richtlinie wird am 20. Juli 2026 in den Programmrichtlinien veröffentlicht. In der Zwischenzeit können Sie die Änderungen in der PDF-Version der Richtlinie überprüfen. Diese Richtlinie ist nur auf Englisch verfügbar. Aktualisierung der Anforderungen für Versand durch Verkäufer: Wir aktualisieren unsere Versand durch Verkäufer (FBM)-Anforderungen für den Amazon-Shop, um Ihren Umsatz mit genaueren Lieferversprechen zu erhöhe",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "“精选报价”参与条件废止",
+          "summary_zh": "2026年7月20日，我们将更新“商品如何在亚马逊商城获得展示”计划政策页面，以废止欧盟和英国卖家参与“精选报价”的参与条件。目前，我们根据绩效标准确定哪些卖家有资格参与。由于我们持续改进流程并考虑卖家反馈，我们得出结论：卖家资格审核步骤已不再必要，可以取消。最终“精选报价”的评选不会改变。我们将继续审核报价，并根据对客户最重要的标准选择“精选报价”，例如具有竞争力的价格、配送速度以及"
         },
         {
-          "headline": "卖家 Prime 计划要求更新",
-          "date": "2025 年 9 月 15 日",
-          "date_iso": "2025-09-15",
-          "summary": "2025 年 9 月 15 日，我们更新了德国的 Prime 资格标准，并更新了法国、荷兰、比利时和瑞典的 Prime 标记标准。这些更新可确保我们的 Prime 配送体验始终符合欧盟商城 Prime 会员的高度期望。 这些变更适用于亚马逊物流商品、卖家自配送商品和亚马逊自营商品，如下所示。 Prime 资格： 配送承诺速度目标 德国的标准尺寸和低价国内商品必须符合以下配送承诺速度分布，才符合 Prime 资格要求： 10% 小于或等于 1 天，45% 小于或等于 2 天，80% 小于或等于 4 天。 Prime 标记： 配送速度阈值 要获得 Prime 标记，符合 Prime 资格要求的商品必须满足以下条件： 法国： 配送承诺速度为 3 天或更短。 荷兰和比利时： 在配送速度最快的 85% 的商品中，配送承诺速度为 4 天或更短。",
-          "id": ""
+          "headline": "Aktualisierung der Bewertung der Verkäuferleistung: Punkte für Ihre Kundenservice-Leistung sammeln",
+          "date": "10. Juli 2026",
+          "date_iso": "2026-07-10",
+          "summary": "Ab dem 10. Juli 2026 können Verkäufer und Verkäuferinnen, die am Programm „Versand durch Verkäufer“ (FBM) teilnehmen, durch ihre Leistung bei den folgenden Kennzahlen zur Kundenservicequalität Punkte für ihre Bewertung der Verkäuferleistung sammeln: Rate der Kontakte durch Käufer, durchschnittliche Bearbeitungszeit bei Kontaktaufnahme und Käuferunzufriedenheit in Prozent. Amazon wird Ihre Verkaufsberechtigung nicht aufgrund einer unterdurchschnittlichen Leistung bei diesen Kennzahlen einschränken. Weitere Informationen zu den Kennzahlen zur Kundenservicequalität finden Sie unter Einblicke in die Kundenservicequalität im Feedback-Manager. Weitere Informationen Bewertung der Verkäuferleistung finden Sie unter Bewertung der Verkäuferleistung oder in den Programmrichtlinien zur Bewertung der Verkäuferleistung. Aktualisierung der Anforderungen für Versand durch Verkäufer: Wir aktualisieren unsere Anforderungen für den Versand durch Verkäufer (FBM) für Amazon.de , um Ihre Konversionsrate zu erhöhen und eine reibungslose Zollabfertigung zu erleichtern. Sendungen außerhalb der Region Ab dem 1. Juli 2026 entfällt die aktuelle Zollbefreiung für geringwertige Importe. Für B2C-Sendungen mit einem Wert von bis zu 150 € wird ein Zollbetrag von 3 € pro Artikel/Zollposition in der Zollanmeldung erhoben. Diese Gebühr gilt für Kundensendungen mit Versand durch Verkäufer (FBM), die direkt von außerhalb der EU an Verbraucher in der EU versendet werden. Der Einfuhrzoll von 3 € pro Artikel ist Tei",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "卖家绩效评估更新：为您的客户服务绩效赚取积分",
+          "summary_zh": "自2026年7月10日起，参与“卖家自配送”（FBM）计划的卖家可通过在以下客户服务质量指标上的表现，为其卖家绩效评估赚取积分：买家联系率、联系时平均处理时间以及买家不满意率。亚马逊不会因这些指标表现低于平均水平而限制您的销售权限。有关客户服务质量指标的更多信息，请参阅反馈管理器中的客户服务质量洞察。有关卖家绩效评估的更多信息，请参阅卖家绩效评估或卖家绩效评估计划政策。卖家自配送要求更新：我们正在更新"
         },
         {
-          "headline": "商品被停售或账户被停用调解政策更新",
-          "date": "2025 年 7 月 8 日",
+          "headline": "Sendungen außerhalb der Region",
+          "date": "1. Juli 2026",
+          "date_iso": "2026-07-01",
+          "summary": "Ab dem 1. Juli 2026 entfällt die aktuelle Zollbefreiung für geringwertige Importe. Für B2C-Sendungen mit einem Wert von bis zu 150 € wird ein Zollbetrag von 3 € pro Artikel/Zollposition in der Zollanmeldung erhoben. Diese Gebühr gilt für Kundensendungen mit Versand durch Verkäufer (FBM), die direkt von außerhalb der EU an Verbraucher in der EU versendet werden. Der Einfuhrzoll von 3 € pro Artikel ist Teil der EU-Zollvorschriften. Es handelt sich nicht um eine Amazon Gebühr. Damit die Zollabfertigung für FBM-Sendungen an Kunden in der EU von außerhalb der EU erfolgen kann, müssen Sie folgende Voraussetzungen erfüllen: Verwenden Sie einen von Amazon genehmigten Transportdienstleister . Um Ihre „Versand durch Verkäufer“ (FBM)-Sendung im Wert von 150 € oder weniger zu bestätigen, müssen Sie einen Transportdienstleister auswählen, der berechtigt ist, die IOSS-Nummer (Import One-Stop-Shop) von Amazon für die Zollabfertigung zu verwenden. Wir werden in den kommenden Wochen genehmigte Transportdienstleister hinzufügen und die Liste nach dem 1. Juli weiter aktualisieren. Teilen Sie dem Transportdienstleister die ASIN-Details für jedes Produkt in der Sendung mit einem Wert von 150 € oder weniger, das unter IOSS importiert wurde, ebenso wie die IOSS-Nummer von Amazon mit. Versenden Sie „Versand durch Verkäufer“ (FBM_-Sendungen weiterhin als verzollte Lieferung (Delivery Duty Paid, DDP), damit Kunden und Kundinnen nach Abschluss des Kaufs keine zusätzlichen Einfuhrzölle, Zollgebühren ode",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "区域外货件",
+          "summary_zh": "自2026年7月1日起，现行的低价值进口关税豁免将取消。对于价值不超过150欧元的B2C货件，将在报关单中按每件商品/关税项目征收3欧元的关税金额。该费用适用于从欧盟以外直接发往欧盟消费者的卖家自配送（FBM）客户货件。每件商品3欧元的进口关税是欧盟海关法规的一部分，并非亚马逊费用。为使从欧盟以外发往欧盟客户的FBM货件能够完成清关，您必须满足以下条件：使用亚马逊批准的运输服务提供商。为确认您价值150欧元或以下的“卖家自配送”（FBM）货件，您必须选择有权使用进口一站式服务（IOSS）编号的运输服务提供商"
+        },
+        {
+          "headline": "Richtlinie zur Zertifizierung von Paketmaßen von Artikeln mit Versand durch Amazon",
+          "date": "17. Februar 2026",
+          "date_iso": "2026-02-17",
+          "summary": "Ab dem 17. Februar 2026 aktualisieren wir die Art und Weise, wie wir die Verpackungsmaße für Artikel mit Versand durch Amazon erfassen, die bei Amazon.de angeboten werden. Mit dieser Änderung berechnen wir die \"Versand durch Amazon\"-Gebühren für aktive oder neue Angebote mit Versand durch Amazon im deutschen Store anhand der zertifizierten Abmessungen, die berechtigte Verkäufer angeben. Die Zertifizierungsrichtlinie für die Paketmaße von Artikeln mit Versand durch Amazon beschreibt die Berechtigung des Verkäufers, die Anforderungen für zertifizierte Maße und die Überprüfung. Weitere Informationen finden Sie in der Richtlinie zur Zertifizierung von Paketmaßen von Artikeln mit „Versand durch Amazon“. Aktualisierung der Allgemeinen Geschäftsbedingungen für das Amazon Business Gesamtanbieter-Programm Zum 31. Januar 2025 haben wir die Allgemeinen Geschäftsbedingungen des Amazon Business Gesamtanbieter-Programms aktualisiert. In diesem Rahmen haben wir die Aktualisierungen für Verkäufer und Verkäuferinnen festgelegt, die die Rechnung durch Amazon nutzen und Bestellungen mit „Versand durch Verkäufer“ versenden. Wenn ein Endkunde einen Artikel in benutztem oder beschädigtem Zustand zurücksendet, müssen Sie fotografische Belege und Details zum Zustand bereitstellen und den Artikel bewerten. Sie können dies auf der Seite \"Warenrücksendungen mit Versand durch Verkäufer verwalten\" in Seller Central angeben. Amazon berechnet auf Grundlage dieser Bewertung den Erstattungsbetrag. Diese Ände",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊物流商品包裹尺寸认证政策",
+          "summary_zh": "自2026年2月17日起，我们将更新在Amazon.de上销售的亚马逊物流商品的包装尺寸记录方式。通过此变更，我们将根据符合条件的卖家提供的认证尺寸，计算德国商城现有或新的亚马逊物流报价的亚马逊物流费用。亚马逊物流商品包裹尺寸认证政策说明了卖家的资格、认证尺寸的要求以及验证。有关更多信息，请参阅亚马逊物流商品包裹尺寸认证政策。Amazon Business总供应商计划条款和条件更新 截至2025年1月31日，我们更新了Amazon Business总供应商计划的条款和条件。"
+        },
+        {
+          "headline": "Änderungen der Richtlinien für das Spendenprogramm von Versand durch Amazon",
+          "date": "25. Juni 2026",
+          "date_iso": "2026-06-25",
+          "summary": "Mit Wirkung zum 25. Juni 2026 aktualisieren wir die Programmrichtlinien für die „Versand durch Amazon-Spenden – Deutschland – Allgemeine Programmbedingungen“, um sie an bevorstehende EU-Vorschriften, einschließlich der Verordnung über die umweltgerechte Gestaltung nachhaltiger Produkte (ESPR), anzupassen und das Programm zu verbessern. Weitere Informationen finden Sie unter Versand durch Amazon-Spenden – Deutschland – Teilnahmebedingungen des Programms. Änderungen der Programmrichtlinien im Jahr 2025 Im Folgenden sind die bevorstehenden Änderungen der Programmrichtlinien von Amazon aufgeführt. Aktualisierung der Methoden des Umsatzsteuer-Berechnungsservices Mit Wirkung zum 1. Januar 2026 aktualisieren wir die Methode des Umsatzsteuer-Berechnungsservice von Amazon, um dem Übermittlungsprozess von E-Mails in Echtzeit an die spanische Steuerbehörde (Agencia Estatal de Administración Tributaria, AEAT) Rechnung zu tragen. Dies ist gemäß den Rechtsvorschriften zur elektronischen Rechnungsstellung erforderlich. Wenn Verkäufer in Spanien ansässig sind oder dort eine dauerhafte Niederlassung unterhalten, übermitteln sie über das System VERIFACTU elektronische Echtzeitberichte der Rechnungsprotokolle für Verkäufe auf Amazon Marketplace. In dieser PDF können Sie die Änderungen in englischer Sprache lesen. Auf der Seite zur Methode des Umsatzsteuer-Berechnungsservice finden Sie die Änderungen ab dem 1. Januar 2026 auch in anderen Sprachen. Wenn Sie den Umsatzsteuer-Berechnungsservice nac",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊物流捐赠计划政策变更",
+          "summary_zh": "自2026年6月25日起，我们将更新“亚马逊物流捐赠——德国——一般计划条款”的计划政策，以使其与即将出台的欧盟法规（包括可持续产品生态设计法规（ESPR））保持一致，并改进该计划。有关更多信息，请参阅亚马逊物流捐赠——德国——计划参与条款。2025年计划政策变更 以下列出了亚马逊即将进行的计划政策变更。增值税计算服务方法更新 自2026年1月1日起，我们将更新亚马逊增值税计算服务的方法，以考虑向西班牙税务局（Agencia Estatal de Administración Tributaria）实时发送电子邮件的流程。"
+        },
+        {
+          "headline": "Aktualisierung der Methoden des Umsatzsteuer-Berechnungsservices",
+          "date": "1. Januar 2026",
+          "date_iso": "2026-01-01",
+          "summary": "Mit Wirkung zum 1. Januar 2026 aktualisieren wir die Methode des Umsatzsteuer-Berechnungsservice von Amazon, um dem Übermittlungsprozess von E-Mails in Echtzeit an die spanische Steuerbehörde (Agencia Estatal de Administración Tributaria, AEAT) Rechnung zu tragen. Dies ist gemäß den Rechtsvorschriften zur elektronischen Rechnungsstellung erforderlich. Wenn Verkäufer in Spanien ansässig sind oder dort eine dauerhafte Niederlassung unterhalten, übermitteln sie über das System VERIFACTU elektronische Echtzeitberichte der Rechnungsprotokolle für Verkäufe auf Amazon Marketplace. In dieser PDF können Sie die Änderungen in englischer Sprache lesen. Auf der Seite zur Methode des Umsatzsteuer-Berechnungsservice finden Sie die Änderungen ab dem 1. Januar 2026 auch in anderen Sprachen. Wenn Sie den Umsatzsteuer-Berechnungsservice nach diesem Datum verwenden, stimmen Sie zu, dass Amazon Ihre Rechnungsprotokolle in Ihrem Namen an die AEAT übermittelt. Aktualisierungen der Richtlinie zu erforderlichen Remissionen von Lagerbestand mit Versand durch Amazon Wir aktualisieren unsere Richtlinie zu den erforderlichen Remissionen von Lagerbestand mit Versand durch Amazon, um mehr Platz für Ihre Produkte zu schaffen und Lagergebühren zu sparen. Ab dem 6. Oktober 2025 werden wir nicht verkaufbaren Lagerbestand nach einer Frist von 14 Tagen entfernen oder spenden, wenn Sie im Vereinigten Königreich, in Deutschland, Frankreich, Italien, Spanien, Schweden, Polen und in den Niederlanden keine automatis",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "增值税计算服务方法更新",
+          "summary_zh": "自2026年1月1日起，我们将更新亚马逊增值税计算服务的方法，以考虑向西班牙税务局（Agencia Estatal de Administración Tributaria，AEAT）实时发送电子邮件的流程。这是电子发票法规所要求的。如果卖家居住在西班牙或在西班牙设有常设机构，则通过VERIFACTU系统提交亚马逊商城销售的发票记录的实时电子报告。在此PDF中，您可以阅读英文版的变更内容。在增值税计算服务页面上，您还可以从2026年1月1日起以其他语言查看变更内容。如果您在此日期之后使用增值税计算服务，即表示您同意亚马逊将您的发票"
+        },
+        {
+          "headline": "Aktualisierung der Geschäftsbedingungen für das Transportpartner-Programm",
+          "date": "28. August 2025",
+          "date_iso": "2025-08-28",
+          "summary": "Am 28. August 2025 haben wir die Bedingungen für das Transportpartner-Programm in Deutschland, im Vereinigten Königreich, in Frankreich, Italien und Spanien aktualisiert, um die Rolle der beteiligten Parteien klarer zu beschreiben. In der Zwischenzeit können Sie eine PDF-Version der Richtlinie auf Englisch oder Deutsch anzeigen, in der die Änderungen hervorgehoben sind. Aktualisierung der Allgemeinen Geschäftsbedingungen für das Amazon Business Gesamtanbieter-Programm Zum 31. Juli 2025 haben wir die Allgemeinen Geschäftsbedingungen des Amazon Business Gesamtanbieter-Programms aktualisiert. In diesem Rahmen haben wir neue Anforderungen für Verkäufer festgelegt, die Rechnung durch Amazon nutzen und Bestellungen mit Versand durch Verkäufer versenden. Sie benötigen für Ihre Versandadresse eine gültige Umsatzsteuer-Identifikationsnummer. Wenn Sie Amazon Business-Bestellungen von Großbritannien nach Nordirland versenden, müssen Sie das UK Internal Market Scheme (auch als \"Green Lane\" bezeichnet) einhalten. Diese Änderungen wurden mit Wirkung zum 31. Juli in die Allgemeinen Geschäftsbedingungen des Amazon Business Gesamtanbieter-Programms aufgenommen. In der Zwischenzeit können Sie die Änderungen in einer PDF-Version der Richtlinie überprüfen. Diese Richtlinie ist nur auf Englisch verfügbar. Wenn Sie die Dienstleistungen gemäß den Allgemeinen Geschäftsbedingungen des Amazon Business Gesamtanbieter-Programms nach dem 31. Juli 2025 weiter nutzen, gilt dies als Zustimmung zu diesen Änd",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "运输合作伙伴计划条款和条件更新",
+          "summary_zh": "2025年8月28日，我们更新了德国、英国、法国、意大利和西班牙的运输合作伙伴计划条款，以更清晰地描述各方的角色。在此期间，您可以查看英文或德文版的政策PDF，其中突出显示了变更内容。Amazon Business总供应商计划条款和条件更新 截至2025年7月31日，我们更新了Amazon Business总供应商计划的条款和条件。在此框架下，我们为使用亚马逊发票并通过卖家配送发送订单的卖家制定了新要求。您的发货地址需要有效的增值税识别号。如果您从英国发送Amazon Business订单"
+        },
+        {
+          "headline": "Aktualisierung der Mediation von Verkäufer-Streitsachen für Angebote oder die Deaktivierung des Kontos",
+          "date": "8. Juli 2025",
           "date_iso": "2025-07-08",
-          "summary": "2025 年 7 月 8 日，我们更新了欧洲商城的调解政策，以便在您的商品被停售或销售账户被停用时提供明确的申请调解时间表。 要符合调解的要求，您必须按照以下步骤操作： 在商品被停售或账户被停用后的 6 个月内，已经通过账户状况控制面板提交了申诉 在获知申诉结果后的 6 个月内申请了调解 在申请调解后的 12 个月内，在欧洲的某个亚马逊商城中拥有在售商品 这些变更于 7 月 8 日体现在调解政策和申请调解帮助页面中。 在此期间，您可以查看该政策的 PDF 版本（仅提供英语版），了解变更内容。 如果您在这些变更生效日期之后继续使用销售服务，即表示您接受这些变更。",
-          "id": ""
+          "summary": "Am 8. Juli 2025 aktualisieren wir die Mediation von Verkäufer-Streitsachen für unsere europäischen Stores, um klare Fristen für die Beantragung einer Mediation festzulegen, falls Ihr Angebot oder Ihr Verkäuferkonto deaktiviert ist. Um für Mediation berechtigt zu sein, sind folgende Voraussetzungen zu erfüllen: Einreichung eines Widerspruchs innerhalb von sechs Monaten nach Deaktivierung Ihres Angebots oder Kontos über den Kennzahlenmonitor \"Verkäuferleistung\" Beantragung der Mediation innerhalb von sechs Monaten nach dem Ergebnis des Widerspruchs aktives Angebot in einem unserer europäischen Stores innerhalb von zwölf Monaten nach Beantragung der Mediation Diese Änderungen werden ab dem 8. Juli in der Mediation von Verkäufer-Streitsachen und auf unserer Hilfeseite zum Thema Mediation anfordern angezeigt. In der Zwischenzeit können Sie die Änderungen in einer PDF-Version der Richtlinie überprüfen. Diese Richtlinie ist nur auf Englisch verfügbar. Wenn Sie den Verkauf von Dienstleistungen nach dem Datum des Inkrafttretens weiterhin nutzen, stimmen Sie den Änderungen zu. Erforderliche Remissionen von Lagerbestand mit Versand durch Amazon Wir aktualisieren unsere Richtlinie zu erforderlichen Remissionen von Lagerbestand mit Versand durch Amazon. Die Aktualisierung betrifft die Einstellungen für automatische Remissionen von ungeeignetem (nicht verkaufbarem) Lagerbestand mit Versand durch Amazon. So können Sie Lagergebühren sparen, Ihren Lagerbestandsindex verbessern und mehr Platz ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "针对报价或账户停用的卖家争议调解更新",
+          "summary_zh": "2025年7月8日，我们将更新欧洲商城的卖家争议调解，以明确规定在您的报价或卖家账户被停用的情况下申请调解的清晰时限。要符合调解资格，需满足以下条件：在您的报价或账户被停用后六个月内，通过“卖家绩效”指标监控提交申诉；在申诉结果出来后六个月内申请调解；在申请调解后十二个月内，在我们某个欧洲商城有活跃报价。这些变更将从7月8日起在卖家争议调解和我们的调解申请帮助页面上显示。在此期间，您可以查看政策PDF版本中的变更内容"
         },
         {
-          "headline": "欧洲计划政策更新",
-          "date": "2024 年 10 月 2 日",
+          "headline": "Erforderliche Remissionen von Lagerbestand mit Versand durch Amazon",
+          "date": "30. Juni 2025",
+          "date_iso": "2025-06-30",
+          "summary": "Ab dem 30. Juni 2025 gilt die Standardeinstellung \"Entsorgung\", wenn Sie Ihre Einstellungen für die automatische Remission nicht aktiviert haben. Wir werden den von Kunden zurückgesendeten ungeeigneten (nicht verkaufbaren) Lagerbestand nach eigenem Ermessen frühestmöglich entsorgen. Für allen anderen ungeeigneten (nicht verkaufbaren) Lagerbestand fordern wir Sie auf, diesen innerhalb von 23 Tagen zu entfernen. Nach Ablauf dieser Frist wird er entsorgt. Wenn Sie Ihre Einstellungen aktiviert und \"Entsorgen\" ausgewählt haben, wird jeglicher ungeeignete (nicht verkaufbare) \"Versand durch Amazon\"-Lagerbestand so bald wie möglich aus unseren Logistikzentren entfernt. Eine englische Version der Richtlinie zu erforderlichen Remissionen von Lagerbestand mit Versand durch Amazon finden Sie unter folgendem Link: Erforderliche Remissionen von Lagerbestand mit Versand durch Amazon Eine englische Version der anderen zur Vereinheitlichung aktualisierten Programmrichtlinien finden Sie auf den folgenden Hilfeseiten: \"Versand durch Amazon\"-Kundenrücksendungen Richtlinie zur Erstattung für \"Versand durch Amazon\"-Lagerbestand: Antrag auf Remission \"Versand durch Amazon\"-Richtlinie für die Erstattung von Kundenrücksendungen Remote Fulfillment mit Versand durch Amazon – Aufnahme des Versands vom Vereinigten Königreich nach Irland Zum 8. Mai 2025 aktualisieren wir die Nutzungsbedingungen für Remote Fulfillment mit Versand durch Amazon und nehmen Irland als neuen Ziel-Store für Verkäufer mit Versand",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊物流库存的必需移除",
+          "summary_zh": "自2025年6月30日起，如果您未启用自动移除设置，则默认设置为“弃置”。我们将自行决定尽快弃置客户退货的不适用（不可售）库存。对于所有其他不适用（不可售）库存，我们要求您在23天内移除。此期限过后，将被弃置。如果您已启用设置并选择“弃置”，则任何不适用（不可售）的亚马逊物流库存将尽快从我们的运营中心移除。亚马逊物流库存必需移除政策的英文版本请见以下链接：亚马逊物流库存的必需移除 英文版"
+        },
+        {
+          "headline": "Aktualisierung der \"Versand durch Amazon\"-Richtlinie zur Erstattung verlorener oder beschädigter Einheiten",
+          "date": "31. März 2025",
+          "date_iso": "2025-03-31",
+          "summary": "Ab dem 31. März 2025 erstatten wir Ihnen die Kosten auf der Grundlage der Produktbeschaffungskosten für den betroffenen Lagerbestand. Unter \"Beschaffungskosten\" verstehen wir Ihre Kosten für den Bezug eines Produkts von einem Hersteller, Großhändler oder Wiederverkäufer oder die Kosten für die Herstellung des Produkts, wenn Sie der Hersteller sind. Andere Kosten wie Versand, Bearbeitung oder Zollgebühren sind hiervon ausgenommen. Um Ihnen mehr Kontrolle und Genauigkeit zu bieten, können Sie wählen, wie wir die Beschaffungskosten für Ihre Produkte ermitteln: Wir stellen Ihnen eine Kostenschätzung für die Beschaffung zur Verfügung. Diese Schätzung basiert auf einer umfassenden Bewertung vergleichbarer Produkte, die von Amazon, von anderen Verkäufern und über Großhandelskanäle verkauft werden. Sie können Ihre Beschaffungskosten direkt angeben. Wenn Sie Ihre eigenen Kosten nicht angeben, wenden wir automatisch unsere Schätzung an. Diese können Sie ändern, wenn Sie bereit sind. Damit Sie besser vorbereitet sind, können Sie ab Ende Januar die Beschaffungskosten im Portal Lagerbestandsfehler und Erstattung auf der neuen Seite \"Beschaffungskosten verwalten\" einsehen und verwalten. Wir arbeiten ständig an unseren Abläufen und Prozessen, um zu verhindern, dass Produkte verloren gehen bzw. beschädigt werden und erstattet werden müssen. Sollte eine Rückerstattung erforderlich sein, sorgen wir dafür, dass diese zeitnah erfolgt. Wir bieten jetzt automatische Rückerstattungen für Artikel an",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊物流（Fulfillment by Amazon）丢失或残损商品赔偿政策更新",
+          "summary_zh": "自2025年3月31日起，我们将根据受影响库存的商品采购成本向您赔偿。所谓“采购成本”，是指您从制造商、批发商或经销商处采购商品的成本，或者如果您是制造商，则指生产该商品的成本。运费、处理费或关税等其他费用不包含在内。为了让您拥有更多控制权和准确性，您可以选择我们确定您商品采购成本的方式：我们将为您提供采购成本估算。该估算基于对亚马逊、其他卖家以及通过批发渠道销售的同类商品的全面评估。您可以直接提供您的采购成本。如果您未提供自己的成本，我"
+        },
+        {
+          "headline": "Bevorstehende Aktualisierungen der Richtlinie für die Betriebshaftpflichtversicherung",
+          "date": "1. Januar 2025",
+          "date_iso": "2025-01-01",
+          "summary": "Mit Wirkung zum 1. Januar 2025 aktualisieren wir die Richtlinie für die Betriebshaftpflichtversicherung. Wir streichen die Anforderung, dass in den von Verkaufspartnern abgeschlossenen Versicherungspolicen Amazon und seine Rechtsnachfolger als zusätzlich Versicherte genannt werden müssen. Verweise auf diese Anforderung werden aus dem ersten Absatz der Richtlinie und aus Punkt 6 von \"Erforderliche Bedingungen für Haftpflichtversicherungspolicen\" entfernt. Im Zuge dieser Änderung werden wir auch Artikel 10 von \"Erforderliche Bedingungen für Haftpflichtversicherungspolicen\" aktualisieren, um klarzustellen, dass die Verpflichtung, uns eine Stornierung, Änderung oder Nichterneuerung der Versicherung mitzuteilen, beim Verkaufspartner und nicht beim Versicherer liegt. Alle anderen Bedingungen und Anforderungen für Haftpflichtversicherungspolicen bleiben unverändert. Die Richtlinie für die Betriebshaftpflichtversicherung wird aktualisiert, sobald die Änderungen am 1. Januar 2025 in Kraft treten. Weitere Informationen finden Sie unter Betriebshaftpflichtversicherung. Bevorstehende Richtlinie zur Rate gültiger Sendungsverfolgungsnummern Wir fügen eine Richtlinie zur Rate gültiger Sendungsverfolgungsnummern hinzu, um die Sichtbarkeit der Sendungsverfolgung für Kunden zu verbessern. Für ausgewählte Bestellungen ohne Prime-Versand müssen Sie auf Kategorieebene eine Rate gültiger Sendungsverfolgungsnummern von 95 % erreichen und einhalten. Dafür geben Sie bei der Versandbestätigung den Nam",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "商业责任险政策即将更新",
+          "summary_zh": "自2025年1月1日起，我们将更新商业责任险政策。我们将取消要求卖家购买的保险单中必须将亚马逊及其法律继承人列为附加被保险人的规定。政策第一段及“责任险保单所需条件”第6条中对该要求的引用将被删除。伴随此项变更，我们还将更新“责任险保单所需条件”第10条，以明确通知我们保险取消、变更或未续保的义务在于卖家，而非保险公司。责任险保单的所有其他条件和要求保持不变。商业责任险政策"
+        },
+        {
+          "headline": "Bevorstehende Aktualisierung der Richtlinie: Änderungen des Berechtigungszeitraums für Rückerstattungsanträge",
+          "date": "9. Januar 2025",
+          "date_iso": "2025-01-09",
+          "summary": "Ab dem 9. Januar 2025 gilt unsere aktualisierte Richtlinie für den Berechtigungszeitraum. Alle manuellen Anträge müssen innerhalb der folgenden Fristen eingereicht werden: Ein Rückerstattungsantrag, der sich auf Betriebsabläufe im Logistikzentrum bezieht, und einen Artikel betrifft, der im Logistikzentrum verloren gegangenen oder beschädigten wurde, muss innerhalb von 60 Tagen eingereicht werden, nachdem der Artikel als verloren oder beschädigt gemeldet wurde. Ein Antrag zu einer Kundenrücksendung mit Versand durch Amazon kann zwischen 45 und 105 Tagen nach der Erstattung oder der Ersatzlieferung an den Kunden eingereicht werden. Anträge dürfen nicht vor Ablauf von 45 Tagen eingereicht werden, um sicherzustellen, dass der Kunde Zeit hat, den Artikel zur Bearbeitung an uns zurückzusenden. Ein Remissionsantrag für Artikel, die unterwegs verloren gegangen sind, kann 15 bis 75 Tage nach dem Datum der Sendungserstellung eingereicht werden. Anträge dürfen erst nach Ablauf von 15 Tagen eingereicht werden, um sicherzustellen, dass die Sendung an Sie zurückgesendet werden kann. Alle anderen Remissionsanträge müssen innerhalb von 60 Tagen eingereicht werden, nachdem die Sendung an Sie zurückgesendet wurde. Die \"Versand durch Amazon\"-Richtlinie zur Erstattung verlorener oder beschädigter Einheiten wird aktualisiert, wenn die Richtlinie am 9. Januar 2025 in Kraft tritt. Sie können die englische Fassung der Richtlinie auch als PDF-Version einsehen. Diese zeigt die vorgenommenen Änderungen",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "政策即将更新：退款申请资格期限变更",
+          "summary_zh": "自2025年1月9日起，我们更新的资格期限政策将生效。所有手动申请必须在以下期限内提交：与运营中心运营相关且涉及在运营中心丢失或残损商品的退款申请，必须在商品被报告为丢失或残损后60天内提交。亚马逊物流买家退货申请可在向买家退款或换货后45至105天内提交。申请不得在45天届满前提交，以确保买家有时间将商品退回给我们进行处理。在途丢失商品的减免申请可在以下时间后15至75天内提交："
+        },
+        {
+          "headline": "Aktualisierungen der europäischen Programmrichtlinien",
+          "date": "2. Oktober 2024",
           "date_iso": "2024-10-02",
-          "summary": "2024 年 10 月 2 日，我们对欧洲计划政策进行了以下更新： 资金扣留政策更名为资金提现资格政策。政策更新还澄清了我们保持该政策的原因、如何从账户停用之日起 60 天内对提现提出申诉、我们如何评估申诉，以及可能导致我们根据《亚马逊欧洲开店服务商业解决方案协议》决定不支付提现款项的活动示例。查看资金提现资格政策（英语版）。 将现有政策添加到计划政策页面，确保您可以在一个集中的位置查阅您与亚马逊之间的合同义务。此更新仅供澄清之用，不涉及对您权利和义务的任何变更。 要添加到计划政策页面的政策包括： 订单绩效计划政策 亚马逊参考价政策 召回和商品安全性 亚马逊物流买家退货",
-          "id": ""
+          "summary": "Am 2. Oktober 2024 werden wir die folgenden Aktualisierungen der europäischen Programmrichtlinien vornehmen: Die Richtlinie zur Einbehaltung von Guthaben wird in Richtlinie zur Auszahlung von Guthaben benannt. Die Richtlinie wird außerdem aktualisiert, um zu verdeutlichen, warum wir diese Richtlinie beibehalten, wie Sie Auszahlungen 60 Tage ab dem Datum der Deaktivierung des Kontos widersprechen können und wie wir Widersprüche beurteilen. Weiterhin sind Beispiele für Aktivitäten angegeben, die dazu führen können, dass wir gemäß dem Amazon Services Europe Business Solutions Vertrag keine Auszahlung des Guthabens veranlassen. Sehen Sie sich die Richtlinie zur Auszahlung von Guthaben an (in englischer Sprache). Fügen Sie vorhandene Richtlinien zur Seite \"Programmrichtlinien\" hinzu, um sicherzustellen, dass Sie an einem zentralen Ort auf vertragliche Verpflichtungen zwischen Ihnen und Amazon zugreifen können. Diese Aktualisierung dient nur der Klärung und beinhaltet keine Änderungen an Ihren Rechten und Pflichten. Die Richtlinien, die zur Seite \"Programmrichtlinien\" hinzugefügt werden sollen, umfassen die folgenden: Richtlinie für das Programm zur Bestellleistung Amazon Richtlinien zu Referenzpreisen Rückrufe und Produktsicherheit \"Versand durch Amazon\"-Kundenrücksendungen Geschäftsbedingungen des Gefahrgutprogramms von Versand durch Amazon \"Versand durch Amazon\"-Richtlinie zur Erstattung verlorener oder beschädigter Einheiten",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "欧洲计划政策更新",
+          "summary_zh": "2024年10月2日，我们将对欧洲计划政策进行以下更新：“资金扣留政策”将更名为“资金支付政策”。该政策还将更新，以阐明我们保留此政策的原因、您如何在账户停用之日起60天后对付款提出异议，以及我们如何评估异议。此外，还列举了可能导致我们根据《亚马逊服务欧洲商业解决方案协议》不支付资金的活动示例。请查看资金支付政策（英文版）。将现有政策添加到“计划政策”页面，以确保您能在一个中心位置查阅您与亚马逊之间的合同义务"
         },
         {
-          "headline": "2024 年 10 月 1 日引入数字服务费",
-          "date": "2024 年 10 月 1 日",
+          "headline": "Änderungen der Amazon Richtlinie zum geistigen Eigentum",
+          "date": "31. Juli 2024",
+          "date_iso": "2024-07-31",
+          "summary": "Am 31. Juli 2024 haben wir die Amazon Richtlinie zum geistigen Eigentum für die EU und das Vereinigte Königreich aktualisiert, um \"geruchsähnliche\" Parfümangebote zu verbieten, die auf ein Original-Markenparfüm oder einen Originalduft verweisen, diese Produkte imitieren oder reproduzieren. Diese Änderung wurde vorgenommen, um die EU-Markenbestimmungen einzuhalten und das geistige Eigentum der Hersteller der Original-Markendüfte zu schützen. Wenn ein Duftangebot auf den Duft eines Original-Markenparfüms verweist oder es imitiert, kann das Angebot deaktiviert werden. Wenn ein Angebot gemäß dieser Richtlinie deaktiviert wird, erhalten Sie eine Benachrichtigung mit Anweisungen zum Widerspruch, wenn Sie der Meinung sind, dass ein Angebot fälschlicherweise deaktiviert wurde. Weitere Informationen zu dieser Richtlinie finden Sie in der Amazon Richtlinie zum geistigen Eigentum. Einführung der Gebühr für digitale Dienstleistungen am 1. Oktober 2024 Am 1. Oktober 2024 werden wir für die Steuern für digitale Dienstleistungen, die von den Regierungen Kanadas, des Vereinigten Königreichs, Frankreichs, Italiens und Spaniens erhoben werden, eine Gebühr für digitale Dienstleistungen einführen. Der typische Steuersatz für digitale Dienstleistungen im Vereinigten Königreich liegt bei 2 % und in Kanada, Frankreich, Italien und Spanien bei 3 %. Die Steuergebühren für digitale Dienstleistungen sind unvorhersehbar, da diese vom Standort Ihres Unternehmens, dem Standort des Käufers und anderen Fakt",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊知识产权政策变更",
+          "summary_zh": "2024年7月31日，我们更新了针对欧盟和英国的亚马逊知识产权政策，以禁止“气味相似”的香水商品，这些商品提及、模仿或复制原品牌香水或原香氛。此项变更旨在遵守欧盟商标法规并保护原品牌香氛制造商的知识产权。如果香氛商品提及或模仿原品牌香水的香氛，该商品可能会被下架。如果商品根据此政策被下架，您将收到通知，其中包含如果您认为商品被错误下架时的申诉说明。有关此政策的更多信息，请参阅亚马逊知识产权政策。引入"
+        },
+        {
+          "headline": "Einführung der Gebühr für digitale Dienstleistungen am 1. Oktober 2024",
+          "date": "1. Oktober 2024",
           "date_iso": "2024-10-01",
-          "summary": "2024 年 10 月 1 日，我们针对加拿大、英国、法国、意大利和西班牙政府实施的数字服务税推出了数字服务费。 数字服务税税率在英国一般为 2%，在加拿大、法国、意大利和西班牙一般为 3%，但是数字服务税费用无法预测，因为此费用会随贵公司所在的地点、买家所在的地点和其他因素变化。我们不会根据这些地点变量计算数字服务费，它们会导致业务影响不可预测，因为您不知道哪里的买家会购买您的商品，我们仅会根据您的所在地和您销售商品的商城来提供一个固定的数字服务费。 如果您的主要营业地点或您销售商品所在的商城位于已推出数字服务税的国家/地区，那么我们将在您的销售佣金和亚马逊物流配送费用（仅适用于英国和法国）基础上收取数字服务费。例如，如果贵公司在德国注册，而您在英国商城销售商品，亚马逊将会收取 2% 的数字服务费。 数字服务费不适用于国内销售。 要了解此费用对您有何影响，包括您的主要营业地点或您销售商品所在的商城是否位于已推出数字服务税的国家/地区，请参阅数字服务费。 自 9 月 1 日起，您可以在亚马逊物流收入计算器中预览数字服务费。自 10 月 1 日起，可以通过付款控制面板中的“交易一览”追踪此费用。 点击以下链接，查看欧洲各商城推出的英语版“我要开店”费用价目表： 英国、德国、法国、意大利、西班牙、荷兰、波兰、瑞典和比利时。在价目表中，我们突出显示了与推出的数字服务费相关的变更。我们会在生效之日在卖家平台发布免费的翻译版本。 这些变更于 2024 年 10 月 1 日生效，适用于使用本政策所涵盖服务或功能的所有卖家。如果您有任何疑问，请联系销售伙伴支持。如果在 2024 年 10 月 1 日之后继续使用销售服务，则表示您接受这些变更。 “欧洲亚马逊增值税计算服务的计算方法”政策更新",
-          "id": ""
+          "summary": "Am 1. Oktober 2024 werden wir für die Steuern für digitale Dienstleistungen, die von den Regierungen Kanadas, des Vereinigten Königreichs, Frankreichs, Italiens und Spaniens erhoben werden, eine Gebühr für digitale Dienstleistungen einführen. Der typische Steuersatz für digitale Dienstleistungen im Vereinigten Königreich liegt bei 2 % und in Kanada, Frankreich, Italien und Spanien bei 3 %. Die Steuergebühren für digitale Dienstleistungen sind unvorhersehbar, da diese vom Standort Ihres Unternehmens, dem Standort des Käufers und anderen Faktoren abhängen. Anstatt die Gebühr für digitale Dienstleistungen von diesen Standortvariablen abhängig zu machen, was unvorhersehbare Auswirkungen auf Ihr Geschäft hätte, da Sie den Standort der Kunden, die Ihre Produkte kaufen, nicht kennen, werden wir eine feste Gebühr für digitale Dienstleistungen einführen, die nur von Ihrem Standort und dem Store, in dem Sie verkaufen, abhängt. Die Gebühr für digitale Dienstleistungen wird auf Ihre prozentuale Verkaufsgebühr und die Versandgebühren für Versand durch Amazon erhoben (nur im Vereinigten Königreich und in Frankreich), wenn sich Ihr primärer Geschäftssitz oder der Store, in dem Sie verkaufen, in einem Land befindet, in dem die Steuer für digitale Dienstleistungen eingeführt wurde. Wenn Ihr Unternehmen z. B. in Deutschland ansässig ist, Sie aber im Store des Vereinigten Königreichs verkaufen, fällt eine Gebühr für digitale Dienstleistungen von 2 % an. Die Gebühr für digitale Dienstleistungen ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "2024年10月1日起征收数字服务费",
+          "summary_zh": "2024年10月1日，我们将针对加拿大、英国、法国、意大利和西班牙政府征收的数字服务税引入数字服务费。英国典型的数字服务税率为2%，加拿大、法国、意大利和西班牙为3%。数字服务税费用难以预测，因为这些费用取决于您企业所在地、买家所在地及其他因素。与其让数字服务费取决于这些地点变量（由于您不知道购买您商品的客户所在地，这将对您的业务产生不可预测的影响），我们将引入固定的数字服务费，该费用仅取决于您所在地和店铺，"
         },
         {
-          "headline": "亚马逊物流“订购省”计划更新",
-          "date": "2024 年 3 月 31 日",
+          "headline": "Einführung der Gebühr für digitale Dienstleistungen am 1. Oktober 2024",
+          "date": "1. September 2024",
+          "date_iso": "2024-09-01",
+          "summary": "Ab dem 1. September 2024 können Sie die Gebühren im Einnahmenrechner einsehen und ab dem 1. Oktober 2024 können Sie Ihre Gebühren für digitale Dienstleistungen über die Transaktionsansicht auf der Übersichtsseite Zahlungen nachverfolgen. Unter den folgenden Links finden Sie jeweils die englische Version der Gebührenübersicht für Verkaufen bei Amazon im entsprechenden europäischen Store: UK, DE, FR, IT, ES, NL, PL, SE und BE, wo wir Änderungen in Bezug auf die bevorstehende Einführung der Gebühr für digitale Dienstleistungen hervorgehoben haben. Übersetzungen ausschließlich zu Informationszwecken werden am Datum des Inkrafttretens in Seller Central veröffentlicht. Diese Änderungen treten am 1. Oktober 2024 in Kraft und gelten für alle Verkäufer, die die von diesen Richtlinien abgedeckten Dienstleistungen oder die Funktionen nutzen. Bei Fragen wenden Sie sich an den Service für Verkaufspartner. Wenn Sie den Verkauf von Dienstleistungen nach dem 1. Oktober 2024 weiterhin nutzen, stimmen Sie den Änderungen zu. Änderungen der Richtlinie zu Methoden des Umsatzsteuer-Berechnungsservice in Europa Wir aktualisieren unsere Methoden des Umsatzsteuer-Berechnungsservices in Europa für B2B-Verkäufe, um sicherzustellen, dass die Umsatzsteuer auf der Basis Ihres Niederlassungslandes korrekt angewendet wird. Zudem entfällt die inländische Steuerschuldumkehr bei nicht ansässigem Verkäufer in Kroatien. Ab dem 7. August 2024 gelten die folgenden Änderungen. Niederlassungsland: Anstelle des Lande",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "2024年10月1日引入数字服务费",
+          "summary_zh": "自2024年9月1日起，您可以在收入计算器中查看费用；自2024年10月1日起，您可以通过付款概览页面上的交易视图追踪您的数字服务费。通过以下链接，您可以分别查看相应欧洲商城亚马逊销售费用概览的英文版本：英国、德国、法国、意大利、西班牙、荷兰、波兰、瑞典和比利时，我们在其中重点标注了与即将引入数字服务费相关的变更。仅供参考的翻译将在生效日期在卖家平台发布。这些变更于2024年10月1日生效，适用于所有使用这些政策所涵盖的服务或功能的卖家。如有疑问，请联系销售伙伴支持。"
+        },
+        {
+          "headline": "Änderungen der Richtlinie zu Methoden des Umsatzsteuer-Berechnungsservice in Europa",
+          "date": "7. August 2024",
+          "date_iso": "2024-08-07",
+          "summary": "Ab dem 7. August 2024 gelten die folgenden Änderungen. Niederlassungsland: Anstelle des Landes, das mit Ihrer Umsatzsteuer-Identifikationsnummer (USt.-IdNr.) verknüpft ist, wird das Land Ihrer eingetragenen Geschäftsadresse verwendet, um Ihr Niederlassungsland zu bestimmen. Wenn das mit Ihrer USt.-IdNr.-Adresse verknüpfte Land vom Land Ihrer eingetragenen Geschäftsadresse abweicht, gilt für Ihre inländischen B2B-Verkäufe in den jeweiligen Ländern die inländische Steuerschuldumkehr für nicht ansässige Verkäufer. In diesem Fall fällt keine lokale Umsatzsteuer an und Ihre Verkäufe sind von der Umsatzsteuer befreit. Sie sind für die elektronische Rechnungsstellung nur berechtigt, wenn Ihr Niederlassungsland Italien ist. Inländische Steuerschuldumkehr bei nicht ansässigem Verkäufer: Kroatien hat die inländische Steuerschuldumkehr bei nicht ansässigem Verkäufer abgeschafft, so dass die kroatische Umsatzsteuer auf Inlandsverkäufe erhoben wird. Änderungen bei Amazon Vereinbarungen und Programmrichtlinien Ab dem 1. August 2024 werden Verkaufen bei Amazon, Versand durch Amazon und alle anderen Dienstleistungen der Amazon Services Europe S.à r.l. (\"ASE\") von der Amazon EU S.à r.l. (\"AEU\") bereitgestellt. Alle Verträge, Richtlinien und Geschäftsbedingungen (einschließlich der Verträge mit Amazon Payments), die sich derzeit auf die ASE beziehen, gehen auf die AEU über. Übersetzungen in die Sprachen Deutsch, Französisch, Italienisch, Spanisch, Niederländisch, Polnisch und Schwedisch werden",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "欧洲增值税计算服务方法政策变更",
+          "summary_zh": "自2024年8月7日起，以下变更生效。设立国家/地区：将使用您注册营业地址所在的国家/地区来确定您的设立国家/地区，而非与您的增值税税号（USt.-IdNr.）关联的国家/地区。如果与您的增值税税号地址关联的国家/地区与您注册营业地址所在的国家/地区不一致，则您在相应国家/地区的国内B2B销售将适用针对非居民卖家的国内反向征税。在此情况下，不产生当地增值税，您的销售免征增值税。仅当您的设立国家/地区为意大利时，您才有权进行电子发票开具。非居民卖家的国内反向征税：克罗地亚已废除非居民卖家的国内反向征税，因此克罗地亚的……"
+        },
+        {
+          "headline": "Änderungen bei Amazon Vereinbarungen und Programmrichtlinien",
+          "date": "1. August 2024",
+          "date_iso": "2024-08-01",
+          "summary": "Ab dem 1. August 2024 werden Verkaufen bei Amazon, Versand durch Amazon und alle anderen Dienstleistungen der Amazon Services Europe S.à r.l. (\"ASE\") von der Amazon EU S.à r.l. (\"AEU\") bereitgestellt. Alle Verträge, Richtlinien und Geschäftsbedingungen (einschließlich der Verträge mit Amazon Payments), die sich derzeit auf die ASE beziehen, gehen auf die AEU über. Übersetzungen in die Sprachen Deutsch, Französisch, Italienisch, Spanisch, Niederländisch, Polnisch und Schwedisch werden am 1. August 2024 in Seller Central veröffentlicht. Wenn Sie die Verkaufsservices nach dem 1. August 2024 weiterhin nutzen, stimmen Sie den Änderungen automatisch zu. Einführung von zwei neuen Programmrichtlinien Wir führen zwei neue Programmrichtlinien ein, die am 29. Mai 2024 in Kraft treten. Wir führen die Programmrichtlinie A-bis-Z-Garantieanträge für Sach- und Personenschäden sowie die Programmrichtlinie Betriebshaftpflichtversicherung ein. Dies erfolgt im Rahmen der Ausdehnung der A-bis-Z-Garantie auf Sach- und Personenschäden infolge fehlerhafter Produkte, die von Kunden in den Stores in der EU und im Vereinigten Königreich gekauft wurden. Die Programmrichtlinie A-bis-Z-Garantieanträge für Sach- und Personenschäden enthält Einzelheiten zu den Verfahren und Verpflichtungen, wenn Kunden Sach- oder Personenschäden melden, die durch fehlerhafte Artikel verursacht wurden, die in den Stores in der EU und im Vereinigten Königreich gekauft wurden. Die Programmrichtlinie Betriebshaftpflichtversiche",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊协议和计划政策变更",
+          "summary_zh": "自2024年8月1日起，亚马逊销售、亚马逊物流以及Amazon Services Europe S.à r.l.（“ASE”）的所有其他服务将由Amazon EU S.à r.l.（“AEU”）提供。所有目前涉及ASE的合同、政策和条款与条件（包括与Amazon Payments的合同）将转移至AEU。德语、法语、意大利语、西班牙语、荷兰语、波兰语和瑞典语的翻译将于2024年8月1日在卖家平台发布。如果您在2024年8月1日之后继续使用销售服务，即表示您自动同意这些变更。引入两项新计划政策：我们引入两项新计划政策，于2024年5月29日生效。我们引入A-to-Z索赔计划政策（针对财产损失和人身伤害）以及计划政策……"
+        },
+        {
+          "headline": "Aktualisierung des Spar-Abo-Programms von Versand durch Amazon",
+          "date": "31. März 2024",
           "date_iso": "2024-03-31",
-          "summary": "2024 年 3 月 31 日，我们针对所有符合要求的卖家自配送商品推出了“订购省”计划。 通过此变更，买家除了可以订购您符合要求的亚马逊配送商品外，还可以订购您符合要求的卖家自配送“订购省”商品。我们会根据计划的要求自动注册所有符合要求的卖家自配送商品。这些要求详见我们的新计划政策。 有关更多信息或者要取消自动注册，请参阅订购省。 卖家自配送 Prime 配送选项更新 自 2 月 18 日起，您可以在法国、德国、西班牙、瑞典、波兰、比利时和荷兰商城使用配送模板为您的卖家自配送 Prime 商品设置当日达和加急送达。通过此变更，您的商品可以享受更快的送达速度，并可向买家提供更准确的配送承诺。要了解有关当日达和加急送达的卖家自配送 Prime 免费配送政策详细信息，请参阅卖家 Prime 计划。 其他政策更新： 自 2024 年 2 月 8 日起，我们对以下计划政策进行了变更： 禁止的卖家活动和行为政策、沟通指南、亚马逊商城销售服务政策和数据访问。此次变更旨在进一步明确卖家与买家可以使用的沟通渠道（包括亚马逊的沟通渠道和其他渠道）以及卖家在与买家沟通时应履行的义务，以确保符合适用法律。 我们还对亚马逊品牌分析条款和条件计划政策进行了变更，明确销售伙伴可以向相关公共机构反映违规问题，以确保符合适用法律。",
-          "id": ""
+          "summary": "Ab dem 31. März 2024 steht das Spar-Abo-Programm nun für das gesamte berechtigte Sortiment mit Versand durch Verkäufer zur Verfügung. Mit dieser Änderung können Kunden zusätzlich zu Ihrem Sortiment mit Versand durch Amazon das Spar-Abo-Programm für Ihr Sortiment mit Versand durch Verkäufer abonnieren. Wir registrieren automatisch alle Produkte im Sortiment mit Versand durch Verkäufer, die gemäß unseren Programmanforderungen berechtigt sind. Diese können Sie detailliert in unseren neuen Programmrichtlinien nachlesen. Weitere Informationen dazu, wie Sie sich von der automatischen Registrierung abmelden können, finden Sie unter Spar-Abo. Aktualisierungen der Versandarten für Prime durch Verkäufer Ab dem 18. Februar 2024 können Sie für Ihre Prime durch Verkäufer-Angebote die Lieferung am selben Tag und Eilversand einrichten, indem Sie Ihre Versandvorlagen in Frankreich, Deutschland, Spanien, Schweden, Polen, Belgien und den Niederlanden verwenden. Durch diese Änderung profitieren Ihre Angebote von einer höheren Versandgeschwindigkeit und genaueren Lieferversprechen an Kunden. Weitere Informationen über die \"Prime durch Verkäufer\"-Richtlinie für kostenlosen Versand am selben Tag und Eilversand finden Sie unter Prime-Programm für Verkäufer. Aktualisierungen anderer Richtlinien: Ab dem 8. Februar 2024 ändern sich die folgenden Programmrichtlinien: Richtlinie über verbotene Handlungen und Verkaufsaktivitäten , Kommunikationsrichtlinien , Richtlinie für den Verkauf von Dienstleistunge",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "亚马逊物流订购省计划更新",
+          "summary_zh": "自2024年3月31日起，订购省计划现已面向所有符合资格的卖家自配送选品开放。通过此变更，客户除了可以针对您的亚马逊物流选品外，还可以针对您的卖家自配送选品订阅订购省计划。我们将自动注册卖家自配送选品中符合我们计划要求的所有商品。您可以在我们的新计划政策中详细查看这些要求。有关如何退出自动注册的更多信息，请参阅订购省。卖家自配送Prime配送方式更新：自2024年2月18日起，您可以通过在法国、德国、西班牙、……使用您的配送模板，为您的卖家自配送Prime报价设置当日达和加急配送。"
         },
         {
-          "headline": "成人用品政策更新",
-          "date": "2022 年 1 月 17 日",
-          "date_iso": "2022-01-17",
-          "summary": "2022 年 1 月 17 日，所有按摩棒和凯格尔球或阴道球均被归类为成人用品。此类商品仍可继续销售，所有买家仍可在其当前商品分类中搜索到此类商品。有关更多信息，请查看于 2022 年 1 月 17 日生效的成人用品政策和指南更新。 即将对计划政策实施的变更 我们对计划政策做出了变更，这些变更适用于使用这些政策所涵盖服务或功能的所有卖家。 以下变更于 2022 年 1 月 13 日生效： 我们将更新国际销售订单的买家退货政策。此前规定，自 2021 年 10 月 5 日起，所有在欧洲商城（Amazon.co.uk、Amazon.de、Amazon.fr、Amazon.it、Amazon.es）销售商品以及从国外配送买家订单的卖家自配送销售伙伴均需为金额低于 20 英镑或 25 欧元的商品向亚马逊提供一个默认国内退货地址，或者为符合亚马逊退货政策要求的退货请求提供退款不退货服务。 现在，我们特此在政策中明确，该政策同样适用于金额为 20 英镑或 25 欧元的商品，并且在计算退货商品是否符合金额上限（20 英镑或 25 欧元）时不会将运费考虑在内。我们仅考量商品价格（含增值税）。 请仔细了解更新后的计划政策。请参阅带修订标记的英语版“国际销售订单的买家退货”。 以下变更于 2021 年 11 月 30 日生效：",
-          "id": ""
+          "headline": "Aktualisierungen der Versandarten für Prime durch Verkäufer",
+          "date": "18. Februar 2024",
+          "date_iso": "2024-02-18",
+          "summary": "Ab dem 18. Februar 2024 können Sie für Ihre Prime durch Verkäufer-Angebote die Lieferung am selben Tag und Eilversand einrichten, indem Sie Ihre Versandvorlagen in Frankreich, Deutschland, Spanien, Schweden, Polen, Belgien und den Niederlanden verwenden. Durch diese Änderung profitieren Ihre Angebote von einer höheren Versandgeschwindigkeit und genaueren Lieferversprechen an Kunden. Weitere Informationen über die \"Prime durch Verkäufer\"-Richtlinie für kostenlosen Versand am selben Tag und Eilversand finden Sie unter Prime-Programm für Verkäufer. Aktualisierungen anderer Richtlinien: Ab dem 8. Februar 2024 ändern sich die folgenden Programmrichtlinien: Richtlinie über verbotene Handlungen und Verkaufsaktivitäten , Kommunikationsrichtlinien , Richtlinie für den Verkauf von Dienstleistungen in den Amazon Stores und Zugang zu Daten . Diese Änderungen stellen gemäß geltendem Recht zusätzliche Informationen über die Kommunikationskanäle bereit, die Verkäufern und Kunden zur Verfügung stehen, einschließlich der Amazon Kommunikationskanäle und anderer Kanäle, sowie über die Verpflichtungen der Verkäufer bei der Kommunikation mit Kunden. Die Programmrichtlinie Allgemeine Geschäftsbedingungen Amazon Markenanalyse wird ebenfalls geändert, um zu verdeutlichen, dass es Verkaufspartnern gestattet ist, jegliche Verstöße unter Einhaltung der geltenden Gesetze bei den entsprechenden Behörden zu melden. Diese Änderungen treten am 8. Februar 2024 in Kraft und gelten für alle Verkäufer, die die ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "卖家自配送Prime配送方式更新",
+          "summary_zh": "自2024年2月18日起，您可以通过在法国、德国、西班牙、瑞典、波兰、比利时和荷兰使用您的配送模板，为您的卖家自配送Prime报价设置当日达和加急配送。通过此变更，您的报价将受益于更快的配送速度和更准确的客户送达承诺。有关免费当日达和加急配送的“卖家自配送Prime”政策的更多信息，请参阅卖家Prime计划。其他政策更新：自2024年2月8日起，以下计划政策发生变更：禁止行为和销售活动政策、沟通政策、亚马逊商城服务销售政策以及数据访问。根据适用法律，这些变更提供了额外的……"
+        },
+        {
+          "headline": "Aktualisierungen anderer Richtlinien:",
+          "date": "8. Februar 2024",
+          "date_iso": "2024-02-08",
+          "summary": "Ab dem 8. Februar 2024 ändern sich die folgenden Programmrichtlinien: Richtlinie über verbotene Handlungen und Verkaufsaktivitäten , Kommunikationsrichtlinien , Richtlinie für den Verkauf von Dienstleistungen in den Amazon Stores und Zugang zu Daten . Diese Änderungen stellen gemäß geltendem Recht zusätzliche Informationen über die Kommunikationskanäle bereit, die Verkäufern und Kunden zur Verfügung stehen, einschließlich der Amazon Kommunikationskanäle und anderer Kanäle, sowie über die Verpflichtungen der Verkäufer bei der Kommunikation mit Kunden. Die Programmrichtlinie Allgemeine Geschäftsbedingungen Amazon Markenanalyse wird ebenfalls geändert, um zu verdeutlichen, dass es Verkaufspartnern gestattet ist, jegliche Verstöße unter Einhaltung der geltenden Gesetze bei den entsprechenden Behörden zu melden. Diese Änderungen treten am 8. Februar 2024 in Kraft und gelten für alle Verkäufer, die die von diesen Richtlinien abgedeckten Dienstleistungen oder Funktionen nutzen. Eine englische Version mit hervorgehobenen Änderungen finden Sie unter dem entsprechenden Link für jede Programmrichtlinie. Übersetzungen ausschließlich zu Informationszwecken werden am Datum des Inkrafttretens in Seller Central veröffentlicht. Wenn Sie Fragen haben, wenden Sie sich an den Service für Verkaufspartner. Wenn Sie den Verkauf von Dienstleistungen nach dem 8. Februar 2024 weiterhin nutzen, stimmen Sie den Änderungen zu. Änderungen der Programmrichtlinien 2023 Im Folgenden sind die bevorstehenden Ä",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "其他政策更新：",
+          "summary_zh": "自2024年2月8日起，以下计划政策发生变更：禁止行为和销售活动政策、沟通政策、亚马逊商城服务销售政策以及数据访问。根据适用法律，这些变更提供了有关卖家与客户可用沟通渠道（包括亚马逊沟通渠道和其他渠道）的额外信息，以及卖家在与客户沟通时的义务。计划政策《亚马逊品牌分析通用条款》也将变更，以明确允许销售伙伴在遵守适用法律的前提下向相应机构举报任何违规行为。这些变更于2024年2月8日生效，适用于所有卖家。"
+        },
+        {
+          "headline": "Aktualisierung der Angebotsrichtlinien für E-Zigaretten und ähnliche Produkte",
+          "date": "19. Oktober 2023",
+          "date_iso": "2023-10-19",
+          "summary": "Ab dem 19. Oktober 2023 lässt Amazon den Verkauf der folgenden Tabak- und Ersatzprodukte über den deutschen Store nicht mehr zu: Tabak oder alle tabakhaltigen Produkte, z. B. Blunt Wraps Zigaretten Zigarren Dip-Tabak Kautabak Rauchfreier Tabak Nikotinlösungen Gebrauchsfertige Tabakersatzprodukte (z. B. Einweg-E-Zigaretten usw.)",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "电子烟及类似产品商品政策更新",
+          "summary_zh": "自2023年10月19日起，亚马逊不再允许通过德国商城销售以下烟草及替代产品：烟草或所有含烟草产品，例如Blunt Wraps、香烟、雪茄、浸渍烟草、嚼烟、无烟烟草、尼古丁溶液、即用型烟草替代产品（例如一次性电子烟等）。"
+        },
+        {
+          "headline": "Aktualisierung der Gebührenübersicht für Verkaufen bei Amazon",
+          "date": "5. Juli 2023",
+          "date_iso": "2023-07-05",
+          "summary": "Ab dem 5. Juli 2023 werden einige Gebührenkategorien für die Amazon Gebührenübersicht umbenannt, um die Verwaltung der Gebührenkategorien zu erleichtern. Es gibt keine Preisänderungen im Zusammenhang mit diesen Aktualisierungen. Beispielsweise werden die Kategorien \"Lehrmaterialien\" und \"Systemgastronomie-Ausrüstung & Zubehör\" in \"Zubehör für Industrie & Wissenschaft\" umbenannt. Neue Bedingungen für das Konsignationslager-Programm in der EU Die folgende Änderung tritt am 14. Juni 2023 in Kraft. Wir führen die Bedingungen für das Konsignationslager-Programm in der EU als neue Programmrichtlinie ein. Die Richtlinie gilt nur für Verkaufspartner im Rahmen des Konsignationslager-Programms für die EU und regelt deren Teilnahme. Über das Konsignationslager-Programm können Sie in unseren Logistikzentren in Ländern der Europäischen Union, in denen Sie nicht über eine Umsatzsteuer-Identifikationsnummer oder einen Niederlassungsort gemäß den geltenden Umsatzsteuerregelungen der EU verfügen, Ihren berechtigten Lagerbestand mit Versand durch Amazon platzieren und vertreiben. Änderungen der Richtlinie zu Methoden des Umsatzsteuer-Berechnungsservice in Europa Wir nehmen Änderungen an den Methoden des Umsatzsteuer-Berechnungsservices in Europa und der Berechnung des Produktsteuercodes für die Umsatzsteuerberechnung vor. Ab dem 9. Juni behält sich Amazon vor, einen eigenen Produktsteuercode zu verwenden, wenn Sie Produkte an ein Unternehmen von Amazon verkaufen. Änderungen bei den Kriterien f",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "“我要开店”费用一览表更新",
+          "summary_zh": "自2023年7月5日起，亚马逊费用一览表中的部分费用分类将更名，以便于管理费用分类。这些更新不涉及价格变动。例如，“教学用品”和“餐饮设备及配件”分类将更名为“工业与科学用品配件”。欧盟寄售库存计划新条款以下变更自2023年6月14日起生效。我们将欧盟寄售库存计划条款作为新的计划政策引入。该政策仅适用于参与欧盟寄售库存计划的卖家，并规范其参与行为。通过寄售库存计划，您可以在我们位于欧盟国家的运营中心内……（您未持有增值税税号）"
+        },
+        {
+          "headline": "Aktualisierung der Richtlinie zur Direktlieferung",
+          "date": "13. März 2023",
+          "date_iso": "2023-03-13",
+          "summary": "Ab dem 13. März 2023 gelten die Aktualisierungen auf der Seite \"Richtlinie zur Direktlieferung\". Diese enthält zusätzliche Informationen über unsere bestehende Richtlinie und hilft bei deren Einhaltung. Wir haben unsere Beispiele für Verstöße gegen Richtlinien für Direktlieferungen aktualisiert und zusätzliche Anforderungen hinzugefügt, die erfüllt werden müssen, um Bestellungen per Direktlieferung zu versenden. Weitere Informationen finden Sie unter Richtlinie zur Direktlieferung. Änderungen der Richtlinie zu Methoden des Umsatzsteuer-Berechnungsservice in Europa Wir ändern die Richtlinie \"Methoden des Umsatzsteuer-Berechnungsservice in Europa\" dahingehend, dass bei bestimmten Arten von Angeboten in europäischen Stores von Amazon produktspezifische B2B-Umsatzsteuerberechnungen angewendet werden. Nach der Einführung der produktspezifischen Umsatzsteuerberechnung für B2B-Verkäufe in der EU wenden wir die produktbezogene inländische umgekehrte Steuerschuldnerschaft (0% Umsatzsteuer) auf Verkäufe an, die die folgenden Bedingungen erfüllen (Stichtag für beides: 7. Februar 2023): Verkauf von elektronischen Artikeln, die der produktbezogenen inländischen umgekehrten Steuerschuldnerschaft unterliegen. Diese sind je nach Land unterschiedlich, umfassen aber in der Regel Handys, Computerchips, E-Reader, Laptops, Tablets und Videospielkonsolen B2B-Inlandsverkäufe Der Wert der Sendung liegt über den geltenden Grenzen (in der Regel ca. 5.000 €) Der Verkauf erfolgt im Vereinigten Königreic",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "直接配送政策更新",
+          "summary_zh": "自2023年3月13日起，“直接配送政策”页面上的更新内容生效。该页面包含有关我们现有政策的附加信息，并有助于遵守该政策。我们更新了直接配送政策违规示例，并新增了通过直接配送方式配送订单必须满足的附加要求。有关更多信息，请参阅直接配送政策。欧洲增值税计算服务方法政策变更我们将“欧洲增值税计算服务方法”政策变更为：对于亚马逊欧洲商城中的某些类型商品，将适用基于商品的B2B增值税计算。在针对B2B销售推出基于商品的增值税计算后，在欧……"
+        },
+        {
+          "headline": "Aktualisierung der Gebührenübersicht für Verkaufen bei Amazon",
+          "date": "13. Dezember 2022",
+          "date_iso": "2022-12-13",
+          "summary": "Ab dem 13. Dezember 2022 werden in der Gebührenübersicht für Amazon eine Reihe von Gebührenkategorien umbenannt, um mehr Klarheit zu schaffen. Beispielsweise wird \"Baumarkt\" zu \"Werkzeuge und Baumarkt\". Es gibt keine Preisänderungen im Zusammenhang mit diesen Aktualisierungen. Einführung von Management-Funktionen für Gebührenkategorien Um das Verständnis der Gebührenkategorien zu verbessern, führen wir Richtlinien für Gebührenkategorien ein. In diesen Richtlinien finden Sie detaillierte Produktlisten für jede Gebührenkategorie, mit denen Sie für bestimmte Artikel schnell die Gebührenkategorie finden können. Zudem fügen wir die Richtlinie zur Erstattung der prozentualen Verkaufsgebühr als neue Programmrichtlinie hinzu, um die Beantragung einer Erstattung für strittige prozentuale Verkaufsgebühren genauer zu erläutern. Diese Änderung wird zum 13. Januar 2023 wirksam. Weitere Informationen finden Sie unter Grundlegendes zu Gebührenkategorien. Änderungen der \"Versand durch Amazon\"-Richtlinie zur Erstattung verlorener oder beschädigter Einheiten bei Anträgen in Zusammenhang mit Betriebsabläufen im Logistikzentrum Mit Wirkung vom 5. Dezember 2022 ändern wir die \"Versand durch Amazon\"-Richtlinie zur Erstattung verlorener oder beschädigter Einheiten. Dies betrifft die Berechnung des Erstattungsbetrags bei Anträgen in Zusammenhang mit Betriebsabläufen im Logistikzentrum für Artikel, die sich zum Zeitpunkt des Verlusts oder der Beschädigung in einem nicht verkaufbaren Zustand befanden.",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "“我要开店”费用一览表更新",
+          "summary_zh": "自2022年12月13日起，亚马逊费用一览表中的一系列费用分类将更名，以提高清晰度。例如，“建材”将更名为“工具与建材”。这些更新不涉及价格变动。费用分类管理功能推出为便于理解费用分类，我们引入了费用分类政策。在这些政策中，您可以找到每个费用分类的详细产品列表，从而快速为特定商品找到费用分类。此外，我们将销售佣金百分比退款政策作为新的计划政策添加，以更详细地说明如何就存在争议的销售佣金百分比申请退款。此变更将于2023年1月13日生效。更多信息……"
+        },
+        {
+          "headline": "Bedingungen für das Programm bezüglich der neuen Standardvertragsklauseln der EU-Kommission",
+          "date": "5. August 2022",
+          "date_iso": "2022-08-05",
+          "summary": "Ab dem 5. August 2022 aktualisieren wir den Amazon Services Europe Business Solutions Vertrag, um die aktualisierten gesetzlichen Richtlinien für internationale Datenübertragungen zu berücksichtigen. Für Verkäufer, die außerhalb des EWR und des Vereinigten Königreichs ansässig sind, wird durch die Änderungen am Amazon Services Europe Business Solutions Vertrag eine neue Programmrichtlinie eingeführt, mit der die neuen Vertragsmechanismen der Europäischen Kommission und des Vereinigten Königreichs angewendet werden. Diese sind bekannt als Standardvertragsklauseln zwischen Verantwortlichen (Controller to Controller Standard Contractual Clauses/SCCs) und als Addendum des Vereinigten Königreichs zu den Standardvertragsklauseln der EU. Sie gelten für die Weitergabe der Informationen von Amazon Kunden, die im EWR und im Vereinigten Königreich ansässig sind, an Verkäufer außerhalb des EWR und des Vereinigten Königreichs durch Amazon im Rahmen der Amazon Services. Die Änderungen enthalten außerdem weitere Erläuterungen zu den jeweiligen Verpflichtungen von Amazon und den Verkäufern im Rahmen des geltenden Datenschutzrechts beim Umgang mit Informationen von Amazon Kunden. Eine englische Version mit hervorgehobenen Änderungen finden Sie hier. Übersetzungen in die Sprachen Deutsch, Französisch, Italienisch, Spanisch, Niederländisch, Schwedisch und Polnisch werden am 5. August 2022 in Seller Central veröffentlicht. Wenn Sie den Verkauf von Dienstleistungen nach dem 5. August 2022 weiterh",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "欧盟委员会新标准合同条款相关计划条款",
+          "summary_zh": "自2022年8月5日起，我们将更新Amazon Services Europe Business Solutions协议，以纳入有关国际数据传输的最新法律规定。对于位于欧洲经济区和英国境外的卖家，Amazon Services Europe Business Solutions协议的变更引入了一项新的计划政策，以适用欧盟委员会和英国的新合同机制。这些机制被称为控制者之间标准合同条款（Controller to Controller Standard Contractual Clauses/SCCs）以及英国对欧盟标准合同条款的附录。它们适用于将位于欧洲经济区和英国的亚马逊客户信息传输给欧洲经济区外及英……的卖家。"
+        },
+        {
+          "headline": "Aktualisierung der \"Versand durch Amazon\"-Richtlinie zur Erstattung für Lagerbestand",
+          "date": "21. Juli 2022",
+          "date_iso": "2022-07-21",
+          "summary": "Ab dem 21. Juli 2022 werden die Berechtigungskriterien in der Richtlinie \"Erstattung für 'Versand durch Amazon'-Lagerbestand\" aktualisiert. Damit ein Artikel im Rahmen dieser Richtlinie berechtigt ist, müssen die folgenden Voraussetzungen erfüllt sein: Die Sendung für den Artikel befindet sich nicht im Status \"Storniert\" oder \"Gelöscht\". Wenn ein Erstattungsantrag für einen verloren gegangenen oder beschädigten Artikel gestellt wird, während der Überprüfung und während eines Widerspruchsverfahrens muss sich das Konto des Verkäufers im normalen Status befinden. Weitere Informationen finden Sie in der Richtlinie \"Erstattung für 'Versand durch Amazon'-Lagerbestand\". Änderungen bei Methoden des Umsatzsteuer-Berechnungsservice von Amazon in Europa Aufgrund einer Gesetzesänderung nehmen wir Änderungen an der Programmrichtlinie zu den Methoden des Umsatzsteuer-Berechnungsservice von Amazon in Europa vor. Bei SDI-Meldungen an die italienische Finanzbehörde werden grenzüberschreitende B2B- und B2C-Warenverkäufe aus Italien jetzt mit einbezogen. Diese Änderungen gelten mit Wirkung zum 25. Juli 2022 für alle Verkäufer, die die Services im Geltungsbereich dieser Programmrichtlinie nutzen, über eine gültige italienische Umsatzsteuer-Identifikationsnummer verfügen und in Italien ein Gewerbe angemeldet haben. Eine englische Version mit hervorgehobenen Änderungen finden Sie unter dem Link zur Programmrichtlinie. Übersetzungen ausschließlich zu Informationszwecken werden am 25. Juli 2022 in S",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "“亚马逊物流”库存退款政策更新",
+          "summary_zh": "自2022年7月21日起，“‘亚马逊物流’库存退款”政策中的资格标准将更新。为使商品符合该政策的退款资格，必须满足以下条件：该商品的货件不处于“已取消”或“已删除”状态。如果在核查期间及申诉过程中就丢失或残损商品提交退款申请，卖家账户必须处于正常状态。有关更多信息，请参阅“‘亚马逊物流’库存退款”政策。亚马逊欧洲增值税计算服务方法变更由于法律变更，我们将对亚马逊欧洲增值税计算服务方法的计划政策进行变更……"
+        },
+        {
+          "headline": "Änderung der Programmbedingungen für Amazon Renewed",
+          "date": "14. Juli 2022",
+          "date_iso": "2022-07-14",
+          "summary": "Ab dem 14. Juli 2022 gelten diese Änderungen für alle Verkäufer, die die Services oder Funktionen im Geltungsbereich der Programmbedingungen für Amazon Renewed in Anspruch nehmen. Eine englische Version mit hervorgehobenen Änderungen finden Sie unter dem Link zur Programmrichtlinie. Übersetzungen ausschließlich zu Informationszwecken werden am 14. Juli 2022 in Seller Central veröffentlicht. Wenn Sie nach dem Datum des Inkrafttretens weiterhin den Verkauf von Dienstleistungen nutzen, stimmen Sie den Änderungen zu. Neue Teilnahmebedingungen für das \"Luxury Stores\"-Programm Die folgende Änderung tritt am 1. Juni 2022 in Kraft. Wir führen die Teilnahmebedingungen für das \"Luxury Stores\"-Programm als neue Programmrichtlinie ein. Die Richtlinie gilt nur für Verkaufspartner, die am \"Luxury Stores\"-Programm teilnehmen. Änderung der Programmbedingungen für Amazon Renewed Wir ergänzen die Programmbedingungen für Amazon Renewed um mehrere kosmetische Zustandsangaben für Produkte in den Kategorien \"Drahtlos\" (wie z. B. Smartphones und Smartwatches) und \"Computer\" (wie z.B. Laptops, Tablets und Desktop-PCs). Verkaufspartner können Angebote für dieselbe ASIN mit drei verschiedenen kosmetischen Zustandsangaben erstellen: 1) Stufe 1 – Ausgezeichneter Zustand (ehemals die einzige Stufe bei Amazon Renewed), 2) Stufe 2 – Guter Zustand und 3) Stufe 3 – Akzeptabler Zustand. Ab dem 26. Mai 2022 gelten diese Änderungen für alle Verkäufer, die die von den Programmbedingungen für Amazon Renewed bei A",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Amazon Renewed 计划条款变更",
+          "summary_zh": "自 2022 年 7 月 14 日起，这些变更适用于所有使用 Amazon Renewed 计划条款所涵盖服务或功能的卖家。带有变更标注的英文版本请参见计划政策链接。仅供参考的翻译版本将于 2022 年 7 月 14 日在卖家平台发布。若您在生效日期后继续使用销售服务，即表示您同意这些变更。\"Luxury Stores\" 计划新参与条款 以下变更自 2022 年 6 月 1 日起生效。我们将引入 \"Luxury Stores\" 计划参与条款作为新的计划政策。该政策仅适用于参与 \"Luxury Stores\" 计划的销售伙伴。Amazon Renewed 计划条款变更 我们补充了计划"
+        },
+        {
+          "headline": "Änderung der Programmbedingungen für Amazon Renewed",
+          "date": "26. Mai 2022",
+          "date_iso": "2022-05-26",
+          "summary": "Ab dem 26. Mai 2022 gelten diese Änderungen für alle Verkäufer, die die von den Programmbedingungen für Amazon Renewed bei Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.it, Amazon.it, Amazon.es, Amazon.nl und Amazon.se abgedeckten Dienstleistungen oder Funktionen nutzen. Eine englische Version mit hervorgehobenen Änderungen finden Sie unter dem Link zur Programmrichtlinie. Übersetzungen ausschließlich zu Informationszwecken werden am 26. Mai 2022 in Seller Central veröffentlicht. Wenn Sie den Verkauf von Dienstleistungen nach dem 26. Mai 2022 weiterhin nutzen, stimmen Sie den Änderungen automatisch zu. Wenn Sie Fragen haben, wenden Sie sich bitte an den Service für Verkaufspartner. Bevorstehende Änderungen der Programmrichtlinien Wir nehmen Änderungen an unseren Programmrichtlinien vor. Sie betreffen alle Verkäufer, die die Serviceleistungen beziehungsweise die Funktionen im Geltungsbereich dieser Richtlinien nutzen. Wichtig: Die folgenden Änderungen treten zum 31. März 2022 in Kraft. Klicken Sie auf den Hyperlink der betreffenden Programmrichtlinie, um die bevorstehenden Änderungen anzuzeigen. Diese sind im englischen PDF-Dokument hervorgehoben. Übersetzungen werden am Tag des Inkrafttretens der Richtlinie in Seller Central veröffentlicht. Verkaufsrichtlinien und Verhaltenskodex für Verkäufer: Der Verhaltenskodex für Verkäufer wird dahingehend geändert, dass Preisabsprachen und die Manipulation des Suchrangs nun ausdrücklich untersagt werden. Diese Änderung gilt für Amazon.co.u",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Amazon Renewed 计划条款变更",
+          "summary_zh": "自 2022 年 5 月 26 日起，这些变更适用于所有使用 Amazon Renewed 计划条款在 Amazon.co.uk、Amazon.de、Amazon.fr、Amazon.it、Amazon.it、Amazon.es、Amazon.nl 和 Amazon.se 所涵盖服务或功能的卖家。带有变更标注的英文版本请参见计划政策链接。仅供参考的翻译版本将于 2022 年 5 月 26 日在卖家平台发布。若您在 2022 年 5 月 26 日后继续使用销售服务，即表示您自动同意这些变更。如有疑问，请联系销售伙伴服务。计划政策即将变更 我们将对计划政策进行变更。这些变更涉及所有使用所涵盖服务或功能的卖家"
         }
       ],
       "raw": "data/raw/2026-09-14/DE.txt"
@@ -381,8 +781,9 @@
       "label": "澳洲站",
       "kind": "policy",
       "url": "https://sellercentral.amazon.com.au/help/hub/reference/external/GQHQGBTD7XB7EECN",
+      "locale": "en_AU",
       "ok": true,
-      "fetched_at": "2026-09-14T20:46:25.670216+08:00",
+      "fetched_at": "2026-09-14T23:56:32.733463+08:00",
       "stale": false,
       "count": 7,
       "articles": [
@@ -390,53 +791,76 @@
           "headline": "Updates to the Amazon Easy Ship and Customer Service by Amazon Program Policies",
           "date": "28 September 2026",
           "date_iso": "2026-09-28",
-          "summary": "Effective 28 September 2026, we are updating the Amazon Easy Ship (AES) Program Policy and the Customer Service by Amazon (CSBA) Program Policy. Seller using either AES or CSBA is required to provide customer refunds within 2 working days of receiving a Return. If a seller does not action the refund, Amazon will proactively issue a refund to affected customers on your behalf. Such refund decisions can be appealed using the SAFE‑T tool. Ensure that you promptly issue customer refunds to provide a great customer experience. New Amazon Warehousing and Distribution Program policy Effective 17 August, we’re launching Amazon Warehousing and Distribution (AWD) in Australia. Under this optional program, you can access a low‑cost bulk storage solution that replenishes inventory to Amazon fulfilment centres in Australia. For more information, go to Amazon Warehousing and Distribution Program Policy. Update to product detail page rules policy Effective 27 July 2026, we're updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces.",
-          "id": ""
+          "summary": "Effective 28 September 2026, we are updating the Amazon Easy Ship (AES) Program Policy and the Customer Service by Amazon (CSBA) Program Policy. Seller using either AES or CSBA is required to provide customer refunds within 2 working days of receiving a Return. If a seller does not action the refund, Amazon will proactively issue a refund to affected customers on your behalf. Such refund decisions can be appealed using the SAFE‑T tool. Ensure that you promptly issue customer refunds to provide a great customer experience. New Amazon Warehousing and Distribution Program policy Effective 17 August, we’re launching Amazon Warehousing and Distribution (AWD) in Australia. Under this optional program, you can access a low‑cost bulk storage solution that replenishes inventory to Amazon fulfilment centres in Australia. For more information, go to Amazon Warehousing and Distribution Program Policy. Update to product detail page rules policy Effective 27 July 2026, we're updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all product types, except for media product types, in all store, except for Egypt, Saudi Arabia, Türkiye, and the United Arab Emirates. To comply with the new policy, you",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Amazon Easy Ship 和 Customer Service by Amazon 计划政策更新",
+          "summary_zh": "自 2026 年 9 月 28 日起，我们将更新 Amazon Easy Ship (AES) 计划政策和 Customer Service by Amazon (CSBA) 计划政策。使用 AES 或 CSBA 的卖家须在收到退货后的 2 个工作日内向买家退款。若卖家未执行退款，亚马逊将代表您主动向受影响的买家退款。此类退款决定可通过 SAFE-T 工具提出申诉。请确保及时向买家退款，以提供优质的买家体验。Amazon Warehousing and Distribution 计划新政策 自 8 月 17 日起，我们将在澳大利亚推出 Amazon Warehousing and Distribution (AWD)。在该可选计划下，您可以使用低成本批量仓储解决方案，向澳大利亚的亚马逊运营中心补货。如需了解更多信息，请前往 Amazon Warehousing and Distribution 计划政策"
         },
         {
           "headline": "Update to product detail page rules policy",
           "date": "27 July 2026",
           "date_iso": "2026-07-27",
-          "summary": "Effective 27 July 2026, we're updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all product types, except for media product types, in all store, except for Egypt, Saudi Arabia, Türkiye, and the United Arab Emirates. To comply with the new policy, you can make changes to your titles and item highlights at any time in Manage All Inventory. To learn more, go to Product title requirements and guidelines and Product detail page rules. Update to the Partnered Carrier Program policy Effective 13 May, we are updating the restrictions listed in the Partnered Carrier Program Policy. Product and shipment restrictions are now listed on the Amazon Partnered Carrier Program restrictions help. Regularly check this page as restrictions may vary over time and by carrier or postcode. New Buy Shipping Services Program Policy Effective 13 April 2026, we' re launching the Buy Shipping Service in Australi",
-          "id": ""
+          "summary": "Effective 27 July 2026, we're updating our character limits for product titles from 200 characters to 75 characters, including spaces and introducing a new attribute called Item highlights, which has a character limit of 125 characters, including spaces. You will have 200 characters, including spaces, to describe your products in total across both fields. This policy will apply to all product types, except for media product types, in all store, except for Egypt, Saudi Arabia, Türkiye, and the United Arab Emirates. To comply with the new policy, you can make changes to your titles and item highlights at any time in Manage All Inventory. To learn more, go to Product title requirements and guidelines and Product detail page rules. Update to the Partnered Carrier Program policy Effective 13 May, we are updating the restrictions listed in the Partnered Carrier Program Policy. Product and shipment restrictions are now listed on the Amazon Partnered Carrier Program restrictions help. Regularly check this page as restrictions may vary over time and by carrier or postcode. New Buy Shipping Services Program Policy Effective 13 April 2026, we' re launching the Buy Shipping Service in Australia. Under this optional program, you can purchase labels from a third‑party carrier for your international seller‑fulfil shipments. For more information, go to Buy Shipping Services Program Policy. New program policies for Customer Service by Amazon Effective 17 March 2026, we are launching Customer ",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "商品详情页面规则政策更新",
+          "summary_zh": "自 2026 年 7 月 27 日起，我们将把商品标题的字符数限制从 200 个字符更新为 75 个字符（含空格），并引入名为 \"Item highlights\" 的新属性，其字符数限制为 125 个字符（含空格）。您将共有 200 个字符（含空格）用于在这两个字段中描述您的商品。该政策将适用于所有商品类型（媒体类商品类型除外），并适用于所有商城（埃及、沙特阿拉伯、土耳其和阿拉伯联合酋长国除外）。为遵守新政策，您可以随时在 \"管理所有库存\" 中修改标题和 Item highlights。如需了解更多信息，请前往商品标题要求和指南以及商品详情页面规则。合作承运人计划政策更新 自 5 月 13 日起，我们将更新合作承运人计划政策中列出的限制。商品和运输"
         },
         {
           "headline": "New Buy Shipping Services Program Policy",
           "date": "13 April 2026",
           "date_iso": "2026-04-13",
-          "summary": "Effective 13 April 2026, we' re launching the Buy Shipping Service in Australia. Under this optional program, you can purchase labels from a third‑party carrier for your international seller‑fulfil shipments. For more information, go to Buy Shipping Services Program Policy. New program policies for Customer Service by Amazon Effective 17 March 2026, we are launching Customer Service by Amazon. Under this optional paid program, Amazon can provide customer service on your eligible seller‑fulfil orders. We will direct customer contacts for these orders to Amazon Customer Service so that you do not need to handle them yourself. Customer Service by Amazon follows standard Amazon return policy for handling customer contacts. To learn more about the program, go to the Customer Service by Amazon Program Policy and the Customer Service by Amazon Reimbursement Program Policy. Update to the FBA Customer Returns Policy Effective 29 January 2026, we are updating the FBA Customer Returns Policy to allow for FBA replacements. With this change, customers will be able to select to receive a replacement instead of a refund if you have the same item in stock. We’ll ship the replacement at no addition",
-          "id": ""
+          "summary": "Effective 13 April 2026, we' re launching the Buy Shipping Service in Australia. Under this optional program, you can purchase labels from a third‑party carrier for your international seller‑fulfil shipments. For more information, go to Buy Shipping Services Program Policy. New program policies for Customer Service by Amazon Effective 17 March 2026, we are launching Customer Service by Amazon. Under this optional paid program, Amazon can provide customer service on your eligible seller‑fulfil orders. We will direct customer contacts for these orders to Amazon Customer Service so that you do not need to handle them yourself. Customer Service by Amazon follows standard Amazon return policy for handling customer contacts. To learn more about the program, go to the Customer Service by Amazon Program Policy and the Customer Service by Amazon Reimbursement Program Policy. Update to the FBA Customer Returns Policy Effective 29 January 2026, we are updating the FBA Customer Returns Policy to allow for FBA replacements. With this change, customers will be able to select to receive a replacement instead of a refund if you have the same item in stock. We’ll ship the replacement at no additional cost to you or the customer. Your proceeds and fees from the original sale will be unaffected. Replacements will not be available for change of mind Return. For more information, go to FBA Customer Returns Policy. New program policy for the Business Credit Account service Effective 5 January 2026",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Buy Shipping Services 计划新政策",
+          "summary_zh": "自 2026 年 4 月 13 日起，我们将在澳大利亚推出 Buy Shipping Service。在该可选计划下，您可以为您的国际卖家自配送货件从第三方承运人处购买标签。如需了解更多信息，请前往 Buy Shipping Services 计划政策。Customer Service by Amazon 计划新政策 自 2026 年 3 月 17 日起，我们将推出 Customer Service by Amazon。在该可选付费计划下，亚马逊可以为您符合条件的卖家自配送订单提供客户服务。我们将把这些订单的买家联系引导至亚马逊客户服务，以便您无需自行处理。Customer Service by Amazon 在处理买家联系时遵循亚马逊标准退货政策。如需了解有关该计划的更多信息，请前往 Customer Service by Amazon 计划政策和 Customer Service by Amazon 赔偿计划政策。FBA Cus 更新"
         },
         {
           "headline": "New program policies for Customer Service by Amazon",
           "date": "17 March 2026",
           "date_iso": "2026-03-17",
-          "summary": "Effective 17 March 2026, we are launching Customer Service by Amazon. Under this optional paid program, Amazon can provide customer service on your eligible seller‑fulfil orders. We will direct customer contacts for these orders to Amazon Customer Service so that you do not need to handle them yourself. Customer Service by Amazon follows standard Amazon return policy for handling customer contacts. To learn more about the program, go to the Customer Service by Amazon Program Policy and the Customer Service by Amazon Reimbursement Program Policy. Update to the FBA Customer Returns Policy Effective 29 January 2026, we are updating the FBA Customer Returns Policy to allow for FBA replacements. With this change, customers will be able to select to receive a replacement instead of a refund if you have the same item in stock. We’ll ship the replacement at no additional cost to you or the customer. Your proceeds and fees from the original sale will be unaffected. Replacements will not be available for change of mind Return. For more information, go to FBA Customer Returns Policy. New program policy for the Business Credit Account service Effective 5 January 2026, we are launching the Busi",
-          "id": ""
+          "summary": "Effective 17 March 2026, we are launching Customer Service by Amazon. Under this optional paid program, Amazon can provide customer service on your eligible seller‑fulfil orders. We will direct customer contacts for these orders to Amazon Customer Service so that you do not need to handle them yourself. Customer Service by Amazon follows standard Amazon return policy for handling customer contacts. To learn more about the program, go to the Customer Service by Amazon Program Policy and the Customer Service by Amazon Reimbursement Program Policy. Update to the FBA Customer Returns Policy Effective 29 January 2026, we are updating the FBA Customer Returns Policy to allow for FBA replacements. With this change, customers will be able to select to receive a replacement instead of a refund if you have the same item in stock. We’ll ship the replacement at no additional cost to you or the customer. Your proceeds and fees from the original sale will be unaffected. Replacements will not be available for change of mind Return. For more information, go to FBA Customer Returns Policy. New program policy for the Business Credit Account service Effective 5 January 2026, we are launching the Business Credit Account (BCA) service for Amazon Business customers. This program helps seller, at no additional cost, access Amazon Business customers that would like to pay via invoice. Under BCA, Amazon will issue a payment request to Amazon Business customers on your behalf and will manage collectio",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Customer Service by Amazon 计划新政策",
+          "summary_zh": "自 2026 年 3 月 17 日起，我们将推出 Customer Service by Amazon。在该可选付费计划下，亚马逊可以为您符合条件的卖家自配送订单提供客户服务。我们将把这些订单的买家联系引导至亚马逊客户服务，以便您无需自行处理。Customer Service by Amazon 在处理买家联系时遵循亚马逊标准退货政策。如需了解有关该计划的更多信息，请前往 Customer Service by Amazon 计划政策和 Customer Service by Amazon 赔偿计划政策。FBA 买家退货政策更新 自 2026 年 1 月 29 日起，我们将更新 FBA 买家退货政策，以允许 FBA 换货。通过此变更，如果您有相同商品库存，买家将可以选择获得换货而非退款。我们将配送换货商品，且不会向您或买家收取额外费用"
         },
         {
           "headline": "Update to the FBA Customer Returns Policy",
           "date": "29 January 2026",
           "date_iso": "2026-01-29",
-          "summary": "Effective 29 January 2026, we are updating the FBA Customer Returns Policy to allow for FBA replacements. With this change, customers will be able to select to receive a replacement instead of a refund if you have the same item in stock. We’ll ship the replacement at no additional cost to you or the customer. Your proceeds and fees from the original sale will be unaffected. Replacements will not be available for change of mind Return. For more information, go to FBA Customer Returns Policy. New program policy for the Business Credit Account service Effective 5 January 2026, we are launching the Business Credit Account (BCA) service for Amazon Business customers. This program helps seller, at no additional cost, access Amazon Business customers that would like to pay via invoice. Under BCA, Amazon will issue a payment request to Amazon Business customers on your behalf and will manage collections. These proceeds will be disbursed to your selling account no later than 30 calendar days after the order date. Please note this disbursement period may be longer than your regular orders. For more information, go to Business Credit Account Program Policy. Note: Business Credit Account was f",
-          "id": ""
+          "summary": "Effective 29 January 2026, we are updating the FBA Customer Returns Policy to allow for FBA replacements. With this change, customers will be able to select to receive a replacement instead of a refund if you have the same item in stock. We’ll ship the replacement at no additional cost to you or the customer. Your proceeds and fees from the original sale will be unaffected. Replacements will not be available for change of mind Return. For more information, go to FBA Customer Returns Policy. New program policy for the Business Credit Account service Effective 5 January 2026, we are launching the Business Credit Account (BCA) service for Amazon Business customers. This program helps seller, at no additional cost, access Amazon Business customers that would like to pay via invoice. Under BCA, Amazon will issue a payment request to Amazon Business customers on your behalf and will manage collections. These proceeds will be disbursed to your selling account no later than 30 calendar days after the order date. Please note this disbursement period may be longer than your regular orders. For more information, go to Business Credit Account Program Policy. Note: Business Credit Account was formerly known as Pay By Invoice. Changes to program policies 2025 Listed below are upcoming changes to Amazon’s program policies. Update to Amazon Easy Ship program policy We have updated the Amazon Easy Ship (AES) program policy to reflect that you now have the ability to unenrol specific Fulfilled",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "FBA 买家退货政策更新",
+          "summary_zh": "自 2026 年 1 月 29 日起，我们将更新 FBA 买家退货政策，以支持 FBA 换货。通过此变更，如果您有相同商品库存，买家将可以选择获得换货而非退款。我们将为您或买家免费配送换货商品。您原始销售的收益和费用将不受影响。因改变主意而发起的退货将不提供换货。如需了解更多信息，请前往 FBA 买家退货政策。"
         },
         {
           "headline": "New program policy for the Business Credit Account service",
           "date": "5 January 2026",
           "date_iso": "2026-01-05",
-          "summary": "Effective 5 January 2026, we are launching the Business Credit Account (BCA) service for Amazon Business customers. This program helps seller, at no additional cost, access Amazon Business customers that would like to pay via invoice. Under BCA, Amazon will issue a payment request to Amazon Business customers on your behalf and will manage collections. These proceeds will be disbursed to your selling account no later than 30 calendar days after the order date. Please note this disbursement period may be longer than your regular orders. For more information, go to Business Credit Account Program Policy. Note: Business Credit Account was formerly known as Pay By Invoice. Changes to program policies 2025 Listed below are upcoming changes to Amazon’s program policies. Update to Amazon Easy Ship program policy We have updated the Amazon Easy Ship (AES) program policy to reflect that you now have the ability to unenrol specific Fulfilled by Merchant products from the AES service at any time. For more information, go to Amazon Easy Ship (AES) program policy. Update to the FBA inventory reimbursement program policy Effective October 15 2025, we are updating the FBA inventory reimbursement ",
-          "id": ""
+          "summary": "Effective 5 January 2026, we are launching the Business Credit Account (BCA) service for Amazon Business customers. This program helps seller, at no additional cost, access Amazon Business customers that would like to pay via invoice. Under BCA, Amazon will issue a payment request to Amazon Business customers on your behalf and will manage collections. These proceeds will be disbursed to your selling account no later than 30 calendar days after the order date. Please note this disbursement period may be longer than your regular orders. For more information, go to Business Credit Account Program Policy. Note: Business Credit Account was formerly known as Pay By Invoice. Changes to program policies 2025 Listed below are upcoming changes to Amazon’s program policies. Update to Amazon Easy Ship program policy We have updated the Amazon Easy Ship (AES) program policy to reflect that you now have the ability to unenrol specific Fulfilled by Merchant products from the AES service at any time. For more information, go to Amazon Easy Ship (AES) program policy. Update to the FBA inventory reimbursement program policy Effective October 15 2025, we are updating the FBA inventory reimbursement program policy to reflect new eligibility windows for reimbursement claims for fulfilment centre operations, removals and customer returns. In some cases, these new windows are reduced but still provide you with ample time to research and file a claim and ensure that any outstanding issues are resol",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "商业信用账户服务的新计划政策",
+          "summary_zh": "自 2026 年 1 月 5 日起，我们将为 Amazon Business 买家推出商业信用账户（BCA）服务。该计划帮助卖家在不产生额外费用的情况下，触达希望通过发票付款的 Amazon Business 买家。在 BCA 下，亚马逊将代表您向 Amazon Business 买家发出付款请求，并管理收款。这些款项将在订单日期后 30 个日历日内发放至您的卖家账户。请注意，此发放周期可能长于您的常规订单。如需了解更多信息，请前往商业信用账户计划政策。注意：商业信用账户原名为 Pay By Invoice。"
         },
         {
           "headline": "Update to the Amazon Easy Ship fee schedule",
           "date": "7 June 2022",
           "date_iso": "2022-06-07",
-          "summary": "Effective 7 June, 2022, the Amazon Easy Ship fee structure will be updated. The revised fees are set out below, based on the weight and dimensions of the consignment. Unless otherwise stated, all fees are in Australian Dollars (AUD) and do not include applicable taxes, such as GST. Amazon Easy Ship fee Maximum consignment weight (kg)\tFee/Consignment <=0.5\t$5.55 <=1\t$7.66 <=3\t$8.71 <=5\t$9.86 <=10\t$11.30",
-          "id": ""
+          "summary": "Effective 7 June, 2022, the Amazon Easy Ship fee structure will be updated. The revised fees are set out below, based on the weight and dimensions of the consignment. Unless otherwise stated, all fees are in Australian Dollars (AUD) and do not include applicable taxes, such as GST. Amazon Easy Ship fee Maximum consignment weight (kg)\tFee/Consignment <=0.5\t$5.55 <=1\t$7.66 <=3\t$8.71 <=5\t$9.86 <=10\t$11.30 <=15\t$11.86 <=20\t$12.45",
+          "id": "",
+          "zh_native": false,
+          "headline_zh": "Amazon Easy Ship 费用表更新",
+          "summary_zh": "自 2022 年 6 月 7 日起，Amazon Easy Ship 费用结构将更新。修订后的费用如下所示，基于货件的重量和尺寸。除非另有说明，所有费用均以澳元（AUD）计价，且不包含适用税费，例如 GST。Amazon Easy Ship 费用 最大货件重量（kg）\t费用/货件 <=0.5\t$5.55 <=1\t$7.66 <=3\t$8.71 <=5\t$9.86 <=10\t$11.30 <=15\t$11.86 <=20\t$12.45"
         }
       ],
       "raw": "data/raw/2026-09-14/AU.txt"
     }
-  }
+  },
+  "translated_at": "2026-09-14T23:57:14+0800",
+  "translate_failed": 0
 }
