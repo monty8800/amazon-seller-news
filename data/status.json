@@ -1,0 +1,45 @@
+{
+  "started_at": "2026-09-14T20:34:15.924693+08:00",
+  "ready": true,
+  "sites": {
+    "US": {
+      "ok": true,
+      "count": 10,
+      "error": null,
+      "stale": false
+    },
+    "JP": {
+      "ok": true,
+      "count": 10,
+      "error": null,
+      "stale": false
+    },
+    "AE": {
+      "ok": true,
+      "count": 10,
+      "error": null,
+      "stale": false
+    },
+    "UK": {
+      "ok": true,
+      "count": 7,
+      "error": null,
+      "stale": false
+    },
+    "DE": {
+      "ok": false,
+      "count": 0,
+      "error": "页面上未找到政策变更条目",
+      "stale": false
+    },
+    "AU": {
+      "ok": true,
+      "count": 7,
+      "error": null,
+      "stale": false
+    }
+  },
+  "finished_at": "2026-09-14T20:35:48.107714+08:00",
+  "ok_sites": 5,
+  "total_sites": 6
+}
